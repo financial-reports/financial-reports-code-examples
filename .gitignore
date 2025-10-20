@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env
+
+# Secrets - NEVER commit these
+*.env
+.env.*
+secrets.yml
+
+# IDE specific
+.vscode/
+.idea/
+
+# OS-specific
+.DS_Store
+Thumbs.db
