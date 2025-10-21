@@ -1,0 +1,6319 @@
+### **Data Records**
+
+#### **Context Definitions**
+
+*   `549300BV85TFYXK2Y6352024-07-012025-06-30iso4217:USD`
+*   `549300BV85TFYXK2Y6352023-07-012024-06-30iso4217:USD`
+*   `xbrli:shares`
+*   `549300BV85TFYXK2Y6352025-06-30`
+*   `549300BV85TFYXK2Y6352024-06-30`
+
+#### **As of 2023-07-01**
+
+*   `549300BV85TFYXK2Y6352023-07-01ifrs-full:IssuedCapitalMember`
+*   `549300BV85TFYXK2Y6352023-07-01ifrs-full:SharePremiumMember`
+*   `549300BV85TFYXK2Y6352023-07-01ifrs-full:MergerReserveMember`
+*   `549300BV85TFYXK2Y6352023-07-01ifrs-full:TreasurySharesMember`
+*   `549300BV85TFYXK2Y6352023-07-01cityoflondon:ShareOptionReserveMember`
+*   `549300BV85TFYXK2Y6352023-07-01cityoflondon:EIPShareReserveMember`
+*   `549300BV85TFYXK2Y6352023-07-01ifrs-full:ReserveOfExchangeDifferencesOnTranslationMember`
+*   `549300BV85TFYXK2Y6352023-07-01ifrs-full:CapitalRedemptionReserveMember`
+*   `549300BV85TFYXK2Y6352023-07-01ifrs-full:RetainedEarningsMember`
+*   `549300BV85TFYXK2Y6352023-07-01`
+
+#### **Period: 2023-07-01 to 2024-06-30**
+
+*   `549300BV85TFYXK2Y6352023-07-012024-06-30ifrs-full:IssuedCapitalMember`
+*   `549300BV85TFYXK2Y6352023-07-012024-06-30ifrs-full:SharePremiumMember`
+*   `549300BV85TFYXK2Y6352023-07-012024-06-30ifrs-full:MergerReserveMember`
+*   `549300BV85TFYXK2Y6352023-07-012024-06-30ifrs-full:TreasurySharesMember`
+*   `549300BV85TFYXK2Y6352023-07-012024-06-30cityoflondon:ShareOptionReserveMember`
+*   `549300BV85TFYXK2Y6352023-07-012024-06-30cityoflondon:EIPShareReserveMember`
+*   `549300BV85TFYXK2Y6352023-07-012024-06-30ifrs-full:ReserveOfExchangeDifferencesOnTranslationMember`
+*   `549300BV85TFYXK2Y6352023-07-012024-06-30ifrs-full:CapitalRedemptionReserveMember`
+*   `549300BV85TFYXK2Y6352023-07-012024-06-30ifrs-full:RetainedEarningsMember`
+*   `549300BV85TFYXK2Y6352023-07-012024-06-30ifrs-full:NoncontrollingInterestsMember`
+*   `549300BV85TFYXK2Y6352023-07-012024-06-30ifrs-full:EquityAttributableToOwnersOfParentMember`
+
+#### **As of 2024-06-30**
+
+*   `549300BV85TFYXK2Y6352024-06-30ifrs-full:IssuedCapitalMember`
+*   `549300BV85TFYXK2Y6352024-06-30ifrs-full:SharePremiumMember`
+*   `549300BV85TFYXK2Y6352024-06-30ifrs-full:MergerReserveMember`
+*   `549300BV85TFYXK2Y6352024-06-30ifrs-full:TreasurySharesMember`
+*   `549300BV85TFYXK2Y6352024-06-30cityoflondon:ShareOptionReserveMember`
+*   `549300BV85TFYXK2Y6352024-06-30cityoflondon:EIPShareReserveMember`
+*   `549300BV85TFYXK2Y6352024-06-30ifrs-full:ReserveOfExchangeDifferencesOnTranslationMember`
+*   `549300BV85TFYXK2Y6352024-06-30ifrs-full:CapitalRedemptionReserveMember`
+*   `549300BV85TFYXK2Y6352024-06-30ifrs-full:RetainedEarningsMember`
+
+#### **Period: 2024-07-01 to 2025-06-30**
+
+*   `549300BV85TFYXK2Y6352024-07-012025-06-30ifrs-full:IssuedCapitalMember`
+*   `549300BV85TFYXK2Y6352024-07-012025-06-30ifrs-full:SharePremiumMember`
+*   `549300BV85TFYXK2Y6352024-07-012025-06-30ifrs-full:MergerReserveMember`
+*   `549300BV85TFYXK2Y6352024-07-012025-06-30ifrs-full:TreasurySharesMember`
+*   `549300BV85TFYXK2Y6352024-07-012025-06-30cityoflondon:ShareOptionReserveMember`
+*   `549300BV85TFYXK2Y6352024-07-012025-06-30cityoflondon:EIPShareReserveMember`
+*   `549300BV85TFYXK2Y6352024-07-012025-06-30ifrs-full:ReserveOfExchangeDifferencesOnTranslationMember`
+*   `549300BV85TFYXK2Y6352024-07-012025-06-30ifrs-full:CapitalRedemptionReserveMember`
+*   `549300BV85TFYXK2Y6352024-07-012025-06-30ifrs-full:RetainedEarningsMember`
+*   `549300BV85TFYXK2Y6352024-07-012025-06-30ifrs-full:NoncontrollingInterestsMember`
+*   `549300BV85TFYXK2Y6352024-07-012025-06-30ifrs-full:EquityAttributableToOwnersOfParentMember`
+
+#### **As of 2025-06-30**
+
+*   `549300BV85TFYXK2Y6352025-06-30ifrs-full:IssuedCapitalMember`
+*   `549300BV85TFYXK2Y6352025-06-30ifrs-full:SharePremiumMember`
+*   `549300BV85TFYXK2Y6352025-06-30ifrs-full:MergerReserveMember`
+*   `549300BV85TFYXK2Y6352025-06-30ifrs-full:TreasurySharesMember`
+*   `549300BV85TFYXK2Y6352025-06-30cityoflondon:ShareOptionReserveMember`
+*   `549300BV85TFYXK2Y6352025-06-30cityoflondon:EIPShareReserveMember`
+*   `549300BV85TFYXK2Y6352025-06-30ifrs-full:ReserveOfExchangeDifferencesOnTranslationMember`
+*   `549300BV85TFYXK2Y6352025-06-30ifrs-full:CapitalRedemptionReserveMember`
+*   `549300BV85TFYXK2Y6352025-06-30ifrs-full:RetainedEarningsMember`
+
+---
+
+`2023-06-30`
+
+# ANNUAL REPORT & ACCOUNTS 2024 /2025
+
+[www.clig.co.uk](https://www.clig.co.uk)
+
+City of London Investment Group PLC (CLIG) is an established asset management group listed on the London Stock Exchange, consisting of two wholly owned subsidiaries, City of London Investment Management Company Limited and Karpus Investment Management.
+
+asset management group listed on the London Stock Exchange, consisting of two wholly owned subsidiaries, City of London Investment Management Company Limited and Karpus Investment Management. City of London Investment Management Company Limited (CLIM) has deep expertise in Emerging Markets, International investing, Listed Private Equity, Opportunistic Value and Frontier strategies. CLIM manages money primarily for institutional clients. Karpus Investment Management (KIM) provides investment strategies across all asset classes, primarily to wealth management clients in the United States.
+
+**City of London Investment Group PLC Annual Report 2024/2025** `1`
+
+***
+
+# CONTENTS
+
+### Overview
+*   Financial highlights `2`
+*   At a glance `4`
+
+### Strategic report
+*   Chair’s statement `5`
+*   Investment and business review `10`
+*   Our business model `15`
+*   Our strategy and objectives `18`
+*   Key performance indicators `20`
+*   Financial review `26`
+*   Section 172 (1) Statement and Stakeholder Engagement `30`
+*   Corporate and social responsibility policy `33`
+*   Task Force on Climate-Related Financial Disclosures `36`
+*   Risk management `41`
+
+### Governance
+*   Chair’s introduction `44`
+*   Board of Directors `46`
+*   Corporate governance report `47`
+*   Nomination Committee report `53`
+*   Audit & Risk Committee report `58`
+*   Remuneration Committee report `62`
+*   Annual Report on Remuneration `64`
+*   Directors’ Remuneration Policy `74`
+*   Directors’ report `81`
+*   Statement of Directors’ responsibilities `84`
+
+### Financial statements
+*   Independent auditor’s report `86`
+*   Consolidated income statement `96`
+*   Consolidated and Company statement of comprehensive income `96`
+*   Consolidated and Company statement of financial position `97`
+*   Consolidated statement of changes in equity `98`
+*   Company statement of changes in equity `99`
+*   Consolidated and Company cash flow statement `100`
+*   Notes to the financial statements `101`
+
+### Shareholder information
+*   Notice of Annual General Meeting `129`
+*   Explanatory notes to the Notice of AGM `132`
+*   Further notes `136`
+*   Appendix: Summary of principal terms of the City of London Investment Group PLC Long Term Incentive Plan (the “LTIP”) `139`
+*   Company information `142`
+
+***
+Overview | Strategic report | Financial statements | Shareholder information | Governance
+***
+
+## Overview
+
+**City of London Investment Group PLC Annual Report 2024/2025** `2`
+
+# FINANCIAL HIGHLIGHTS
+
+### Overview
+
+*   Funds under Management (FuM) of $10.8 billion at 30th June 2025. This compares with $10.2 billion at the beginning of this financial year on 1st July 2024
+*   Net fee income was $69.8 million (2024: $66.2 million)
+*   Underlying profit before tax † was $30.8 million (2024: $27.2 million). Profit before tax was $26.0 million (2024: $22.6 million)
+*   Underlying earnings per share † were 36.7p (2024: 33.5p). Basic earnings per share were 30.9p (2024: 27.8p) after an effective tax charge of 24% (2024: 24%) of profit before taxation
+*   Recommended final dividend of 22p per share (2024: 22p) payable on 6th November 2025 to shareholders on the register on 26th September 2025, making a total for the year of 33p (2024: 33p)
+
+### Funds under Management $bn
+*As at period ended:*
+
+| Year | FuM ($bn) |
+| :--- | :--- |
+| June 2021 | 11.4 |
+| June 2022 | 9.2 |
+| June 2023 | 9.4 |
+| June 2024 | 10.2 |
+| June 2025 | 10.8 |
+
+*Average FuM\**:
+*\* Calculated using average monthly FuM.*
+
+***
+
+**City of London Investment Group PLC Annual Report 2024/2025** `3`
+
+*\* Comparative period results have been restated to US dollars using the average exchange rates in the relevant period.*
+*† This is an Alternative Performance Measure (APM). Please refer to page 26 for details of APMs.*
+
+***
+
+### Net fee income $m
+```
+13.4 27.0
+13.9 27.2
+18.1 36.5
+17.3 33.5
+22.0 33.0
+22.0 33.0
+15.2 30.2
+14.4 27.8
+33.6 65.5
+33.6 66.2
+```
+
+### Profit before tax $m
+```
+11.1 22.1
+11.5 22.6
+16.0 37.1
+19.7 44.2
+15.4 36.9
+36.8 77.4
+41.1 18.4
+12.4 18.5
+11.0 11.1
+13.4 26.0
+12.6 11.7
+```
+
+### Underlying profit before tax † $m
+```
+21.7 15.0
+21.5 13.4
+16.2 30.9
+14.7 17.7
+21.4 13.6
+21.1 14.8
+```
+
+### Basic earnings per share † pence
+```
+40.6 31.9
+32.6 34.5
+35.3 29.9
+24.3 18.4
+24.5 23.8
+```
+
+### Underlying earnings per share † pence
+```
+39.4 30.1
+30.9 71.0
+36.2 48.1
+22.0 13.5
+22.0 11.0
+11.0 13.3
+15.6 30.8
+15.2 16.2
+```
+***
+Strategic report | Financial statements | Shareholder information | Governance | Overview
+***
+
+### **profit before tax † $m**
+
+| Year | First half year | Second half year |
+| :--- | :--- | :--- |
+| June 2021* | $21.2m | $22.8m |
+| June 2022* | $18.2m | $17.2m |
+| June 2023* | $38.4m | $16.9m |
+| June 2024 | $35.1m | $19.0m |
+| June 2025 | $22.1m | $19.1m |
+
+*Note: The above table is an interpretation of the provided data, which includes the following number sequences: `21.2 18.2 38.4 35.1 22.1` and `44.9 33.9 22.8 17.2 16.9` and `21.1 40.1 19.0 19.1`. The text also contains the labels "First half year" and "Second half year".*
+
+### **Full Year Financials**
+
+| Metric | June 2021* | June 2022* | June 2023* | June 2024 | June 2025 |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **profit before tax † $m** | 39.4 | 30.1 | 30.9 | 71.0 | 36.2 |
+| **Basic earnings per share † pence** | 24.3 | 24.5 | 18.4 | 23.8 | 48.1 |
+| **Underlying earnings per share † pence** | 22.0 | 22.0 | 13.5 | 11.0 | 11.0 |
+| **Basic earnings per share cents** | 53.0 | 40.1¢ | 36.7p | 69.8 | 33.0p |
+
+### **Dividends paid and proposed per share (pence)**
+
+| Year | Interim | Final | Special | **Total** |
+| :--- | :--- | :--- | :--- | :--- |
+| **June 2021*** | 11.0 | 22.0 | - | **33.0** |
+| **June 2022*** | 11.0 | 22.0 | 13.5 | **46.5** |
+| **June 2023*** | 11.0 | 22.0 | - | **33.0** |
+| **June 2024** | 11.0 | | | |
+| **June 2025** | 11.0 | | | |
+
+---
+
+### **Uncategorized Data Points**
+The following data points were present in the source document without clear labels:
+*   `13.3 15.6 30.8 15.2 16.2 18.9 36.7 17.8`
+*   `$69.8m`
+*   `30.9p`
+*   `$26.0m`
+*   `$30.8m`
+
+---
+
+# **AT A GLANCE**
+
+*Overview 4 City of London Investment Group PLC Annual Report 2024/2025*
+
+**City of London Investment Group PLC (CLIG)** is an established asset management group listed on the London Stock Exchange, consisting of two wholly owned subsidiaries, City of London Investment Management Company Limited and Karpus Investment Management.
+
+*   **CLIG $10.8b FuM**
+    *   **City of London Investment Management Company Limited (CLIM)**
+        *   *CLIM $6.8b FuM*
+        *   CLIM has deep expertise in Emerging Markets, International investing, Listed Private Equity, Opportunistic Value and Frontier strategies. CLIM manages money primarily for institutional clients.
+    *   **Karpus Investment Management (KIM)**
+        *   *KIM $4.0b FuM*
+        *   Karpus Investment Management (KIM) provides investment strategies across all asset classes, primarily to wealth management clients in the United States.
+
+*City of London Investment Group PLC Annual Report 2024/2025 5*
+
+---
+
+# **CHAIR’S STATEMENT**
+
+## **Strategic report**
+
+> “The future depends on what you do today”
+>
+> *Mahatma Gandhi*
+
+You wait ages for a bus and then three turn up at the same time. In 2025, our teams’ preparation and positioning paid off as Closed-End Funds (CEF) discounts narrowed, there was a renewed interest in international and emerging markets, and many currencies strengthened against the dollar. The final positive contributor was success in our corporate governance efforts as CEF Boards worked with us and acted to reduce discounts. It was a good year for CLIG, led by the success and talent of our investment teams who generated substantial gains and outperformed their benchmarks for our clients.
+
+CLIG is an investment-led company with an integrated global investment team focused on building diversified portfolios of high quality, but discounted and often misunderstood securities, including CEFs. By concentrating on niche and underfollowed securities, we aim to exploit persistent market inefficiencies that often go unnoticed by others. Our investment approach is research-driven, combining quantitative techniques with in-depth qualitative analysis.
+
+Our global presence enables a continuous investment process that capitalises on opportunities around the clock. Our day begins in Singapore, where our team identifies dislocations in Asian markets while many competitors are asleep. The portfolio is then handed over to our London team, which focuses on opportunities in the UK and European markets. Finally, the US team takes over, continuing the cycle across North American markets. This seamless global collaboration enhances diversification and ensures we are positioned to act swiftly to capitalise on dislocations and evolving market dynamics.
+
+### **Well-resourced teams, a stable environment, consistent processes – and no stars**
+
+Throughout my career, I’ve learned the value of a contrarian and supportive mindset in managing investment teams. Many managers are procyclical, spending more in good times and slashing budgets in downturns. To avoid this, CLIG maintains a conservative balance sheet with substantial cash and no debt. Discounts in CEFs are often widest in hard times. It is essential that we support our teams and lend a hand, but particularly so
+
+a conservative balance sheet with substantial cash and no debt. Discounts in CEFs are often widest in hard times. It is essential that we support our teams and lend a hand, but particularly so when markets are down. This calm and methodical orientation is key to our investment teams having the composure to invest with conviction when opportunities present themselves. CLIG remains focused on empowering and equipping our teams and providing a stable environment to allow them to execute consistently for our clients.
+
+> “Teamwork, preparation and patience: our key focus is on performing for our clients. When our clients win, we all win.”
+>
+> **Rian Dartnell**
+
+**Chair Overview** | **Financial statements** | **Shareholder information** | **Governance** | **Strategic report**
+***
+
+**+9.6% Underlying EPS**  
+Underlying* earnings per share for CLIG were higher by 9.6% at 36.7p (2024: 33.5p).
+
+**+5.6% FuM**  
+FuM as of 30th June 2025 rose by 5.6% to $10.8 billion (2024: $10.2 billion).
+
+**1.21 Dividend cover**  
+Rolling five-year dividend cover based on underlying* profits is 1.21 (2024: 1.24).
+
+**11.3% Total return**  
+CLIG’s total return since 2006 is an annualised return of 11.3%.
+
+**520.1p † Total dividend**  
+Since listing, CLIG has distributed total dividends of 520.1p † per share.
+
+---
+\* Refer to page 26 for the financial review.  
+† Includes proposed dividend of 22p.
+***
+**6** City of London Investment Group PLC Annual Report 2024/2025
+***
+
+Our desire to learn and grow leads us to innovate and expand our expertise as we have for more than three decades. For CLIM, our roots are in Emerging Markets, but today we manage large mandates in International, Listed Private Equity and Opportunistic Value on behalf of predominantly US institutional clients. At KIM, we have an array of strong offerings including Growth and Conservative Balanced, Taxable and Tax-sensitive Fixed Income, Cash Management and Equities. Together CLIM provides compelling offerings for our clients to compound their capital in equity markets and KIM provides chiefly lower risk offerings ideally suited to its private client base. We carefully monitor our capacity constrained investment products and know that our long-term performance for clients is our central purpose. Rest assured we will maintain stability of assets with a strict view on our ability to outperform.
+
+### Happy fifth anniversary! Our dream merger with Karpus Investment Management
+
+Before delving into developments at your Company over the past year, I would like to celebrate our five-year anniversary of merging with Karpus Investment Management. By combining, CLIG gained an excellent business, a talented new team with complementary skills, all contributing strong cash flows, greater stability, diversification and new learnings. George Karpus had a dream as an entrepreneur and in 1986 embarked on his lifetime’s passion. In 1991, City of London Investment Group was established. Our teams pursued and fulfilled their dreams – growing the firms and providing strong returns for clients. Five years into our relationship, I can say with confidence that our CLIM and KIM merger made good sense and added considerable expertise and value to CLIG. We draw confidence from this successful integration.*
+
+During the year, Mike Edmonds was appointed Chief Investment Officer of CLIM. A highly accomplished investor and City of London veteran, Mike first began his career with the Group in 1992. He brings deep investment expertise, creativity, and an engaging intellectual curiosity – qualities that complement his strong collaborative relationships across our Investment, Research, and Macroeconomic groups. The team is energised with a renewed sense of purpose – using new tools and greater outreach to improve investment processes and challenging old practices to find better ones. Dan Lippincott, Chief Investment Officer at KIM, continues to work very productively with his team and morale is high, boosted by strong performance.
+
+### Environmental, Social and Governance
+
+Your Board continues to be committed to the highest standards in
+
+to work very productively with his team and morale is high, boosted by strong performance.
+
+## Environmental, Social and Governance
+
+Your Board continues to be committed to the highest standards in environmental, social and governance matters. The Group continues to implement a carbon offset program to address our impact related to travel and other activities. We continually balance the interests of our clients, employees and shareholders and seek to improve and grow the Company. Diversity, equity and inclusion continue to be emphasised across the Group. All employees attend regular monthly training programs to prepare and remind them of their role in protecting our technology, with an elevated focus on cybersecurity. The Group continues to be strongly committed to regular workforce engagement events. These sessions ensure the Non-Executive Directors (NEDs) maintain a good understanding of the many elements at play in the Group as well as the teams and individuals working to grow and improve the business. Workforce engagement with the Board has been more frequent over the past six months as we increased focus on growth initiatives as well as streamlining for efficiency gains.
+
+---
+
+**CHAIR’S STATEMENT CONTINUED** \
+*Strategic report*
+
+*\* Paragraph revised on 22nd September 2025.*
+
+**City of London Investment Group PLC Annual Report 2024/2025** **7**
+
+---
+
+## Broadening leadership, stimulating engagement and empowering our teams
+
+A fresh start is energising our teams. There’s a renewed sense of purpose and momentum is building. We are challenging old methods to find greater efficiencies.
+
+> “The measure of intelligence is the ability to change”
+>
+> — Albert Einstein
+
+We are broadening our management structure with more members of our subsidiary Boards at CLIM and KIM and underlining the importance of robust debate and engagement in CLIM and KIM Operating Committees. Innovation and adaptability to change are more important than ever and this happens best from the grass roots. Your management and the Board have embarked upon a review of our business practices to identify more areas of efficiencies and to ensure we are improving with the latest techniques available. We are giving our teams greater say in designing workflows and pushing decision making to the “coal-face” where more informed decisions can be made – more management by objective and more trust. We are confident in our excellent teams and feel greater autonomy will unleash creativity and enhance engagement. This will allow teams to spend even more of their time and resources on our core functions: investment management and client services.
+
+## Your Board
+
+Your Board is operating well and is keenly focused on providing the necessary elements to support CLIG for continued success. I began my role as Chairman in October 2023. One of my first activities was to work with our Nomination Committee to identify an excellent addition to our Board. Sarah Ing joined us a few months later and became Chair of the Remuneration Committee at the end of 2024. Peter Roth, who joined in 2019, continues his excellent work as Senior Independent Director as well as Chair of the Audit and Risk Committee. Peter is deeply committed to the Group’s success and he was particularly hard-working and effective this year. Finally, we were pleased to identify Ben Stocks and welcome him to our Board in April 2025 and appoint him as Chair of our Nomination Committee in July. Ben hit the ground running and is already making important contributions. The Board is currently well-balanced with members possessing a good mix of skills and perspectives. We will also begin a search for another NED to add diversity and longevity to the Board. We expect to appoint this new NED after our new CEO joins. Having completed my second year as Chairman, I am standing for another year to complete a three-year term. Our largest shareholders, including our Control Shareholder Group, requested that I continue to serve as Chairman, particularly in this period in which we are
+
+year to complete a three-year term. Our largest shareholders, including our Control Shareholder Group, requested that I continue to serve as Chairman, particularly in this period in which we are selecting a new CEO. In July, Tom Griffith became a Senior Advisor and stepped down from his role as CEO. On behalf of our employees and the Board, I would like to thank Tom for his dedication to the Group. He remains a cherished friend of the firm and the team looks forward to maintaining a close relationship with Tom in the years to come. Our activities to identify our new CEO are advancing well and we have considerable interest from candidates for this exciting role. We are seeking a leader who shares our investment philosophy and passion for supporting our teams to deliver outstanding results for our clients. The ideal candidate will bring an investor’s mindset, a “can-do” and empowering management style, and the drive and commercial acumen to propel our firm to the next level.
+
+---
+*Overview Financial statements Shareholder informationGovernanceStrategic report*
+## CHAIR’S STATEMENT CONTINUED
+*8 City of London Investment Group PLC Annual Report 2024/2025 Strategic report*
+---
+
+### Dividend
+
+CLIG went public in 2006 at a price of 184.6p per share and your Company paid its first dividend of 8.6p per share in January 2007. It is gratifying to note that we have raised the dividend eight times to its current 33p per share. Since our listing, we have distributed back to shareholders a total of 520.1p† per share in dividends or 2.8 times our original 2006 share price.
+
+We recommend a maintained final dividend of 22p per share, payable as of 6th November 2025 for shareholders of record on 26th September 2025. Subject to shareholder approval, our annual dividend, including the 11p per share of interim dividend paid in April 2025 will therefore total 33p per share (2024: 33p), providing an attractive yield for our shareholders.
+
+We are maintaining our dividend policy of targeting a 1.2 times dividend cover over a rolling five-year period. The current dividend cover is 1.21 times over five years. We continue to believe that the existing policy will serve the Group well; it has provided a useful structure and discipline for many years. Please refer to Figure 1 for CLIG’s dividend history and our website at [https://clig.com/dividend-cover/](https://clig.com/dividend-cover/) for the dividend cover chart, which provides a template for determining cover based on a number of variables.
+
+CLIG remains debt-free and had cash balances of $35.5 million as of 30th June 2025 (2024: $33.7 million) with the final dividend of 22p per share (c.$14.8 million) to be paid in November 2025. After the dividend is paid, we will continue to have over $20 million of cash on our balance sheet.
+
+### Shareholder engagement
+
+We continue to pursue a transparent dialogue with our shareholders. We plan to continue periodic programs with Investor Meet Company as we have found the platform and format to be an efficient and productive way to engage with shareholders and prospects. I am pleased to report that relations with our Control Shareholder Group have been very constructive and helpful to the Group. We welcome the engagement with all shareholders and find we learn a great deal through these dialogues.
+
+### Share Price KPI
+
+CLIG targets a total return (share price plus dividends) to compound annually in a range of 7.5% to 12.5% over a five-year period. For the five years ended 30th June 2025, the total return was 36.9%, or 6.5% annualised (source, Bloomberg). The environment for UK-listed asset managers has been negative for the past few years for a number of reasons and resulted in a de-rating of our shares while our dividends have been consistent, including periodic special dividends. We are more optimistic that the continued shift of investor interest outside of the United States will boost profitability and that investors will take note of our growth in FuM, profits as well as our increased focus on efficiency. I also note that the
+
+interest outside of the United States will boost profitability and that investors will take note of our growth in FuM, profits as well as our increased focus on efficiency. I also note that the 30th June 2025 share price of £3.46 per share (being the end- date for the reference price) marked a weak moment for CLIG shares. From 30th June to 31st August 2025, the shares have risen 13%, putting CLIG’s share price return at over 9% p.a. for the five- plus years. CLIG’s total return since listing in April 2006 is an annualised return of 11.3%.
+
+### Figure 2. CLIG’s total return since listing in April 2006 v/s UK Small Cap indices (annualised)
+
+*   **Total return since 2006**
+*   **CLIG LN:** 11.3%
+*   **SMX = FTSE Small Cap Index:** 7.1%
+*   **SMXX = FTSE Small Cap ex Inv Trusts:** 6.0%
+*   **ASX= FTSE ALL Share Index:** 6.1%
+
+*Source: Bloomberg*
+
+### Figure 1. Dividend history
+
+| FY | Interim | Final | Total | Dividend cover* (1yr Rolling) | Dividend cover* (5yr) | Special dividend | Total (inc. special dividend) |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2005-06 | 8.6 | – | 8.6 | 1.48 | n/a | | 8.6 |
+| 2006-07 | 3.0 | 7.0 | 10.0 | 1.99 | n/a | | 10.0 |
+| 2007-08 | 6.0 | 13.5 | 19.5 | 1.51 | n/a | | 19.5 |
+| 2008-09 | 5.0 | 10.0 | 15.0 | 1.05 | n/a | | 15.0 |
+| 2009-10 | 7.0 | 15.0 | 22.0 | 1.28 | 1.46 | | 22.0 |
+| 2010-11 | 8.0 | 16.0 | 24.0 | 1.44 | 1.45 | | 24.0 |
+| 2011-12 | 8.0 | 16.0 | 24.0 | 1.40 | 1.34 | | 24.0 |
+| 2012-13 | 8.0 | 16.0 | 24.0 | 1.04 | 1.24 | | 24.0 |
+| 2013-14 | 8.0 | 16.0 | 24.0 | 0.87 | 1.24 | | 24.0 |
+| 2014-15 | 8.0 | 16.0 | 24.0 | 1.10 | 1.17 | | 24.0 |
+| 2015-16 | 8.0 | 16.0 | 24.0 | 0.96 | 1.07 | | 24.0 |
+| 2016-17 | 8.0 | 17.0 | 25.0 | 1.46 | 1.09 | | 25.0 |
+| 2017-18 | 9.0 | 18.0 | 27.0 | 1.47 | 1.17 | | 27.0 |
+| 2018-19 | 9.0 | 18.0 | 27.0 | 1.30 | 1.26 | 13.5 | 40.5 |
+| 2019-20 | 10.0 | 20.0 | 30.0 | 1.28 | 1.29 | | 30.0 |
+| 2020-21 | 11.0 | 22.0 | 33.0 | 1.46 | 1.39 | | 33.0 |
+| 2021-22 | 11.0 | 22.0 | 33.0 | 1.35 | 1.37 | 13.5 | 46.5 |
+| 2022-23 | 11.0 | 22.0 | 33.0 | 1.11 | 1.30 | | 33.0 |
+| 2023-24 | 11.0 | 22.0 | 33.0 | 1.01 | 1.24 | | 33.0 |
+| 2024-25 | 11.0 | 22.0 | 33.0 | 1.12 | 1.21 | | 33.0 |
+| **Total dividend** | | | **520.1** | | | | |
+
+*Proposed dividend*
+*\*Excluding special dividends*
+*Source: CLIG*
+*† Includes proposed dividend of 22p.*
+
+---
+*City of London Investment Group PLC Annual Report 2024/2025* **9**
+
+**Overview | Financial statements | Shareholder information | Governance | Strategic report**
+
+## Outlook
+
+Interest in markets outside the United States returned in force in 2025 and seems set to continue as investors seek out relative value given large segments of the US market appear stretched. This should serve the Group extremely well as Emerging Markets ($3.7 billion) and International ($2.5 billion) remain our largest areas and make up over 57% of client assets. At KIM, the focus on fixed income products and balanced portfolios provides a useful balance to our more volatile equity strategies at CLIM. Our teams truly have the “Right to Win” with highly talented and well-resourced teams, strong track records and dedicated operating and client-servicing teams. I am confident our investment teams are the best in CLIG’s history. It is heartening to observe client wins and new flows into our strategies, but disappointing to see net outflows, particularly in the first half of the financial year. We are focused on client retention and more optimistic that our healthy pipeline will improve flows.
+
+## Annual General Meeting (AGM)
+
+Our Annual General Meeting will take place on Monday, 27th October 2025 at 77 Gracechurch Street, London EC3V 0AS. This year, we will have a session preceding the AGM in which our Chief Investment Officers from CLIM and KIM and members of our Investment Team will present their views and outlook. It is sure to be an interesting update and a good opportunity for you to meet members of our investment team. You are warmly invited and we hope to meet you there.
+
+## Conclusion
+
+Over the past year, your team successfully capitalised on market opportunities by staying true to its team-based approach and disciplined investment process. These efforts resulted in a period of strong performance for our clients. Success generates its own momentum and with the Board’s commitment to empowering and supporting employees, we are laying the groundwork to propel CLIG to the next phase of success. Teamwork, preparation and patience: our key focus is on performing for our clients. When our clients win,
+
+employees, we are laying the groundwork to propel CLIG to the next phase of success. Teamwork, preparation and patience: our key focus is on performing for our clients. When our clients win, we all win. I want to thank our colleagues at CLIG for their focus and dedication. We thank you, our shareholders, for your continued confidence in CLIG.
+
+Sincerely yours,
+
+Rian Dartnell
+Chairman of the Board
+15th September 2025
+
+---
+
+## INVESTMENT AND BUSINESS REVIEW
+
+**10 City of London Investment Group PLC Annual Report 2024/2025**
+
+### Investment Management Performance
+
+It was broadly a favourable environment for CLIM’s investment strategies from a performance perspective and all strategies ended the year ahead of their benchmarks as the table below demonstrates.
+
+**Figure 1: CLIM strategies**
+
+| Strategy | Performance | Benchmark | Difference |
+| :--- | :--- | :--- | :--- |
+| Emerging Markets | +20.3% | +14.8% | +550bps |
+| International Equity | +22.7% | +17.7% | +500bps |
+| Opportunistic Value | +17.5% | +12.8% | +470bps |
+| Listed Private Equity | +16.6% | +8.0% | +860bps |
+
+*\*The above returns are presented as net of fees performance figures. The CLIM Global Emerging Markets Strategy is shown against the S&P Emerging Frontier Super Composite BMI Net TR Index, the CLIM Global Developed CEF International Equity Strategy is shown against the MSCI ACWI ex-US Net TR Index, the CLIM Opportunistic Value Strategy is shown against the Blended 50/50 MSCI AWCI/Bloomberg Global Aggregate Bond Index, and the CLIM Listed Private Equity Strategy is compared to an 8% annual hurdle rate. Data is as of 30th June 2025. Past performance is no guarantee of future results.*
+
+Peer group rankings for our strategies demonstrate that all remain in either the first or second quartile for the most recent five-year periods. We expect this will put us in a strong position to grow as investor appetite for our areas of focus increase.
+
+## Strategic report
+
+### Market overview
+
+The past year represented another risk-on phase of market action. Equity markets globally continued to post stellar returns as many markets set new all-time highs. This represented a broadening out of performance as investors began to diversify away from their seemingly sole focus on the “Magnificent Seven” mega cap companies and the US information technology sector. Artificial intelligence continued to be a major market theme but the focus widened to include emerging markets beneficiaries as well as companies that will benefit from the massive amounts of energy and other natural resources that will be required to fully implement its use in the global economy.
+
+The MSCI ACWI Index, a proxy for global markets, returned 16.7% on a total return basis in US dollar terms. European markets outperformed, rising 19.1%, led by the financial sector as interest rates fell while aerospace and defence companies in particular benefited from Germany’s decision to loosen its fiscal constraints and commit to more military spending.
+
+That is not to say that it was all smooth sailing. In the second half of 2024, equities were boosted by three rate cuts by the US Federal Reserve and euphoria over the election of Donald Trump for a second term as US President in what was assumed to be a relatively strong mandate for a business-friendly agenda. However, there were early signs of policy doubts by February which became panic stricken in April following President Trump’s announcement of “Liberation Day” tariffs. Equities swooned before climbing the proverbial wall of worry for the rest of the first half as deals were cut and the initial headline tariff rates reduced to more palatable, albeit decades high, levels.
+
+Fixed income markets were equally volatile with the US 10 Year Treasury yield oscillating between a high of 4.8% and a low of 3.6% as concerns about inflation levels, economic activity, Federal Reserve independence and US debt levels caused bouts of panic and gloom in fairly equal measure. In the end, the yield ended the period at 4.2%, only a shade lower than the level it entered the year at 4.4%.
+
+The Bloomberg Global Aggregate Index
+
+bouts of panic and gloom in fairly equal measure. In the end, the yield ended the period at 4.2%, only a shade lower than the level it entered the year at 4.4%. The Bloomberg Global Aggregate Index rose 8.9% in US dollar terms. Credit markets were also largely benign and supportive of equity performance as spreads tightened, reflected in a 13.0% gain in the Bloomberg Global High Yield Index. The dollar weakened significantly over the year, in particular against the Euro, which gained more than 10%. This represented a sea change in sentiment which could underpin international diversification in the years ahead if the trend reversal continues. Gold (+42%) and Bitcoin (+74%) also benefited from dollar weakness indicating an investor preference for alternative, non-fiat currency assets.
+
+Looking ahead, investor focus will likely remain on the Trump administration’s policies and how these impact the global economy and the new world order. Dramatic and impactful changes are occurring with trade, resource and industrial policy at the forefront. Interest rate trends, trade negotiations, and geopolitical pressure points will all likely capture headlines in the year ahead. While risks will always persist, the broadening out of asset class performance indicates strong underpinnings for the recent bull market and should support further gains. However, the uncertain and ever-changing environment underlines the importance of active management in navigating an increasingly complex global landscape.
+
+***
+
+*Overview Financial statements Shareholder information Governance*
+**City of London Investment Group PLC Annual Report 2024/2025**
+*11*
+
+***
+
+### Figure 2: KIM strategies
+
+| Strategy | Performance | Benchmark | Difference |
+| :--- | :--- | :--- | :--- |
+| **Growth Balanced** | +12.7% | +12.2% | +55bps |
+| **Conservative Balanced** | +9.2% | +10.1% | -87bps |
+| **Tax-Sensitive Fixed Income** | +3.2% | +1.1% | +207bps |
+| **Taxable Fixed Income** | +7.4% | +5.9% | +150bps |
+| **Cash Management** | +6.0% | +5.7% | +29bps |
+| **Equities** | +16.8% | +16.3% | +46bps |
+
+\*The KIM Fixed Income Strategy is shown against the Bloomberg Government/Credit Bond Index, the KIM Tax-Sensitive Fixed Income Strategy is shown against the Bloomberg Municipal Bond Index, the KIM Growth Balanced Strategy is shown against the Blended 40% Bloomberg Government/Credit Bond Index/39% Russell 3000 Index/21% MSCI ACWI ex USA Net TR Index. The KIM Conservative Balanced Strategy is shown against the Blended 60% Bloomberg Government/Credit Bond Index/26% Russell 3000 Index/14% MSCI ACWI ex USA Net TR Index. The KIM Equities Strategy is shown against the Blended 65% Russell 3000 Index/35% MSCI ACWI ex USA Net TR Index. The KIM Cash Management Strategy is shown against the ICE BofA 1-3 Year US Treasury Index.
+
+Firstly, our strategies have benefited from an improved environment for corporate governance. The last few years since 2022 have been characterised by a period of wide discounts among the universe of closed-end funds (CEFs) in which CLIM primarily sources investments. This has been particularly pronounced in the UK market where outflows from institutional and retail investors alike had resulted in depressed ratings. Such ratings allowed CLIM to accumulate positions at deeply valued price points and to work with Boards to take measures to address discounts. Among other factors, these engagements helped provide the catalyst for broad-based actions by Boards to narrow discounts on funds held in portfolios. Such event-driven actions included elevated levels of share buybacks, tender offers, mergers, restructurings and, in extreme cases, outright liquidations. CLIM’s strategies benefited accordingly.
+
+Secondly, heightened market volatility, particularly since the election of President Trump in late 2024, has provided additional opportunities to benefit from discount volatility, as well as market rotation, as countries, sectors, size and style factors came in and out of favour.
+
+Lastly, outperformance by non-US equities over the last twelve months, after more than a decade of dominance by US stocks, brought new buyers to our largest
+
+style factors came in and out of favour. Lastly, outperformance by non-US equities over the last twelve months, after more than a decade of dominance by US stocks, brought new buyers to our largest areas of underlying focus, namely International Equity and Emerging Markets (EM). The International Equity strategy benefited from increased demand, especially for European and UK large cap exposure as well as international mid and small cap exposure. Conversely, in addition to the factors already highlighted, the EM strategy was meaningfully aided by its allocation to South Korean holding companies which outperformed following the Government’s proposed Corporate Value Up program designed to address the “Korea Discount” by promoting capital efficiency, transparent governance and increased shareholder returns. Likewise, KIM’s main strategies performed well over the trailing twelve months. The primary contributor to outperformance over the past year has been a modest narrowing of discounts across fixed income and equity CEFs. Performance was further enhanced by substantial tender offers executed near net asset value and notable distribution increases among several major holdings. Special Purpose Acquisition Companies, during their pre-acquisition phase, continue to serve as effective alternatives to T-bills and money market funds within our Cash Management and Fixed Income strategies. While short-term performance remains important, KIM’s long-term track record is particularly strong, especially in fixed income. Over the past five years, the Taxable Fixed Income and Tax-Sensitive Fixed Income strategies have exceeded their respective benchmarks by 6.6% and 3.7% per annum.
+
+> Strategic report INVESTMENT AND BUSINESS REVIEW CONTINUED 12 City of London Investment Group PLC Annual Report 2024/2025 Strategic report
+
+## STRATEGIES
+
+### CLIM
+
+*   **The Emerging Markets CEF strategy** utilises CEFs to provide exposure to global emerging markets.
+*   **The International Equity CEF strategy** utilises CEFs to provide exposure to global developed markets (excluding US).
+*   **The Opportunistic Value CEF strategy** provides exposure to a variety of asset classes via CEFs with a go anywhere approach. Both taxable and tax-exempt products are available.
+*   **The Listed Private Equity strategy** utilises our experience with CEFs to provide exposure to private equity globally.
+*   **The Frontier Emerging Markets CEF strategy** is an extension of the EM equity product focusing on the smallest or pre- emerging markets with high growth potential.
+*   **The Global Equity CEF strategy** utilises CEFs to provide exposure to global developed markets (including US).
+
+### KIM
+
+*   **The Conservative Balanced and Growth Balanced strategies** utilise a combination of CEFs and other securities, providing exposure to fixed income and equities in US and global markets.
+*   **The Tax-sensitive fixed income strategy** utilises a combination of CEFs and other securities, providing exposure to US tax-exempt fixed income.
+*   **The Taxable fixed income strategy** utilises a combination of CEFs and other securities, providing exposure to US taxable fixed income.
+*   **The Equity strategy** utilises a combination of CEFs and other securities, providing exposure to US and global equity markets.
+*   **The Cash Management strategy** utilises a combination of CEFs and other securities providing exposure to US short-term fixed income.
+
+### Figure 3. CLIG – FuM by line of business
+
+| | **30 June 2022** | | | **30 June 2023** | | | **30 June 2024** | | | **30 June 2025** | | |
+|:---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| | **$m** | **% of CLIM total** | **% of CLIG total** | **$m** | **% of CLIM total** | **% of CLIG total** | **$m** | **% of CLIM total** | **% of CLIG total** | **$m** | **% of CLIM total** | **% of CLIG total** |
+| Emerging Markets | 3,703 | 64% | 40% | 3,580 | 61% | 38% | 3,394 | 53% | 33% | 3,674 | 54% | 34% |
+| International Equity | 1,812 | 32% | 20% | 1,983 | 34% | 21% | 2,394 | 38% | 23% | 2,486 | 36% | 23% |
+| Opportunistic Value | 193 | 3% | 2% | 244 | 4% | 3% | 251 | 4% | 3% | 309 | 5% | 3% |
+| Listed Private Equity* | – | 0% | 0% | – | 0% | 0% | 174 | 3% | 2% | 218 | 3% | 2% |
+| Other** | 83 | 1% | 1% | 97 | 1% | 1% | 104 | 2% | 1% | 150 | 2% | 1% |
+| **CLIM total** | **5,791** | **100%** | **63%** | **5,904** | **100%** | **63%** | **6,317** | **100%** | **62%** | **6,837** | **100%** | **63%** |
+
+30 June 2022 30 June 2023 30 June
+
+| Strategy | 30 June 2022 ($m) | % of sub-total | % of CLIG total | 30 June 2023 ($m) | % of sub-total | % of CLIG total | 30 June 2024 ($m) | % of sub-total | % of CLIG total | 30 June 2025 ($m) | % of sub-total | % of CLIG total |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **CLIM** | | | | | | | | | | | | |
+| Equity* | – | 0% | 0% | – | 0% | 0% | 174 | 3% | 2% | 218 | 3% | 2% |
+| Other** | 83 | 1% | 1% | 97 | 1% | 1% | 104 | 2% | 1% | 150 | 2% | 1% |
+| **CLIM total** | **5,791** | **100%** | **63%** | **5,904** | **100%** | **63%** | **6,317** | **100%** | **62%** | **6,837** | **100%** | **63%** |
+| **KIM*** | | | | | | | | | | | | |
+| Growth Balanced | 1,260 | 37% | 14% | 1,266 | 36% | 13% | 1,426 | 36% | 14% | 1,419 | 36% | 13% |
+| Conservative Balanced | 1,080 | 32% | 12% | 1,085 | 31% | 12% | 1,103 | 28% | 11% | 1,143 | 29% | 10% |
+| Tax-Sensitive Fixed Income | 389 | 11% | 4% | 405 | 11% | 4% | 693 | 18% | 6% | 528 | 13% | 5% |
+| Taxable Fixed Income | 578 | 17% | 6% | 586 | 17% | 6% | 501 | 13% | 5% | 707 | 18% | 7% |
+| Cash Management | 43 | 1% | 0% | 96 | 3% | 1% | 108 | 3% | 1% | 101 | 2% | 1% |
+| Equities | 83 | 2% | 1% | 82 | 2% | 1% | 93 | 2% | 1% | 79 | 2% | 1% |
+| **KIM total** | **3,433** | **100%** | **37%** | **3,520** | **100%** | **37%** | **3,924** | **100%** | **38%** | **3,977** | **100%** | **37%** |
+| **CLIG total** | **9,224** | | **100%** | **9,424** | | **100%** | **10,241** | | **100%** | **10,814** | | **100%** |
+
+---
+
+\* The Listed Private Equity strategy is to buy high quality private equity funds at discounts in CEF structures traded in listed markets. It was recategorised from Emerging Markets during the year, and the recategorisation of existing client assets is not reflected in the Net Flows column for either strategy.
+\*\* Includes Frontier and alternatives.
+\*\*\* KIM’s FuM has been recategorised into underlying strategies. FuM figures are rounded.
+
+---
+
+As outlined on the previous page CLIM and KIM’s strategies continue to perform strongly and demonstrate a “right to win” when competing for new business. Later in this report (pages 21 and 22), we provide the peer group rankings for our strategies which demonstrate that all remain in either the first or second quartile for the most recent five-year periods. We expect this will put us in a strong position to grow as investor appetite for our areas of focus increase.
+
+---
+*Overview Financial statements Shareholder informationGovernance*
+**City of London Investment Group PLC Annual Report 2024/2025**
+**13**
+*Strategic report*
+---
+
+### Funds under Management (FuM)
+
+Funds under Management (FuM) were $10.8 billion as at 30th June 2025, an increase of 5.6% as compared to $10.2 billion as at 30th June 2024. Net outflows were weighted more heavily to the first half of the financial year when macroeconomic uncertainty rattled markets. The second half withdrawals were characterised by some profit-taking after very strong performance by our investment teams. This was particularly true in the International Equity and EM strategies which saw net outflows of $387 million and $372 million respectively. The Growth and Conservative Balanced strategies (a combination of equity and fixed income) saw net outflows of $241 million over this period, due primarily to client retirement cash needs.
+
+Net investment outflows totaled $974 million across the Group during the financial year. New mandates included $60 million in the Listed Private Equity (LPE) strategy and $70 million in the EM strategy, with another $46 million mandate confirmed for August 2025 funding. Net inflows of circa $84 million combined across the Opportunistic Value, LPE, alternatives and Taxable Fixed Income strategies were also recorded. Persistent discount volatility and strong outperformance of the Group’s strategies continue to be the focus of marketing efforts with allocators.
+
+**Figure 4: Flows**
+
+A breakdown of FuM by strategy is as follows:
+
+| FuM ($ million) | Jun-24 | Inflows | Outflows | Net Flows | Market & investment performance | Jun-25 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **CLIM** | | | | | | |
+| Emerging Markets | 3,394 | 91 | (463) | (372) | 652 | 3,674 |
+| International Equity | 2,394 | 122 | (509) | (387) | 479 | 2,486 |
+| Opportunistic Value | 251 | 26 | – | 26 | 32 | 309 |
+| Listed Private Equity* | 174 | 60 | (50) | 10 | 34 | 218 |
+| Other** | 104 | 40 | – | 40 | 6 | 150 |
+| **CLIM total** | **6,317** | **339** | **(1,022)** | **(683)** | **1,203** | **6,837** |
+| **KIM*** | | | | | | |
+| Growth Balanced | 1,426 | 36 | (174) | (138) | 131 | 1,419 |
+| Conservative Balanced | 1,103 | 45 | (148) | (103) | 143 | 1,143 |
+| Tax-Sensitive Fixed Income | 693 | 87 | (108) | (21) | (144) | 528 |
+| Taxable Fixed Income | 501 | 58 | (50) | 8 | 198 | 707 |
+| Cash Management | 108 | 10 | (24) | (14) | 7 | 101 |
+| Equities | 93 | 3 | (26) | (23) | 9 | 79 |
+| **KIM total** | **3,924** | **239** | **(530)** | **(291)** | **344** | **3,977** |
+| **CLIG total** | **10,241** | **578** | **(1,552)** | **(974)** | **1,547** | **10,814** |
+
+\* The
+
+| | | | | | | |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Fixed Income | 501 | 58 | (50) | 8 | 198 | 707 |
+| Cash Management | 108 | 10 | (24) | (14) | 7 | 101 |
+| Equities | 93 | 3 | (26) | (23) | 9 | 79 |
+| **KIM total** | **3,924** | **239** | **(530)** | **(291)** | **344** | **3,977** |
+| **CLIG total** | **10,241** | **578** | **(1,552)** | **(974)** | **1,547** | **10,814** |
+
+<br>
+
+*\* The Listed Private Equity strategy is to buy high quality private equity funds at discounts in CEF structures traded in listed markets. It was recategorised from Emerging Markets during the year, and the recategorisation of existing client assets is not reflected in the Net Flows column for either strategy.*
+<br>
+*\*\* Includes Frontier and alternatives.*
+<br>
+*\*\*\* KIM’s FuM has been recategorised into underlying strategies. FuM figures are rounded.*
+
+---
+
+### INVESTMENT AND BUSINESS REVIEW CONTINUED
+
+*14 City of London Investment Group PLC Annual Report 2024/2025 Strategic report*
+
+---
+
+**Figure 5: Net investment flows ($ million)**
+
+| | FY 2022 | FY 2023 | FY 2024 | FY 2025 |
+| :--- | :--- | :--- | :--- | :--- |
+| **CLIM** | | | | |
+| Emerging Markets | (316) | (206) | (424) | (372) |
+| International Equity | 453 | (51) | 153 | (387) |
+| Opportunistic Value | 1 | 35 | (33) | 26 |
+| Listed Private Equity* | – | – | – | 10 |
+| Other** | 74 | (6) | (12) | 40 |
+| **CLIM total** | **212** | **(228)** | **(316)** | **(683)** |
+| **KIM*** | | | | |
+| Growth Balanced | (37) | (129) | (56) | (138) |
+| Conservative Balanced | (49) | (53) | (50) | (103) |
+| Tax-Sensitive Fixed Income | 105 | 36 | 89 | (21) |
+| Taxable Fixed Income | (119) | (3) | 5 | 8 |
+| Cash Management | (4) | 31 | 8 | (14) |
+| Equities | (6) | (11) | – | (23) |
+| **KIM total** | **(110)** | **(129)** | **(4)** | **(291)** |
+| **CLIG total** | **102** | **(357)** | **(320)** | **(974)** |
+
+<br>
+
+*\* The Listed Private Equity strategy is to buy high quality private equity funds at discounts in CEF structures traded in listed markets. It was recategorised from Emerging Markets during the year, and the recategorisation of existing client assets is not reflected in the Net Flows column for either strategy.*
+<br>
+*\*\* Includes Frontier and alternatives.*
+<br>
+*\*\*\* KIM’s FuM has been recategorised into underlying strategies. FuM figures are rounded.*
+
+---
+
+Overview | Financial statements | Shareholder information | Governance
+:---: | :---: | :---: | :---:
+
+## OUR BUSINESS MODEL
+
+While we remain both proud and protective of our ‘boutique’ status, we seek to meet client needs across a suite of products anchored by our core expertise in the global universe of CEFs.
+
+---
+
+*City of London Investment Group PLC Annual Report 2024/2025 15 Strategic report*
+
+---
+
+We discourage the cult of the individual or ‘star’ fund manager, believing that the risks associated with a star culture are detrimental to both shareholders and clients.
+
+| CLIM (INSTITUTIONAL FOCUS) | KIM (HIGH NET WORTH 'HNW' FOCUS) |
+| :--- | :--- |
+| • Emerging Markets <br> • International Equity (excluding US) <br> • Opportunistic Value <br> • Listed Private Equity <br> • Frontier <br> • Global Equity (including US) | • Growth Balanced <br> • Conservative Balanced <br> • Tax-Sensitive Fixed Income <br> • Taxable Fixed Income <br> • Cash Management <br> • Equities |
+
+| CLIM (INSTITUTIONAL FOCUS) | KIM (HNW FOCUS) |
+| :--- | :--- |
+| • Average tenure of 13 portfolio managers is 17 years | • Average tenure of 7 portfolio managers is 16 years |
+
+CLIG is an established asset management group listed on the London Stock Exchange, consisting of two wholly owned subsidiaries that invest primarily in closed-end funds for the benefit of their respective clients.
+
+Profits, margins and costs are carefully managed to provide our shareholders with sustainable dividends and employees with appropriate remuneration. We are very risk-averse.
+
+## OUR BUSINESS MODEL CONTINUED
+
+---
+
+*16 City of London Investment Group PLC Annual Report 2024/2025 Strategic report*
+
+---
+
+**DISCOUNT**
+*   Understand structure, fund features and discount catalysts
+*   Evaluate current discount versus discount trading range
+*   Actively engage with Boards on governance issues
+
+**ALLOCATION**
+*   Macro team analyse macro-economic and market data to provide ranking
+*   Inputs from third party macro providers also considered
+*   Discount value modifies allocation guardrails
+
+**DILIGENCE**
+*   Meet with CEF managers regardless of value opportunity
+*   Focus on Process, People, Performance and Positioning
+*   Analyse risk control and risk/return profile
+
+<br>
+
+U S &nbsp; E A S T &nbsp; C O A S T &nbsp; &nbsp; &nbsp; &nbsp; U K &nbsp; &nbsp; &nbsp; &nbsp; S I N G A P O R E
+
+<br>
+
+**Communication – The 24hr trading and management clock (GMT)**
+
+```
+      12           12
+   11    1       1    11
+ 10        2   2        10
+9           3 3           9
+ 8         4   4         8
+   7     5       5     7
+      6           6
+```
+
+# N T D I L I G E N C E A L L O C A T I O N U S E A S T C O A S T UK S I N G A P O R E
+
+## Communication – The 24hr trading and management clock (GMT)
+
+**MIDNIGHT**
+12 1 11 2 10 3 9 4 8 5 7 6
+
+**MIDDAY**
+6 7 5 8 4 9 3 10 2 11 1 12
+
+*   **UK/US IM Meeting**
+    *   Plus:
+        *   Emails
+        *   Blogs
+        *   Intranet
+        *   Video Conference
+*   **US/Singapore Ad hoc Review**
+*   **Singapore/UK IM Meeting**
+*   **Weekly Video Conference on Monday (All offices attend)**
+
+---
+
+## CLIM’S INVESTMENT PROCESS
+
+CLIM utilises a team-based approach to investment management across our suite of active strategies. Our experienced and deeply tenured investment team utilise a combination of quantitative and qualitative tools to make subjective judgements on undervalued securities and to construct portfolios to take advantage of pricing anomalies at the security, market and asset class level.
+
+## CLIM’S COMPETITIVE ADVANTAGE
+
+Our process employs an array of proprietary tools for analysing and identifying value. These quantitative tools supplement both macroeconomic analysis and over thirty years of trading expertise. This process has delivered long-term relative outperformance combined with low volatility relative to our clients’ benchmarks through both bull and bear markets.
+
+We believe that our approach and philosophy differs significantly from our peers. Our investment process identifies opportunities to capture pricing anomalies in securities trading at a discount to their net asset value. Our resolute focus is on generating consistent investment performance – over time and through economic cycles within a controlled risk environment.
+
+---
+
+*Overview* | *Financial statements* | *Shareholder information* | *Governance*
+---|---|---|---
+
+**Strategic report**
+*City of London Investment Group PLC Annual Report 2024/2025*
+**17**
+
+---
+
+### Top-down analysis
+Global macroeconomic analysis / country, region and sector analysis / Inflation, interest rates, GDP / asset allocation targets
+
+### Bottom-up analysis
+Individual security assessment / Fundamentals
+Quantitative and qualitative research
+
+### Ongoing portfolio monitoring
+
+### Select securities with attractive risk-adjusted return potential
+
+### Portfolio construction
+
+---
+
+KIM has been an active investment manager since its inception in 1986. With the focus of managing risk, our Investment Committee formulates our economic overview by reviewing the economic cycle, analysing historical valuations, analysing growth and policy prospects, and analysing liquidity and economic momentum.
+
+## KIM’S INVESTMENT PROCESS
+
+Once an overview is established, a target investment matrix is then created. Sector weightings, yield curve positioning, and duration targets are guided by this research. Analysts continuously conduct a security-by-security analysis to identify and capitalise on market inefficiencies. Our focus is on the advantages offered by purchasing securities, particularly CEFs, at a discount. However, we also utilise index-based securities if CEFs are not trading at what we believe are attractive discounts. Once purchased, holdings are analysed on an ongoing basis. KIM continuously monitors key investment variables, as well as corporate governance attributes to assess whether shareholder value is being maximised.
+
+## KIM’S COMPETITIVE ADVANTAGE
+
+By conducting our own proprietary, in-house research, our strategists, analysts, portfolio managers, and traders work together to generate independent and unbiased ideas. Our Company’s size also allows us to capitalise on fundamentally attractive market inefficiencies as they arise. Our insight and extensive experience in closed-end funds identifies opportunities others may miss. It also allows us to avoid pitfalls that others may not be aware of.
+
+### IN-HOUSE RESEARCH
+### EXTENSIVE EXPERIENCE
+### AGILITY
+
+---
+
+**18**
+*City of London Investment Group PLC Annual Report 2024/2025*
+**Strategic report**
+
+---
+
+## OUR STRATEGY AND OBJECTIVES
+
+Our responsibility is to keep these three stakeholders in balance and to ensure that each of their interests is safeguarded.
+
+*   **Expect:** Superior investment performance, Openness and accountability, Ethical treatment.
+*   **Expect:** Fair treatment, Open
+
+in balance and to ensure that each of their interests is safeguarded.
+
+**Expect:** Superior investment performance, Openness and accountability, Ethical treatment.
+**Expect:** Fair treatment, Open communication, To share in success.
+**Expect:** Relevant risk controls, Quality earnings, Cost controls.
+
+### Outperform
+CLIG’s two operating subsidiaries are active managers, and their job is to add value over and above a relevant benchmark through an investment cycle which we define as five years .
+
+### Retain employees
+As shareholders would expect, in a Group that has always used a partnership approach, we take a very long-term view with regard to remuneration.
+
+### Increase FuM from long-term investors
+The client base of CLIG’s two operating subsidiaries is long-term and US based, and includes HNW individuals, pension funds, foundations, endowments and other institutional money managers.
+
+### Remain open in our dealings with shareholders, available and accountable
+We believe that our shareholders have a right to know what to expect from us.
+
+### Keep costs down
+We keep costs down because we believe that the assets over which we provide stewardship are, by definition, not ours but are owned by CLIG shareholders.
+
+### Corporate citizenship
+Corporations have a responsibility both for, and separately within, the community.
+
+### Continue to diversify our business
+We see this as an important component of our strategy to make the business more robust, manage risk and enhance long-term shareholder return.
+
+***
+
+### T H E C L I E N T S P A Y T H E B I L L S
+### T H E S H A R E H O L D E R S O W N T H E B U S I N E S S
+### T H E E M P L O Y E E S M A N A G E T H E B U S I N E S S
+
+***
+
+### THE SHAREHOLDERS: OWN THE BUSINESS
+**EXPECT. . .**
+*   Relevant risk controls
+*   Quality earnings
+*   Cost controls
+
+### THE CLIENTS: PAY THE BILLS
+**EXPECT. . .**
+*   Superior investment performance
+*   Openness and accountability
+*   Ethical treatment
+
+### THE EMPLOYEES: MANAGE THE BUSINESS
+**EXPECT. . .**
+*   Fair treatment
+*   Open communication
+*   To share in success
+
+***
+
+## OUR STRATEGIC GOAL & WHY IT IS IMPORTANT
+
+### Outperform
+**CLIM**
+*   Our investment horizon is five years, and over this period the vast majority of CLIM’s FuM are outperforming their peers and benchmark.
+
+**KIM**
+*   Long and short-term performance remains solid, with the KIM investment process continuing to add value on behalf of clients in the face of volatile markets.
+
+*Investment performance pages 21 and 22.*
+
+### Retain employees
+Our remuneration policy is stress-tested in a number of ways:
+*   We have to deal with volatile earnings, thus our need to keep salaries towards the lower end of market levels.
+*   With four offices (not all of which are in financial centres) in three countries, we have to be aware of different pay scales, policies, costs of living and tax rates.
+
+*Employee longevity page 23.*
+
+### Increase FuM from long-term investors
+We have always taken great pride in our client retention outreach programme, and remain open and accountable.
+
+*Client entity longevity page 23.*
+
+### Remain open in our dealings with shareholders, available and accountable
+We take the opportunity to meet shareholders whenever possible. This might be at one-to-one meetings with our larger institutional holders or at group meetings with advisers and individual shareholders. We try to make all of our announcements clear and accessible. We did an Investor Meet meeting during the year and participated in investor conferences. Refer to page 8 for our dividend history and page 28 for our dividend policy.
+
+*Dividend paid and proposed per share pages 8 and 28.*
+
+### Keep costs down
+A stable workforce limits the cost of recruitment and other costs related to employee turnover. We do not work in expensive offices and when we travel we do not stay in five star hotels. Keeping overheads down is good business practice as it maximises money for dividends, staff rewards and reserves, and thus assists with relative job security. In addition, efforts are made to limit inter-office air travel. Internal meetings are almost exclusively conducted by video conferencing.
+
+*Weighted average net fee rate page 24. Cost/Income ratio page 24.*
+
+### Corporate citizenship
+We encourage employee participation in both local events of national and global charities, as
+
+conducted by video conferencing.
+
+Weighted average net fee rate page 24.
+
+Cost/Income ratio page 24.
+
+We encourage employee participation in both local events of national and global charities, as well as local community specific events. Additionally, by the nature of our four-office structure, we are able to offer a wide array of community involvement events to employees, and we have found that a greater variety allows for greater participation throughout the year. In turn, this can also provide for meaningful results as some events will be chosen on a personal level and will have a greater impact for specific employees and their families. These efforts and services work hand in hand to protect cultures and customs not only within the community outreach programmes but also within the workplace.
+
+Refer to details on community contributions referenced within the corporate and social responsibility policy page 35.
+
+The corporate goal of diversifying the Group's income by building strategies complementary to the flagship Emerging Markets (EM) CEF strategy was, and continues to be, a priority. The merger with KIM allowed that diversification to accelerate, as the EM strategy has been reduced to 34% of CLIG as of 30th June 2025.
+
+Marketing efforts remain focused on all strategies to grow the business.
+
+FuM and diversification page 25.
+
+---
+*Overview | Financial statements | Shareholder information | Governance*
+**City of London Investment Group PLC Annual Report 2024/2025** **19**
+***
+
+*\*Refer to pages 21 to 25 of explanation of additional KPIs.*
+
+### Strategic report
+
+#### LINK TO ADDITIONAL KPIs
+#### HOW WE ARE DOING
+**Target**
+7.5% – 12.5%
+
+---
+**20** **City of London Investment Group PLC Annual Report 2024/2025**
+***
+
+## KEY PERFORMANCE INDICATORS
+
+We retain the share price KPI to show the total return of CLIG over a market cycle. The goal of this KPI is for the total return (share price plus dividends) to compound annually in a range of 7.5% to 12.5% over a five-year period. This KPI is meant to stretch the management team, without incentivising managers to take undue levels of risk. For the five years ended 30th June 2025, CLIG’s cumulative total return was 36.9%, or 6.5% annualised. The environment for UK- listed asset managers has been challenging for the past few years for a number of reasons and resulted in a de-rating of our shares while our dividends have been consistent, including periodic special dividends. Since listing in April 2006, the annualised return is 11.3%.
+
+### Annualised total return – five-years ended 30th June
+#### Our focus is to create shareholder value.
+
+### FIVE YEAR TOTAL RETURN
+## 6.5%
+
+*   **6.2%** FY 2021
+*   **20.7%** FY 2022
+*   **9.2%** FY 2023
+*   **8.0%** FY 2024
+*   **6.5%** FY 2025
+*   **11.3%** Since April 2006 listing
+
+*Source: Bloomberg*
+
+---
+*Strategic report | Overview | Financial statements | Shareholder information | Governance*
+**City of London Investment Group PLC Annual Report 2024/2025** **21**
+***
+
+### Strategic report
+
+0 2 4 6 8 10 12 14 16 18 20 22
+Annualised % Return
+
+CLIM strategies compared to peer manager universe according to eVestment Alliance five-year quartile chart
+
+*   CLIM OV
+*   CLIM Intl CEF
+*   MSCI ACWI ex-US Net TR Index
+*   Blended 50/50 MSCI ACWI/Bloomberg Global Agg Index
+*   8% Absolute Annual Rate of Return
+*   CLIM Emerging Markets Global SMA Composite
+*   MSCI EM Net TR Index
+*   S&P Emerging Frontier Super Composite BMI Net TR
+*   CLIM Global Developed CEF International Equity Composite
+*   CLIM Opportunistic Value Composite
+*   CLIM Listed Private Equity CEF Composite
+*   CLIM EM CEF
+*   CLIM LPE
+
+> Note: there is not an appropriate universe available for the LPE strategy. The above returns are annualised and presented as gross of fees performance figures, which do not reflect the deduction of investment management fees. The Global Emerging Markets SMA Composite, S&P Emerging Frontier Super Composite BMI Net TR, and MSCI EM Net TR Index are shown against the eVestment Global Emerging Markets Equity Universe. The Global Developed CEF International Equity Composite and MSCI ACWI ex-US Net TR Index are shown against the eVestment All ACWI ex-US Equity Universe. The Opportunistic Value
+
+# Equity Universe
+
+The Global Developed CEF International Equity Composite and MSCI ACWI ex-US Net TR Index are shown against the eVestment All ACWI ex-US Equity Universe. The Opportunistic Value Composite and the Blended 50/50 MSCI AWCI/Bloomberg Global Agg Index are shown against the eVestment All Global Balanced/TAA Universe. The Listed Private Equity CEF Composite is shown against an 8% Absolute Annual Rate of Return.
+
+*Data is as of 30th June 2025. Past performance is no guarantee of future results. Source: eVestment Analytics System, BNY Mellon, City of London Investment Management Company Limited, MSCI, Bloomberg, S&P*
+
+---
+
+Separate from our main KPI of CLIG’s total return (share price plus dividends) over a market cycle, we have selected additional KPIs that we believe will enable shareholders to measure the future prospects of CLIG. These are as follows:
+
+## 1. INVESTMENT PERFORMANCE
+### NON-FINANCIAL KEY PERFORMANCE INDICATORS CONTINUED
+
+---
+**22** | **City of London Investment Group PLC Annual Report 2024/2025** | **Strategic report**
+---
+
+### KIM strategies compared to peer manager universe according to eVestment Alliance five-year quartile chart
+
+**Annualised % Return**
+-2 &nbsp; 0 &nbsp; 2 &nbsp; 4 &nbsp; 6 &nbsp; 8 &nbsp; 10 &nbsp; 12 &nbsp; 14 &nbsp; 16 &nbsp; 18 &nbsp; 20
+
+The above returns are annualised and presented as gross of fees performance figures, which do not reflect the deduction of investment management fees.
+
+*   The **KIM Growth Balanced Composite** and the **Blended 40% Bloomberg Government/Credit Bond Index/39% Russell 3000 Index/21% MSCI ACWI ex USA Net TR Index** are shown against the eVestment Global Balanced universe.
+*   The **KIM Conservative Balanced Composite** and the **Blended 60% Bloomberg Government/Credit Bond Index/26% Russell 3000 Index/14% MSCI ACWI ex USA Net TR Index** are shown against the eVestment Global Balanced universe.
+*   The **KIM Tax-Sensitive Fixed Income Composite** and the **Bloomberg Municipal Bond Index** are shown against the eVestment SMA/Wrap – US Municipal FI Universe.
+*   **KIM Taxable Fixed Income Composite** and the **Bloomberg Government/Credit Bond Index** are shown against the eVestment SMA/Wrap – US Core Fixed Income Universe.
+*   The **KIM Equity Composite** and the **Blended 65% Russell 3000/35% MSCI ACWI ex USA Net TR Index** are shown against the eVestment SMA/Wrap – Global Equity Universe.
+*   The **KIM Cash Management Composite** and the **ICE BofAML US 3-Month Treasury Bill Index** are shown against the eVestment US Cash Management Universe.
+
+*Data is as of 30th June 2025. Past performance is no guarantee of future results. Source: eVestment Analytics System, Bloomberg, KIM*
+
+#### Chart Legend Items
+*   Blended 40% Bloomberg Government/Credit Bond Index/39% Russell 3000 Index/ 21% MSCI ACWI ex USA Net TR Index
+*   Blended 60% Bloomberg Government/Credit Bond Index/26% Russell 3000 Index/ 14% MSCI ACWI ex USA Net TR Index
+*   Bloomberg Municipal Bond Index
+*   Bloomberg Government/Credit Bond Index
+*   Blended 65% Russell 3000/35% MSCI ACWI ex USA Net TR Index
+*   ICE BofAML US 3-Month Treasury Bill Index
+*   KIM Growth Balanced Composite
+*   KIM Conservative Balanced Composite
+*   KIM Tax-Sensitive Fixed Income Composite
+*   KIM Taxable Fixed Income Composite
+*   KIM Equity Composite
+*   KIM Cash Management Composite
+*   KIM Growth Balanced
+*   KIM Conservative Balanced
+*   KIM Equity
+*   KIM Tax- Sensitive Fixed Income
+*   KIM Taxable Fixed Income
+*   KIM Cash Manage- ment
+
+---
+
+Our reputation depends on consistently strong investment performance versus both relevant benchmarks and peers. Outperformance drives client retention and provides the opportunity to expand our client base. As detailed in the investment and business review, CLIG’s subsidiary investment teams have produced above average long-term investment results for clients as compared to peer investment managers.
+
+## 1. INVESTMENT PERFORMANCE
+
+---
+**Overview** | **Financial statements** | **Shareholder information** | **Governance** | **City of London Investment Group PLC Annual Report 2024/2025** | **23**
+---
+
+### Employee Counts by Type
+
+| Category            | Count |
+| ------------------- | ----- |
+| Total employees     | 110   |
+| Portfolio Managers  | 20    |
+| Other employees     | 90    |
+
+### Employee Counts by Tenure
+
+| Tenure        | Count |
+| ------------- | ----- |
+| Over 10 years | 925   |
+| 0-5 years     | 444   |
+| 5-10 years    | 611   |
+
+Our employees are a major asset. We spend time ensuring that we recruit, develop
+
+*Strategic report*
+
+### 2. EMPLOYEE LONGEVITY
+
+**Employee longevity**
+
+| Tenure | Total employees | Portfolio Managers | Other employees |
+| :--- | :--- | :--- | :--- |
+| 5-10 years | 110 | 20 | 90 |
+| Over 10 years | | | |
+| 0-5 years | | | |
+
+Our employees are a major asset. We spend time ensuring that we recruit, develop and retain the right people to complement the team, which in turn helps to create a stable working environment. 95% of our 20 portfolio managers have worked for Group subsidiary companies for five or more years, and 51% of all employees have worked for Group subsidiary companies for over ten years.
+
+### 3. CLIENT ENTITY LONGEVITY
+
+**Client entity longevity**
+
+| Tenure | 2025 |
+| :--- | :--- |
+| Over 10 years | 925 |
+| 5-10 years | 444 |
+| 0-5 years | 611 |
+
+We find that stability of investment performance equates to stability of clients, but in addition there needs to be a belief amongst clients that both our investment process will be maintained and that our employees will remain in place. We have an active client retention programme in place which has both educated and ensured that our clients understand even more about our investment process. As at 30th June 2025, the Group had 925 client entities in the over 10 years category (2024: 884), 444 in 5-10 years (2024: 482) and 611 in 0-5 years (2024: 561).
+
+---
+24 City of London Investment Group PLC Annual Report 2024/2025
+***
+
+# KEY PERFORMANCE INDICATORS CONTINUED
+
+*Strategic report*
+
+## FINANCIAL
+
+### 4. WEIGHTED AVERAGE NET FEE RATE
+
+**Weighted average net fee rate based on average FuM (bps)**
+*(Chart data from June 2021 to June 2025 with a scale from 50 to 80)*
+
+This is the weighted average net fee rate earned by the Group. Changes in fee rates, product and investor mix are the principal factors that impact the weighted average rate. The chart above shows the annual net fee income measured as a percentage of the average annual FuM.
+
+### 5. COST / INCOME RATIO
+
+**Cost / income ratio**
+*(Chart data from June 2021 to June 2025 with a scale from 20% to 50%)*
+
+The cost/income ratio for the Group is based on our total overheads before profit-share, EIP, share options charge and gain on investment to net fee income (as set out on page 26) and was 40.1% in 2025 as compared to 42.2% in 2024. This was a result of continued cost discipline and maintaining overhead costs in line with FY 2024 and increase in net revenue for the year.
+
+---
+Overview Financial statements Shareholder informationGovernance
+City of London Investment Group PLC Annual Report 2024/2025 25
+***
+
+*Strategic report*
+
+### 6. FuM AND DIVERSIFICATION
+
+The level of FuM is a key driver in the Group’s profitability. Our main business development strategy is to diversify our product range. The merger with KIM allowed that diversification to accelerate.
+
+**FuM % by strategy**
+*(Chart data from 2021 to 2025)*
+*   **2021:** $11.4bn
+*   **2022:** $9.2bn
+*   **2023:** $9.4bn
+*   **2024:** $10.2bn
+*   **2025:** $10.8bn
+
+*   CLIM-Emerging Markets
+*   CLIM-International
+*   CLIM-Opportunistic Value
+*   CLIM-Listed Private Equity
+*   CLIM-Frontier
+*   CLIM-Other
+*   KIM-Growth Balanced
+*   KIM-Conservative Balanced
+*   KIM-Taxable Fixed Income
+*   KIM-Tax-Sensitive Fixed Income
+*   KIM-Cash Management
+*   KIM-Equities
+
+**FuM % by asset class**
+*(Chart data from 2021 to 2025)*
+*   **2021:** $11.4bn
+*   **2022:** $9.2bn
+*   **2023:** $9.4bn
+*   **2024:** $10.2bn
+*   **2025:** $10.8bn
+
+*   Equity
+*   Multi-asset
+*   Fixed income
+*   Alternative
+
+# FINANCIAL REVIEW
+
+---
+26 City of London Investment Group PLC Annual Report 2024/2025
+***
+
+*Strategic report*
+
+### FuM
+
+FuM as of 30th June 2025 increased by 5.6% ($0.6 billion) to $10.8 billion from $10.2 billion at the end of the last financial year. The increase was a result of a combination of flows, market movements and performance. Refer to Figure 3 on page 12 – FuM by line of business. Average FuM for the year increased by 7.2% from $9.6 billion in FY 2024 to $10.3 billion in FY 2025.
+
+### Alternative Performance Measures
+
+The Directors use the following Alternative Performance Measures (APMs) to evaluate the performance of the Group as a whole:
+
+*   **Earnings per share in pence** – Earnings per share in US dollars as per the income statement is converted to sterling using the average exchange rate for the period. Refer to note 10 in the financial statements on page 111.
+*   **Underlying**
+
+per share in US dollars as per the income statement is converted to sterling using the average exchange rate for the period. Refer to note 10 in the financial statements on page 111.
+
+**Underlying profit before tax** – Profit before tax, adjusted for gain on investments and amortisation of intangibles. This provides a measure of the profitability of the Group for management’s decision-making.
+
+**Underlying earnings per share in pence** – CLIG shares are quoted on the London Stock Exchange and the dividend is declared in sterling. Underlying profit before tax, adjusted for tax as per income statement and tax effect of adjustments, are divided by the weighted average number of shares in issue as at the period end. Underlying earnings per share is converted to sterling using the average exchange rate for the period. Refer to note 10 in the financial statements for reconciliation on page 111.
+
+| Consolidated income for financial years ended 30th June | 2025 <br> $’000 | 2024 <br> $’000 | Change <br> % |
+| :--- | ---: | ---: | ---: |
+| Gross fee income | 73,044 | 69,453 | 5.2% |
+| Commissions | (1,978) | (1,811) | 9.2% |
+| Custody fees | (1,296) | (1,475) | -12.1% |
+| **Net fee income** | **69,770** | **66,167** | **5.4%** |
+| Net Interest income | 1,095 | 1,079 | 1.5% |
+| **Total net income** | **70,865** | **67,246** | **5.4%** |
+| Salary, benefits and other related costs | (18,328) | (18,767) | -2.3% |
+| Other administrative expenses | (8,659) | (8,177) | 5.9% |
+| Depreciation and amortisation | (961) | (975) | -1.4% |
+| **Overheads before profit share, EIP, share option charge and gain on investments** | **(27,948)** | **(27,919)** | **0.1%** |
+| **Profit before profit-share/EIP – operating profit** | **42,917** | **39,327** | **9.1%** |
+| Profit-share | (10,815) | (10,617) | 1.9% |
+| EIP | (1,297) | (1,506) | -13.9% |
+| Share option charge | 17 | (35) | -147.6% |
+| Gain on investments | 766 | 1,051 | -27.2% |
+| **Profit before tax and amortisation on intangibles** | **31,588** | **28,220** | **11.9%** |
+| Amortisation of intangibles | (5,599) | (5,599) | 0.0% |
+| **Profit before tax** | **25,989** | **22,621** | **14.9%** |
+| Tax | (6,307) | (5,506) | 14.5% |
+| **Profit after tax** | **19,682** | **17,115** | **15.0%** |
+
+| Alternative Performance Measures | 2025 <br> $’000 | 2024 <br> $’000 | Change <br> % |
+| :--- | ---: | ---: | ---: |
+| Profit before tax | 25,989 | 22,621 | 14.9% |
+| Add back/(deduct): | | | |
+| Gain on investments | (766) | (1,051) | -27.2% |
+| Amortisation of intangibles | 5,599 | 5,599 | 0.0% |
+| **Underlying profit before tax** | **30,822** | **27,169** | **13.4%** |
+| Tax | (6,307) | (5,506) | 14.5% |
+| Tax effect on adjustments | (1,154) | (1,083) | 6.6% |
+| **Underlying profit after tax** | **23,361** | **20,580** | **13.5%** |
+
+The Group income statement is presented in line with UK-adopted International Accounting Standards on page 96, but the financial information is reviewed by the management and the Board as shown in the table below. This makes it easier to understand the Group’s operating results and shows the profits which is used to calculate Group’s profit-share.
+
+---
+Overview Financial statements Shareholder informationGovernance **City of London Investment Group PLC Annual Report 2024/2025** 27
+---
+
+## Group income statement and statement of comprehensive income
+
+### Revenue
+The Group’s gross revenue comprises of management fees charged as a percentage of FuM. The Group’s gross revenue increased by 5.2% YoY to $73.0 million (2024: $69.5 million). The increase in revenue is due to higher average FuM for the year, offset by general fee erosion due to changes in fee rates, product and investor mix.
+
+Commissions payable of $2.0 million (2024: $1.8 million) relate to fees due to US-registered investment advisers and have increased slightly over the year as a result of an increase in gross revenue.
+
+The Group’s net fee income, after custody charges of $1.3 million (2024: $1.5 million), increased by 5.4% to $69.8 million (2024: $66.2 million). The Group’s average net fee margin for FY 2025 was c.67bps as compared to c.69bps for FY 2024.
+
+Net interest income is made up of interest earned on bank deposits, short-term investments in money market instruments and cash management products offset by interest paid on lease obligations and others. Net interest income increased by 1.5% as compared to the previous year.
+
+### Costs
+Overheads before profit share, EIP, share option charge and gain on investments for FY 2025 totalling $27.9 million (2024: $27.9 million) were
+
+by 1.5% as compared to the previous year.
+
+**Costs**
+
+Overheads before profit share, EIP, share option charge and gain on investments for FY 2025 totalling $27.9 million (2024: $27.9 million) were in line with last year. These costs would have been lower by c.1% had it not been for US dollar weakening against sterling by an average of 3% as c.29% of the Group’s overheads are incurred in sterling. The Group’s cost/income ratio, which is arrived at by comparing overheads before profit share, EIP, share option charge and gain on investments with net fee income, reduced by 2.1% to 40.1% in FY 2025 as compared to 42.2% in FY 2024. This was a result of continued cost discipline and maintaining overhead costs in line with FY 2024, along with an increase in net revenue for the year. The largest component of overheads continues to be employee-related costs. Salary, benefits and other related costs reduced by 2.3% over the last year to $18.3 million (2024: $18.8 million), which was due to both a reduction and a change in the headcount mix, which was partly offset by inflationary salary and associated cost increases with effect from 1st July 2024 and a subsequent increase in employer national insurance contributions in the UK, effective from 1st April 2025. The average number of employees for the year was 113 as compared to 118 for the prior year. The number of employees as at 30th June 2025 was 110 (2024: 117). The net savings in employee-related costs during the year were offset by an increase in other administrative expenses. Other administrative expenses for the current year were 5.9% higher at $8.7 million as compared to $8.2 million for the last year. The increase primarily relates to higher legal and professional fees (including costs related to CLIG’s qualification to trade on the OTCQX ® Best Market), additional marketing resources, increase in travel costs to meet clients and prospects, and the impact of US dollar weakening over costs denominated in sterling.
+
+**Profit before profit-share, EIP, share options charge and gain on investments**
+
+increased 9.1% YoY to $42.9 million as compared to $39.3 million for FY 2024. Despite this increase, total variable profit- share for FY 2025 only increased marginally to $10.8 million as compared with $10.6 million in FY 2024. The Group’s Employee Incentive Plan (EIP) charge for FY 2025 also fell by $0.2 million to $1.3 million as compared to the FY 2024 charge of $1.5 million.
+
+### Strategic report
+
+#### Net interest income
+
+| | **2025** | **2024** | **Change** |
+|:---|---:|---:|---:|
+| | **$’000** | **$’000** | **%** |
+| **Interest earned on:** | | | |
+| – Money market funds | 332 | 301 | 10.3% |
+| – Cash management | 914 | 714 | 28.1% |
+| – Other bank deposits/accounts | 244 | 445 | -45.1% |
+| | **1,490** | **1,460** | **2.1%** |
+| **Less: interest paid on** | | | |
+| – Lease liabilities | (387) | (357) | 8.3% |
+| – Other interest | (8) | (24) | -67.0% |
+| | **(395)** | **(381)** | **3.6%** |
+| **Net interest income** | **1,095** | **1,079** | **1.5%** |
+
+#### Total employee costs
+
+| | **2025** | **2024** | **Change** |
+|:---|---:|---:|---:|
+| | **$’000** | **$’000** | **%** |
+| Salary, benefits and other related costs | (18,328) | (18,767) | -2.3% |
+| Profit-share | (10,815) | (10,617) | 1.9% |
+| EIP | (1,297) | (1,506) | -13.9% |
+| Share option credit/(charge) | 17 | (35) | -147.6% |
+| **Total employee costs** | **(30,423)** | **(30,925)** | **-1.6%** |
+
+---
+### FINANCIAL REVIEW CONTINUED
+*28 &nbsp; &nbsp; City of London Investment Group PLC Annual Report 2024/2025 &nbsp; &nbsp; Strategic report*
+---
+
+Overall, despite sterling strengthening against the US dollar by an average of 3%, generic inflationary increases on the cost base, higher legal and professional fees, marketing and travel costs, the Group’s total administrative expenses were marginally lower at $45.6 million for the year.
+
+**Gain on investments**
+
+Investment gains of $0.8 million (2024: gain of $1.1 million) relate to the realised and unrealised gains/(losses) on the Group’s seed investments and other investments in Special Purpose Acquisition Companies (SPACs).
+
+**Amortisation of intangibles**
+
+Intangible assets relating to direct customer relationships, distribution channels and KIM’s trade name recognised on the merger with KIM are being amortised over seven to fifteen years (refer to note 1.7 of the financial statements) and have resulted
+
+distribution channels and KIM’s trade name recognised on the merger with KIM are being amortised over seven to fifteen years (refer to note 1.7 of the financial statements) and have resulted in an amortisation charge of $5.6 million for the year (2024: $5.6 million). Deferred tax liability on these intangibles as of 30th June 2025 amounted to $6.5 million (2024: $7.9 million) based on the relevant tax rate, which will unwind over the useful economic life of the associated assets. Goodwill amounting to $90.1 million was also initially recognised on the completion of the merger. Refer to note 13 of the financial statements for more details.
+
+## Taxation
+
+Profit before tax of $26.0 million (2024: $22.6 million), after a corporation tax charge of $6.3 million (2024: $5.5 million), with an effective rate of 24% (2024: 24%), resulted in a 15% increase in profit after tax of $19.7 million (2024 $17.1 million), which is all attributable to the equity shareholders of the Company.
+
+## Underlying profits
+
+Underlying profit before tax for the year at $30.8 million was 13.4% higher than the $27.2 million achieved in FY 2024. Underlying profit after tax for the year was 13.5% higher at $23.4 million as compared to $20.6 million for FY 2024, which was mainly due to the higher net fee income whilst maintaining our operating costs in line with FY 2024.
+
+## Group statement of financial position
+
+The Group’s financial position continues to be strong and liquid, with cash resources of $35.5 million as at 30th June 2025, compared with $33.7 million as at 30th June 2024.
+
+The Group had invested $2.5 million in seeding the Global Equity CEF in December 2021 and $2.5 million in SPACs in March 2022. As at the end of June 2025, these investments were valued at $6.5 million (2024: $5.7 million). Total realised gains recognised on its investments and its SPACs products were $0.2 million (2024: gain of $0.9 million including the redemption of its REIT investments) and unrealised gains of $0.6 million (2024: gain of $0.2 million) were taken to the income statement.
+
+The Global Equity CEF fund is assessed to be under the Group’s control and is thus consolidated using accounts drawn up as of 30th June 2025. There were no third-party investors, collectively known as the non-controlling interest (NCI) in these funds as of 30th June 2025 (2024: nil).
+
+The Group’s right-of-use assets (net of depreciation) amounted to $4.4 million as of 30th June 2025 as compared with $5.1 million as of 30th June 2024.
+
+The Employee Benefit Trust (EBT) purchased 453,500 shares (2024: 318,000 shares) at a cost of $2.1 million (2024: $1.3 million) in preparation for the annual EIP awards due at the end of October 2025. The EIP has had a consistently high level of participation each year since inception (>60% of Group employees), with the first tranche of awards vesting in October 2018.
+
+During the year 36.8% (2024: 35.8%) of the shares vesting were sold to help cover the employees’ resulting tax liabilities, leading to a healthy 63.2% (2024: 64.2%) share retention within the Group.
+
+In addition, Directors and employees exercised 59,500 (2024: 47,400) options over shares held by the EBT, raising $0.3 million (2024: $0.1 million) which was used to pay down part of the loan to the EBT.
+
+## Dividend
+
+### Dividend policy
+
+This policy was introduced in 2014 and is assessed for appropriateness on an annual basis. No changes have been proposed during the current financial year. It was designed to incorporate the required flexibility to deal with the potential volatility of CLIG’s income. This is going to be applied with flexibility, with approximately one-third payable as an interim dividend and two-thirds as final dividend. Details are as follows:
+
+*   Dividend cover ratio of c.1.2 times (1.2x) of the underlying earnings on a rolling five-year basis.
+*   It will be assessed for appropriateness annually.
+*   This Policy specifically takes into account the implicit volatility in CLIG’s earnings as a result of its significant
+
+*   a rolling five-year basis.
+*   It will be assessed for appropriateness annually.
+*   This Policy specifically takes into account the implicit volatility in CLIG’s earnings as a result of its significant present exposure to emerging markets.
+*   While the cover is targeted as 1.2x of the underlying earnings, this will continue to be applied flexibly and the annual dividend will approximate to this cover on a rolling five-year average.
+*   The Board will take into account both the CLIG budget for the next year and market outlook when determining the current year’s dividend.
+
+Dividends paid during the year totalled $20.9 million (2024: $19.9 million). The total dividend of 33p per share Overview Financial statements Shareholder informationGovernance City of London Investment Group PLC Annual Report 2024/2025 29 comprised of the 22p per share final dividend for FY 2024 and the 11p per share interim dividend for the current year (2024: 22p per share final for FY 2023 and 11p per share interim dividend).
+
+We have provided an illustrative framework on our website at [https://clig.com/dividend-cover/](https://clig.com/dividend-cover/) to enable interested parties to calculate our post-tax profits based upon some key assumptions. The dividend cover chart shows the quarterly estimated cost of a maintained dividend against actual post-tax profits for last year, the current year and the assumed post-tax profit for next financial year based upon assumptions included in the chart.
+
+The Group is well capitalised, and its regulated entities complied at all times with their local regulatory capital requirements. In the UK, the Group’s principal operating subsidiary, CLIM, is regulated by the FCA. As required under the Capital Requirements Directive, the underlying risk management controls and capital position are disclosed on CLIM’s website [www.citlon.com](http://www.citlon.com).
+
+## Currency exposure
+
+While Group’s revenue and the bulk of its expenses are aligned in US dollars, c.29% of Group’s overheads are incurred in sterling and to a lesser degree Singapore dollars, that are subject to currency rate fluctuations against US dollars. The Group’s currency exposure also relates to its subsidiaries’ non-US dollar assets and liabilities, which are mostly in sterling. The exchange rate differences arising on their translation into US dollars for reporting purposes each month is recognised in the income statement.
+
+## Viability statement
+
+In accordance with the provisions of the UK Corporate Governance Code, the Directors have assessed the viability of the Group over a three-year period, considering the Group’s current position and prospects, Internal Capital Adequacy and Risk Assessment (ICARA) and the potential impact of principal risks and how they are managed as detailed in the risk management report on pages 41 to 42.
+
+### Period of assessment
+
+While the Directors have no reason to believe that the Group will not be viable over a longer period, given the uncertainties associated with the global economic and political factors and their potential impact on financial markets, any longer time horizon assessments are subject to more uncertainty due to external factors. Considering the recommendations of the Financial Reporting Council in their 2021 thematic review publication, the Board has therefore determined that a three-year period to 30th June 2028 constitutes an appropriate and prudent timeframe for its viability assessment. This three-year view is also more aligned to the Group’s detailed stress testing.
+
+### Assessment of viability
+
+As part of its viability statement, the Board has conducted a robust assessment of the principal risks facing the Group, including those that would threaten its business model, future performance, solvency, or liquidity. This assessment includes continuous monitoring of both internal and external environments to identify new and emerging risks, which in turn are analysed to determine how they can best be mitigated and managed. The primary risk is the potential for loss of FuM as a result of poor
+
+to identify new and emerging risks, which in turn are analysed to determine how they can best be mitigated and managed. The primary risk is the potential for loss of FuM as a result of poor investment performance, reputational damage, client redemptions, breach of mandate guidelines or market volatility. The Directors review the principal risks regularly and consider the options available to the Group to mitigate these risks so as to ensure the ongoing viability of the Group is sustained. The ICARA is reviewed by the Board and incorporates stress testing based on loss of revenue on the Group’s financial position over a three-year period.
+
+The Group has performed additional stress tests using several different scenario levels, over a three-year period which are significantly more severe than our acceptable risk appetite, which include:
+*   a significant fall in FuM;
+*   a significant fall in net fee margin; and
+*   combined stress (significant falls both in FuM and net fee margin).
+
+Having reviewed the results of the stress tests, the Directors have concluded that the Group would have sufficient resources in the stressed scenarios and that the Group’s ongoing viability would be sustained. The stress scenario assumptions would be reassessed, if necessary, over the longer term. An example of a mitigating action in such scenarios would be a reduction in costs along with a reduction in dividend.
+
+Based on the results of this analysis, the Board confirms it has a reasonable expectation that the Company and the Group will be able to continue in operation and meet their liabilities as they fall due over the next three years. On that basis, the Directors also considered it appropriate to prepare the financial statements on the going concern basis as set out on page 81.
+
+---
+# Strategic report
+## SECTION 172 (1) STATEMENT AND STAKEHOLDER ENGAGEMENT
+*30 City of London Investment Group PLC Annual Report 2024/2025*
+---
+
+# Strategic report
+
+Section 172 (1) of the Companies Act 2006 requires Directors to act in the way they consider, in good faith, would be most likely to promote the success of the Company for the benefit of its shareholders as a whole and, in so doing, have regard (amongst other matters) to:
+
+*   the likely consequences of any decisions in the long term;
+*   the interests of the Company’s employees;
+*   the need to foster the Company’s business relationships with suppliers, customers and others;
+*   the impact of the Company’s operations on the community and environment;
+*   the desirability of the Company maintaining a reputation for high standards of business conduct; and
+*   the need to act fairly to all shareholders of the Company.
+
+The Board understands how important it is to engage with each of its stakeholders to ensure it understands their needs and the impact of their decisions on each stakeholder. The Board, in collaboration with the senior management teams of its two operating subsidiaries, engage with stakeholders in a variety of ways, both formally and informally. As part of its decision-making process, the Board will always consider the Company’s stakeholders; however, it is acknowledged that, in balancing different perspectives, it may not always be possible to deliver everyone’s desired outcome.
+
+Throughout the year we have continued our commitment to maintaining open and constructive dialogue with key stakeholder groups, which in turn helps support the long-term success and sustainability of our business.
+
+Our Stakeholder Engagement section on pages 31 to 32, which should be read in conjunction with this statement, illustrates how we have engaged and how stakeholder views were considered in its decision making throughout the year.
+
+---
+*City of London Investment Group PLC Annual Report 2024/2025 31*
+---
+
+Overview | Financial statements | Shareholder information | Governance | Strategic report
+:--- | :--- | :--- | :--- | :---
+
+| KEY STAKEHOLDERS | WHAT IS IMPORTANT TO THEM | HOW WE HAVE ENGAGED | OUTCOMES OF ENGAGEMENT |
+| :--- | :--- | :--- | :--- |
+| **Clients** | • Outperformance versus a relevant benchmark or peer group. <br> • Transparency on key | | |
+
+# report
+
+| KEY STAKEHOLDERS | WHAT IS IMPORTANT TO THEM | HOW WE HAVE ENGAGED | OUTCOMES OF ENGAGEMENT |
+| :--- | :--- | :--- | :--- |
+| **Clients** | * Outperformance versus a relevant benchmark or peer group.<br>* Transparency on key issues.<br>* Open and clear communication. | * Received regular reports providing updates on client relationships.<br>* Considering details of client calls and engagement, and feedback.<br>* Regular communication related to investment products, including investment performance and regulatory requirements. | * New product offerings, including strategies and product extensions.<br>* An additional focus on outreach via different means, such as LinkedIn and industry events. |
+| **Shareholders** | * Shareholder interests and concerns are understood and addressed.<br>* Transparency on key issues and provide clear communications. | * Annual General Meeting.<br>* Regular in-person/video conference meetings with shareholders.<br>* Video conference presentations and in- person/virtual roadshows around results announcements.<br>* Issuing important information about our business through our Annual Report, trading updates, Regulatory News Service announcements, investor presentations, our website, and social media channels. | * The Board approved an interim dividend of 11p which was paid on 3rd April 2025 and is recommending a final dividend of 22p, making a total of 33p for the year.<br>* Resolutions were proposed to shareholders. |
+| **Employees** | * Having an ongoing opportunity to share ideas and raise issues.<br>* Engagement with senior management and the Board of Directors.<br>* Working for an inclusive employee with a supportive culture.<br>* Develop employee expertise and provide opportunities for advancement. | * Board meetings are held at Company offices to provide employees with the opportunity for informal interaction with the Board.<br>* Regular site visits to various offices and interaction with staff and management by the Chair of the Board and the other Non-Executive Directors.<br>* An employee survey was provided to all employees, eliciting feedback on strategic initiatives, culture, and communications. | * The Board keeps workforce policies under review to ensure they are consistent with the Group’s values and support the Company’s long-term success. Refer to page 33 for details about employee welfare policies.<br>* Meeting with Executive and Non- Executive Directors.<br>* Continuing to have a designated Non- Executive Director (Rian Dartnell) in charge of employee engagement.<br>* Championing strength of communication between the Board and employees, and ensuring appropriate opportunities are created for employees to give feedback.<br>* Providing a whistleblowing mechanism enables the workforce to report concerns anonymously.<br>* Our Anti-Bribery and Corruption policy and Statement on Slavery and Human Trafficking set out relevant policies and expected standards. |
+| **The Environment** | * CLIG to be a good corporate citizen and commit to promoting responsible investment.<br>* Adhere to local and national regulations, specific to the countries that we work in. | * Receiving reports regarding the Group’s carbon footprint and sustainability data.<br>* Continued our engagement with a third- party environment consultant to enhance our climate-related disclosures on environmental risks and opportunities. | * The Group endeavours to limit its carbon footprint through a series of Group-wide initiatives with an aim to reduce absolute levels of emissions and waste volumes as detailed on pages 34 and 36 to 40.<br>* At CLIM, we utilise Sustainalytics to ensure that the investment process supports ESG initiatives. Refer to page 35 in relation to responsible investment.<br>* Refer to disclosures recommended by TCFD on pages 36 to 40. |
+| **Our Communities** | * Ongoing support for the communities in which we have offices, and continuing to have a positive contribution. | * The Board challenged the Group to review engagement in local | |
+
+---
+
+### SECTION 172 (1) STATEMENT AND STAKEHOLDER ENGAGEMENT CONTINUED
+
+**32** City of London Investment Group PLC Annual Report 2024/2025
+*Strategic report*
+
+to 40.
+
+### Our Communities
+*   Ongoing support for the communities in which we have offices, and continuing to have a positive contribution.
+*   The Board challenged the Group to review engagement in local areas, in the form of internships and outreach.
+*   Encouraging employee volunteer work in community activities.
+*   The Group has a zero-tolerance approach to human rights abuses, bribery and corruption.
+*   Engaging in programmes that make communities better places to live and work.
+*   Community outreach and support efforts are a key element of our ongoing business operations. Further details can be found on page 35.
+*   Using local suppliers to help support businesses within the community.
+*   Raising awareness, sharing efforts and encouraging participation via COLeague news, our internal newsletter.
+*   As referenced on page 35, our employees have strengthened the bonds with their local communities during the year.
+*   Our Anti-Bribery and Corruption policy and Statement on Slavery and Human Trafficking set out relevant policies and expected standards.
+
+### Regulators
+*   Ensuring that the Group complies with all relevant regulatory requirements in the areas that we work, and our subsidiaries invest in.
+*   Responsiveness to queries and open dialogue as warranted.
+*   Received and challenged regular reports from finance and compliance.
+*   Each operating subsidiary has a compliance function which is integral to investment management and client functions and reports to the Board.
+*   We have proactively communicated with the local regulator(s) during the year.
+*   Proactively monitor changes in regulatory requirements and ensure the Group makes changes as required.
+
+### Vendors
+*   That we treat our vendors with respect, pay them per the terms of the contract, and hold them accountable.
+*   Received and challenged regular reports from operations.
+*   Vendor relationships are managed by senior management with responsibilities clearly enumerated.
+*   Expense authorisations are approved by an Executive Director, after considering the rationale for choosing a vendor.
+*   Ensure that vendors adopt and execute data security practices consistent with internal Group policies.
+*   Ensure that arms-length relationships exist in order to protect client and shareholder interests.
+*   Using local suppliers to help support businesses within the community.
+
+**OTHER STAKEHOLDERS**
+**WHAT IS IMPORTANT TO THEM**
+**HOW WE HAVE ENGAGED**
+**OUTCOMES OF ENGAGEMENT**
+
+City of London Investment Group PLC Annual Report 2024/2025 33
+
+---
+
+## CORPORATE AND SOCIAL RESPONSIBILITY POLICY
+
+**Strategic report**
+
+CLIG is committed to maintaining transparent policies regarding the Group’s Corporate and Social Responsibilities, and remaining an engaged member of our greater communities.
+
+### Employee welfare
+In addition to the statutory obligations, CLIG is committed to maintaining transparent policies in respect of the following:
+*   recognition of diversity through recruitment and promotion based on merit without regard to ethnicity, gender, religion, sexual orientation, disability, family or marital status, language, national origin, political affiliation, race, age, or any other characteristic protected by law;
+*   strict adherence to and compliance with the regulatory requirements in force by all employees supported by clear guidelines that enable whistleblowing;
+*   participation by employees in the Group’s activities through share ownership arrangements that encourage employee retention and minimise turnover; and
+*   ensuring good practices and creating a workplace free of harassment and bullying and in which all individuals are treated with dignity and respect, following the law set by the Equality Act 2010 in the UK, and in local jurisdictions of our offices.
+
+Under the UK Corporate Governance Code 2018, the Board is required to agree a mechanism to ensure ongoing engagement with the workforce. Rian Dartnell, Chair, has been designated as the Non-Executive Director for employee engagement.
+
+### Health and Safety
+CLIG is committed to maintaining a high
+
+ongoing engagement with the workforce. Rian Dartnell, Chair, has been designated as the Non-Executive Director for employee engagement.
+
+## Health and Safety
+CLIG is committed to maintaining a high level of Health and Safety (H&S). All UK employees have access through our Group Income Protection policy to an Employee Assistance Programme (EAP), which offers confidential advice on personal and professional matters to employees and members of their immediate family. Areas covered within the EAP include:
+*   Mental Health Support
+*   Burnout Prevention
+*   Life Events Counselling
+*   Services related to well-being and healthy living.
+
+## Gender diversity
+As an employer, CLIG is committed to equality and valuing diversity within its workforce. As noted above, we believe that people should be appointed to their roles based on skills, merit and performance. We recognise that diversity adds value, and our goal is to ensure that our commitments, reinforced by our values, are embedded in our day-to-day working practices.
+
+The gender ratio at the Board level as at 30th June 2025 was 20% female to 80% male. This is compared to 40% female on 30th June 2024. Following the departure of Tom Griffith as an Executive Director of the CLIG Board on 1st July 2025, the gender ratio was 25% female to 75% male.
+
+Of our 110 employees, excluding Non- Executive Directors, 38% are female (2024: 36%), including 31% of senior management including Executive Directors (2024: 24%), and 39% of the remaining employees (2024: 38%).
+
+| 2025 | Female | Male | Total |
+| :--- | :---: | :---: | :---: |
+| Executive Director | 0 | 1 | 1 |
+| Senior managers | 5 | 10 | 15 |
+| All other employees | 37 | 57 | 94 |
+| | **42** | **68** | **110** |
+| NEDs | 1 | 3 | 4 |
+| | **43** | **71** | **114** |
+
+## Work/life balance
+As the Group continues to adapt with advancements in technology, changes in culture, and the changing family circumstances of our employees, we try to be fair and flexible while retaining teamwork supported by in person collaboration as one of our core values. Our management team and the Board engaged with the workforce on the topic of Work from Home (WFH) during the year via an employee survey. Our WFH policy is reviewed on an annual basis, as we continue to work towards finding the right balance for the three primary stakeholders – Employees, Clients and Shareholders. The Group has a hybrid WFH policy where employees are provided a bank of flexible WFH days to use during the financial year, pending appropriate coverage on premise by colleagues in their respective departments.
+
+***
+
+1. WORKPLACE Overview Financial statements Shareholder informationGovernanceStrategic report 34 City of London Investment Group PLC Annual Report 2024/2025
+
+***
+
+## Human rights
+CLIG is committed to respecting all human rights. Our operations and practices relevant to the workplace and community are aligned with the United Nations (UN) Universal Declaration of Human Rights.
+
+## Learning and development
+Our employees are an asset to us. We recognise and support the importance of encouraging all employees to complete professional qualifications relevant to their role, in order to progress and realise their full potential. We partner with our employees and contribute towards their development by sponsoring their studies and providing study leave.
+
+As both operating subsidiaries are active investment managers, we will sponsor employees for their Chartered Financial Analyst (CFA ®) designation and annual membership where the designation is relevant for their role or career path. In the past year, we also supported leadership training via the KPMG Executive Leadership Institute for Women and a certification from the Society for Human Resource Management.
+
+Mandatory anti-money laundering and Code of Ethics training is provided annually to all employees. Employees also take responsibility for their own development via our annual appraisal process, where they are able to discuss further training needs with their manager. We continued with the CLIG Security Education Programme (CSEP), which is a multi-faceted cybersecurity training programme that includes
+
+are able to discuss further training needs with their manager. We continued with the CLIG Security Education Programme (CSEP), which is a multi-faceted cybersecurity training programme that includes online courses and videos via a web-based portal. We are proud of our employees’ abilities to keep our data safe, and their commitment to monthly training and phishing exercises. Additionally, we use the web-based portal to provide training on Diversity, Equity, and Inclusion topics twice during each financial year.
+
+### Ethics
+All CLIG employees are required to act in accordance with their respective Code of Ethics. This lays out minimum standards of conduct to ensure that employees act ethically when dealing with our various stakeholders. It also seeks to ensure that all actual and potential conflicts of interest are identified, mitigated and monitored on an ongoing basis. Any breaches of the Code are reported to the Board of Directors.
+
+Rian Dartnell is the Director responsible for the Group’s environmental policy.
+
+### Environmental policy initiatives
+Employees and management of the Group are committed to protect the environment in which we operate. We provide investment management services to our clients which have a relatively modest direct environmental impact. The Group recognises that we must first acknowledge, then measure, and then minimise environmental risks and, wherever commercially possible, improve the Group’s overall environmental performance.
+
+The Group continued our engagement with a third-party environmental consultant, ECO3 Partnership Limited (ECO3). ECO3 assists with the production of our shareholder disclosures, and counsel us on initiatives we are undertaking.
+
+A representative list of initiatives completed during the year to help reduce the environmental impact of our activities, is as follows:
+*   carbon offsets were purchased to offset all Group business travel and our remaining Scope 1 and 2 emissions;
+*   investment in further enhancement of our technology solutions to promote regular video conferencing, thereby reducing business travel, where possible; and
+*   ongoing adoption of cloud-based technologies, to reduce our on premise server equipment, acknowledging that electricity and hardware is still required to power the servers, however the large providers have economies of scale in power and hardware production.
+
+We support the work undertaken by the TCFD and have produced our detailed response in alignment with its recommendations. To meet the listing requirements under LR 9.8.6, we have included the climate-related financial disclosures consistent with the TCFD recommendation on pages 36 to 40.
+
+***
+
+## 2. ENVIRONMENT
+### CORPORATE AND SOCIAL RESPONSIBILITY POLICY CONTINUED
+
+Strategic report Overview Financial statements Shareholder informationGovernance City of London Investment Group PLC Annual Report 2024/2025 35 Strategic report
+
+***
+
+CLIG seeks to encourage employees to regularly participate in community support activities across a wide spectrum of causes that encompass both monetary and non-monetary efforts to help raise awareness. In turn, this fosters a culture of leadership, teamwork and appreciation within our Group and community.
+
+Our long-term goals include:
+*   encouraging employee volunteer work in community activities;
+*   engaging in programmes that make communities better places to live and work;
+*   using local suppliers to help support businesses within the community; and
+*   raising awareness, sharing efforts and encouraging participation via COLeague news, our internal newsletter.
+
+An illustrative, but not exhaustive, list of employees’ participations in FY 2025 includes:
+*   United Way Day of Caring, to weed and clean the grounds of a local community facility (US);
+*   Socktober Drive to collect new socks for the homeless in advance of the winter months (US);
+*   Thanksgiving Food Drive for a local food pantry (US);
+*   Annual Toy Drive during the Holiday season for a local shelter (US);
+*   Bake sale to raise funds for The Switch
+
+*   of the winter months (US);
+*   Thanksgiving Food Drive for a local food pantry (US);
+*   Annual Toy Drive during the Holiday season for a local shelter (US);
+*   Bake sale to raise funds for The Switch (UK);
+*   Donated new or gently used professional clothing for Career Closet at the local University (US); and
+*   Various athletic achievements and fundraisers to support various causes (US and UK).
+
+As a matter of policy, CLIG does not make donations to any client-related charity, event or activity, or to any political party or candidate.
+
+Both of CLIG’s operating subsidiaries invest primarily in closed-end funds (CEFs). CLIM and KIM are committed to promoting responsible investment. CLIM’s investment process prioritises good governance but it also includes an assessment of the environmental and social policies of the CEFs’ underlying securities.
+
+We define ESG in the context of stewardship policies by which we are committed to responsible allocation, management and oversight of capital to create long-term value. In the context of a CEF strategy, we have a two-pronged approach to responsible investment:
+
+*   We promote effective governance at the CEFs in which our clients are invested, both via their Boards and by engaging with the relevant regulators and policy makers.
+*   We promote greater transparency from the CEFs of the ESG characteristics of their underlying portfolios.
+
+CLIM is a signatory to the UN-supported Principles for Responsible Investment (PRI). CLIM has partnered with Sustainalytics, a leading independent provider of ESG research. This partnership allows CLIM to receive data to monitor the underlying portfolio of the CEF, and allows CLIM to question the CEF investment manager on their portfolio and stance on ESG issues. We believe good disclosure requirements by the Board to the Investment Manager results in more effective management of ESG risks and therefore better outcomes for our clients.
+
+CLIM’s Proxy Voting Record and Annual Stewardship Report are available on our website at: https://citlon.com/esg-clients .
+
+### 3. COMMUNITY
+
+### 4. RESPONSIBLE INVESTMENT
+
+**CREDIBLE DISCOUNT CONTROL**
+
+**INDEPENDENT BOARD**
+
+**CEF GOVERNANCE**
+
+**UNDERLYING PORTFOLIO: OVERALL ESG RISK**
+
+**EXPOSURE TO ESG ISSUES VS. BENCHMARK**
+
+**MANAGEMENT OF ESG RISKS VS. RELEVANT BENCHMARK**
+
+## TASK FORCE ON CLIMATE-RELATED FINANCIAL DISCLOSURES
+
+---
+36 City of London Investment Group PLC Annual Report 2024/2025
+---
+
+## Strategic report
+
+The following pages summarise our Streamlined Energy and Carbon Reporting disclosure and our Task Force for Climate Related Financial Disclosure (TCFD), in line with the Companies (Directors’ Report) and Limited Liability Partnerships (Amendment) Regulations 2018 and listing requirement of LR 9.8.6, for the financial year ended 30th June 2025.
+
+As a listed company, we disclose environmental initiatives at a Group level in our Annual Report and Accounts. We have produced a detailed 2024/25 Annual TCFD & GHG Emissions Report, published in September 2025 (Group TCFD Report) to complement our position, which has been included on our website at https://clig.com/wp-content/uploads/ 2025/09/CLIG-TCFD-GHG-Emissions- Report-June-2025.pdf
+
+We have continued to consolidate our physical footprint and have closed our office in Naples FL. In terms of operational emissions reduction, with reference to scopes 1 & 2, the majority of our offices have now transitioned to renewable energy tariffs for electricity resulting in market-based emissions benefits. We have also progressed our offsetting strategy for scope 3 business travel emissions.
+
+Key takeaways include:
+
+1.  A reduction of 9.26 tCO 2 e scope 1 & 2 market-based emissions.
+2.  A decrease of 234.74 tCO 2 e in business travel.
+    a. To mitigate this, we have invested in Gold Standard offsets. Further detail is provided within our update.
+
+### 1.1. Governance
+
+#### 1.1.1. Board oversight
+
+Our Board remains committed to maintaining high standards of corporate governance throughout the Group. The oversight and structure of our Governance committees remains
+
+## 1.1.1. Board oversight
+Our Board remains committed to maintaining high standards of corporate governance throughout the Group. The oversight and structure of our Governance committees remains unchanged in period. Key personnel changes have been defined in the Director’s report and are noted in the Chair’s statement. Our approach to overseeing climate- related risks and reporting is summarised within our Audit & Risk Committee (ARC) Terms of Reference, which was revised in February 2025. For further details, please see: <https://clig.com/wp-content/uploads/2025/03/20250219-ARC-TOR-Feb-2025.pdf>
+
+## 1.1.2. Management oversight
+There has been no substantive change in period. Senior management in KIM and CLIM support the assessment of climate- related risks and opportunities. Senior management includes CLIM’s portfolio managers who are responsible for implementing stewardship for their respective strategies, with the assistance of a UK based governance and ESG specialist. This ensures a coordinated response where an asset is held across multiple strategies within CLIM.
+
+## 2.1. Identification of Climate Risks & Opportunities
+### At investment management level
+Our business model remains focused on exploiting discount volatility in CEFs on behalf of our clients to achieve capital growth and outperform relevant benchmark indices. Improving CEF governance has been a key objective since our business was founded, but neither CLIM nor KIM select CEFs solely based on their ESG characteristics. Their business models are to implement investment strategies that exploit discount volatility in CEFs. With respect to CLIM, further details (for non-US persons) regarding our SFDR disclosure are detailed here: <https://citlon.com/sustainable-finance-disclosure-regulation-sfdr/>
+
+CLIM’s investment process is driven predominately by capitalising on CEF discount inefficiencies. The ESG characteristics of the underlying CEF portfolios are not the primary reason for selection. However, we appreciate that ESG ratings require consideration, and we therefore encourage CEFs to be more explicit regarding the integration of ESG factors into their investment process. Further details regarding Stewardship & Corporate Governance, Voting Record & Press Releases are available within the ‘ESG for Clients’ section of our website, as well as out Annual Stewardship Report located at: <https://citlon.com/wp-content/uploads/2025/03/AnnualStewardshipReport3-25.pdf>
+
+> 1. EXECUTIVE SUMMARY 2. STRATEGY Overview Financial statements Shareholder informationGovernance City of London Investment Group PLC Annual Report 2024/2025 37 Strategic report
+
+### At CLIG corporate level
+Recognising that climate risk manifests through the physical effects of changing weather patterns and by efforts to reduce and eliminate the GHG emissions that drive those physical risks, we have identified a series of risks, and their associated drivers, across three-time horizons-
+1.  Short Term which is 0-5 years,
+2.  Medium Term, which is 5-10 years, and
+3.  Long Term, which is 10+ years.
+
+We have commenced a review of potential climate risk exposures, including risk drivers and how they could translate to CLIG across three initial time horizons. A summary of key risks, their drivers and potential transmission routes are illustrated in Table 2.1 above.
+
+## 2.2. Impact of Climate Risks & Opportunities
+We acknowledge that the gradual change potential in physical risks is happening now and will only increase over the coming decades. Transition risk is more time pressing and will likely have a higher impact on CLIG’s operations in the short and medium term. We continue to enhance our processes linking the impact of climate related risks and opportunities, presented in our Group TCFD report.
+
+## 2.3. Scenario Analysis
+As noted previously, neither CLIM nor KIM select CEFs solely based on their ESG characteristics. Their business models are to implement investment strategies that exploit discount volatility in CEFs. We monitor climate
+
+neither CLIM nor KIM select CEFs solely based on their ESG characteristics. Their business models are to implement investment strategies that exploit discount volatility in CEFs. We monitor climate scenarios and the latest publications where possible. Details are found within our Group TCFD Report.
+
+### 3.1. Identifying & assessing climate risks
+We have reviewed key risks outlined within the Carbon Disclosure Project (CDP) and within the TCFD documentation. We continue to develop our materiality determination processes and will provide further detail in our next annual report. A list of applicable risks to CLIG have been defined and codified to support further assessment on an ongoing basis. Further detail is presented within our Group TCFD report.
+
+### 3.2. Managing climate related risks
+We continue to develop our approach to help integrate climate-related risk into our decision process. Climate risk remains an emerging risk, but it is not currently considered a significant risk for the Group.
+
+### 3.3. Integration into risk management processes
+We will consider reviewing the manner in which we have introduced the management of climate risk into our Group level risk management framework.
+
+CLIM is a large investor in CEFs and at the corporate level prioritises governance factors over underlying portfolio ESG issues when assessing a potential holding prior to purchase. In 2024, 63 CEF portfolios were analysed (65 in 2023) using Sustainalytics data, representing 72% of CLIM’s FuM at the calendar year end. In those CEF portfolios that were analysed, Sustainalytics covers 94% of the underlying securities on a size weighted basis. Sustainalytics does not cover unlisted companies and has limited small cap coverage. Small cap securities tend to score poorly which, in CLIM’s view, often reflects their weaker disclosure and a relative lack of resources available to develop relevant policies as opposed to poor ESG practices. Lower scores for smaller companies are not necessarily indicative of higher ESG risk. Given the fixed capital structure, CEF investment strategies generally have longer investment horizons and a majority employ active, fundamental, bottom-up processes that favour opportunities in smaller companies. Accordingly, CLIM’s CEF portfolios are typically overweight smaller and mid cap securities.
+
+**Table 2.1. Climate risks and drivers**
+
+*High impact Medium impact Low impact*
+
+| Risk Category | Sub-category | Short Term (0-5yrs) | Medium Term (5-10 yrs) | Long Term (10+ yrs) |
+| :--- | :--- | :--- | :--- | :--- |
+| **Financial risks** | Market | | | |
+| | Interest rates | | | |
+| | Credit | | | |
+| | Liquidity | | | |
+| **Business risks** | Strategic | | | |
+| | Operational | | | |
+| | Technology & resilience | | | |
+| | Regulatory compliance | | | |
+| | Reputational | | | |
+
+## 3. RISK MANAGEMENT
+### TASK FORCE ON CLIMATE-RELATED FINANCIAL DISCLOSURES CONTINUED
+
+---
+38 City of London Investment Group PLC Annual Report 2024/2025 Strategic report
+---
+
+Overall ESG risk for all CLIM portfolios as at end December 2024, using Sustainalytics, was 5% lower than their respective benchmarks. Weighted average carbon intensity in those CEF investments which made the relevant disclosures was over 48% lower than their respective benchmarks. CLIM does not set targets for these measures.
+
+Figure 3.1 illustrates the distribution of securities held in client portfolios as at end 2024, according to their overall ESG risk compared to their specific benchmark.
+
+Please also refer to our Responsible Investment Statement and further detail of our own risk management approach on our website. Further information is also provided in our Annual Stewardship Report: [https://citlon.com/wp-content/ uploads/2025/03/AnnualStewardship Report3-25.pdf](https://citlon.com/wp-content/%20uploads/2025/03/AnnualStewardship%20Report3-25.pdf)
+
+### 4.1. Alignment with strategy & risk management
+The following section relates to our own operational footprint. In terms of reducing our Scope 2 market- based emissions, the electricity procured for our London office is underpinned by Renewable Energy Guarantees of Origin. At Rochester the office is supplemented by renewable energy credits for wind power generated in New York State. Our West Chester, Pennsylvania
+
+is underpinned by Renewable Energy Guarantees of Origin. At Rochester the office is supplemented by renewable energy credits for wind power generated in New York State. Our West Chester, Pennsylvania office is also supported by renewable energy credits, purchased from solar and wind resources. In terms of offsetting our carbon emissions, we purchased 235 tonnes of CO₂e verified offsets from Gold Standard.
+
+## 4.2. Footprint & SECR summary
+
+As expected, 97% of our estimated emissions (scopes 1-3) come from scope 3. Our Scope 1 & 2 emissions have decreased by 9.26 tCO₂e since our previous reporting period (using a market- based methodology), resultant from the purchase of green energy contracts/credits. A summary of our assessed emissions is shown in Figure 4.1 on the following page.
+
+### 4.2.1. Energy Consumption
+
+We have used a financial control boundary. The energy consumption used to calculate emissions for Scopes 1 & 2 was 395,139 and has decreased slightly in the period (479,594 kWh last year). Gas consumption has remained fairly consistent, with the small increase in consumption largely due to West Chester which has the largest heating demand.
+
+***
+
+**Figure 3.1. CLIM’s CEF investments overall ESG risk vs benchmark**
+
+| Risk Category | end of 2022 (no. of funds) | end of 2023 (no. of funds) | end of 2024 (no. of funds) |
+| :---------------------------- | :------------------------: | :------------------------: | :------------------------: |
+| **Low < -15%** | 31 | 18 | 4 |
+| **Below Average -15% to -5%** | 7 | 3 | 4 |
+| **Average -5% to +5%** | 25 | 4 | 18 |
+| **Above Average +5% to +15%** | 22 | 444 | 29 |
+| **High >+15%** | 11 | 35 | 8 |
+
+***
+
+**Figure 4.2. CLIG – Year on year comparison of electricity consumption and office closures**
+
+*A bar chart showing electricity consumption in kWh on the y-axis (from 0 to 180,000) and years on the x-axis (2021-22, 2022-23, 2023-24, 2024-25 est.). Bars are grouped by office location: London, Singapore, Seattle, Dubai, West Chester, KIM, Naples, Rochester, Coatesville.*
+
+***
+
+> City of London Investment Group PLC Annual Report 2024/2025
+>
+> *Overview | Financial statements | Shareholder information | Governance | Strategic report*
+>
+> **39**
+
+# 4. METRICS AND TARGETS
+
+**Figure 4.1. City of London Investment Group PLC – Scopes 1-3 GHG emissions summary**
+
+| GHG Emissions summary | Year ended 30th June 2025 |
+| :------------------------------------------------ | :------------------------ |
+| **Scope 1:** | 13.21 tCO₂e |
+| **Scope 2 (MB):** | 6.91 tCO₂e |
+| **Scope 3: (net emissions\*):** | 694.09 tCO₂e |
+| \*including verified carbon offsets | |
+
+*A bar chart representing the following data in tCO₂e:*
+*   **Scope 1: Total:** 13.21
+*   **Scope 3: Purchased goods and services:** 603.07
+*   **Scope 3: Business travel:** 203.12
+*   **Scope 3: Employee commuting and homeworking:** 100.01
+
+| Scope | Emissions type category | Indicator name | Year ended 30th June 2025 t CO₂ eq. | Year ended 30th June 2024 t CO₂ eq. | Year ended 30th June 2023 t CO₂ eq. | Year ended 30th June 2022 t CO₂ eq. |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Scope 1** | **Total direct GHG emissions** | **Scope 1 sub-total** | **13.21** | **13.06** | **6.91** | **0.00** |
+| Scope 1 | Direct | Company facilities- Stationary Combustion (gas) | 13.21 | 13.06 | 6.91 | NA |
+| Scope 1 | Direct | Company vehicles | – | – | – | – |
+| Scope 1 | Direct | Fugitive emissions | – | – | – | – |
+| **Scope 2** | **Indirect energy related emissions** | **Scope 2 (market-based) sub-total** | **6.91** | **16.32** | **48.19** | **105.00** |
+| Scope 2 | Indirect | Purchased electricity for own use (location-based) (UK) | 15.45 | 17.15 | 16.55 | 105.00 |
+| Scope 2 | Indirect | Purchased electricity for own use (location-based) (Non-UK) | 52.54 | 72.02 | 55.93 | – |
+| Scope 2 | Indirect | Purchased electricity for own use (market-based) (UK) | 0.00 | 0.00 | 0.00 | – |
+| Scope 2 | Indirect | Purchased electricity for own use (market-based) (Non-UK) | 6.91 | 16.32 | 48.19 | – |
+| **Scopes 1 & 2** | | **Scopes 1 & 2 (market-based) (Global)** | **20.12** | **29.38** | **55.10** | **105.00** |
+| **Scope 3** | **Indirect emissions** | **Scope 3 total (Global)** | **929.09** | **1,131.03** | **1,039.59** | **137.00** |
+| Scope 3 | Upstream | 1 Purchased goods and services | 603.07 | 428.59 | 533.27 | NA |
+| Scope 3 | Upstream | 2 Capital goods | 10.81 | 100.11 | 134.65 | NA |
+| Scope 3 | Upstream | 3 Fuel & energy related activities (not included in scope 1 and scope 2) | 5.79 | 6.57 | 3.80 | 6.00 |
+| Scope 3 | Upstream | 5 Water & Waste generated in operations | 6.29 | 6.25 | 6.25 | NA |
+| Scope 3 | Upstream | 6 Business travel | 203.12 | 437.86 | 183.01 | 131.00 |
+| Scope 3 | Upstream | 7 Employee commuting & homeworking | 100.01 | 151.65 | 178.61 | NA |
+
+Carbon "Verified
+
+| | | | | | |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| generated in operations | 6.29 | 6.25 | 6.25 | NA | |
+| Scope 3 Upstream | 6 Business travel | 203.12 | 437.86 | 183.01 | 131.00 | |
+| Scope 3 Upstream | 7 Employee commuting & homeworking | 100.01 | 151.65 | 178.61 | NA | |
+| Carbon Offsets | "Verified carbon offsets purchased and retired in period (offset of business travel plus contingency)" | (235.00) | (460.00) | – | – | Scopes 1, 2 & 3 |
+| Scopes 1, 2 & 3 Net Global total | Market-based (i.e. less verified offsets where applicable) | 714.21 | 700.41 | 1,094.68 | 242.00 | |
+
+---
+40 City of London Investment Group PLC Annual Report 2024/2025
+---
+
+# TASK FORCE ON CLIMATE-RELATED FINANCIAL DISCLOSURES CONTINUED
+
+## Strategic report
+
+### 4.2.2. Scope 1 & 2 Comparison with base year
+Our scope 1 & 2 market-based emissions have reduced by 9.26 tCO 2 e from last year (year ended 30th June 2024), as a result of continuing to procure a green electricity contract for our London office and renewable energy credits for our Rochester office and extending this approach to incorporate our West Chester office. Our associated Scope 1 & 2 intensity ratio has reduced from 0.91 tonnes CO 2 e/FTE in our base year, to 0.18 tonnes CO 2 e/FTE this year, with a reference value of 113 FTE in period.
+
+### 4.3. Targets and future actions
+Limiting the average global temperature rise to ‘well below 2°C above pre-industrial levels’ and pursuing efforts to limit the rise to 1.5°C above pre-industrial levels, in line with the Paris Agreement, is a critical challenge facing the global economy. Our net zero target considers alignment with the UK’s legally binding requirement to reduce its greenhouse gas emissions by 100% from 1990 levels. The net zero target for the UK was defined in the Climate Change Act 2008 (2050 Target Amendment) Order 2019. We are targeting operational net zero by 2050. We will be developing a Group climate strategy that will set out our near- term 2030 and long-term 2050 net zero targets. This will consider the actions we are taking across various climate pillars. Implementation of our operational decarbonisation strategy will be led by our Group Executive Committee and representatives from CLIM & KIM and overseen by the ARC.
+
+1.  **Pillar 1** – Reduce absolute Scope 2 (market-based) GHG emissions to 0 by 2027.
+2.  **Pillar 2** – Reduce absolute Scope 1 & 2 (location-based) greenhouse gas (GHG) emissions by 40-50% by 2030 from a 2022 baseline.
+
+> 0 50 100 150 200
+>
+> 2013/14 2014/15 2015/16 2016/17 2017/18 2018/19 2019/20 2020/21 2021/22 2022/23 2024/252023/24
+>
+> GHG emissions (tCO 2 e) Reporting period
+
+*Figure 4.2. CLIG – Year on year comparison of Scopes 1 & 2 combined (tCO 2 e)*
+
+> 30th June 2022 30th June 2023 30th June 202530th June 2024
+>
+> 0.91 0.25 0.18 0.47
+
+*Figure 4.3. CLIG – Year on year comparison of Scopes 1 & 2 intensity (tCO 2 e/FTE)*
+
+3.  **Pillar 3** – Reducing and offsetting business travel with additionality and permanence.
+4.  **Pillar 4** – We will consider implementing KPIs and annual reductions in our Scope 3 emissions. It will support our stewardship role in promoting sustainability throughout our business operations.
+
+---
+City of London Investment Group PLC Annual Report 2024/2025 41
+---
+
+Overview Financial statements Shareholder informationGovernanceStrategic report
+
+In the course of conducting our business operations, we are exposed to a variety of risks, including market, liquidity, operational and other current and emerging risks that may be material and require appropriate controls and ongoing oversight.
+
+# RISK MANAGEMENT
+
+## Group’s risk management framework
+The CLIG Board has the ultimate responsibility for setting the risk management framework for the Group, including discussing and agreeing what the Group’s overall top risks are, which are reviewed by the Board at each scheduled Board meeting. A Group-level risk register has been established which identifies principal current and emerging risks. The risk register provides a measure of the principal risks and a Red, Amber, Green (RAG) status based on the level of risk, frequency and mitigating controls in place. CLIM’s Risk & Compliance Committee (RCC) and KIM’s
+
+a measure of the principal risks and a Red, Amber, Green (RAG) status based on the level of risk, frequency and mitigating controls in place. CLIM’s Risk & Compliance Committee (RCC) and KIM’s Compliance Committee have the responsibility of the day-to-day oversight of the risk management process at the respective operating subsidiaries.
+
+### CLIM
+CLIM’s Board has established an RCC, which is co-chaired by CLIM’s Head of Compliance and US Chief Compliance Officer. The other members of the RCC are the Executive Directors of CLIM and CLIG and CLIM’s COO.
+
+The purpose of the RCC is to assist the CLIM Board in the oversight, maintenance and development of CLIM’s current and emerging risks and compliance frameworks in adherence with its risk appetite.
+
+CLIM’s risk management process requires, on a semi-annual basis, that each department/line of business, via a departmental risk assessment, review its current and emerging risks and the business processes that occur in each and assign both an inherent and residual risk rating, as whilst we cannot eliminate all risk, our aim is to proactively identify and manage those risks that have been identified.
+
+The RCC meets quarterly to provide the members with a regular forum at which to ensure any relevant issues are discussed and agreed upon. At its meetings, the RCC reviews management information such as:
+*   the CLIM risk register,
+*   breaches and errors,
+*   personal account dealing,
+*   other business interests,
+*   gifts and hospitality,
+*   complaints,
+*   Anti Money Laundering (AML) updates including new clients on-boarded,
+*   ongoing screenings,
+*   capital adequacy,
+*   liquidity,
+*   employee training,
+*   outsourcing and key regulatory updates,
+*   as well as approving new or updated CLIM policies.
+
+The RCC via CLIM’s Head of Compliance and US Chief Compliance Officer reports to the CLIG Audit & Risk Committee at each of its four scheduled meetings.
+
+### KIM
+The KIM Board has established a Compliance Committee which is chaired by KIM’s Chief Compliance Officer (KIM CCO) and includes three other members: KIM’s Chief Financial Officer, KIM’s Director of Operations; and KIM’s Chief Investment Officer/President.
+
+The Committee’s purpose is to review and assess the Company’s investment adviser compliance programme in the following manner:
+*   assist the KIM CCO with administering the investment adviser compliance programme;
+*   evaluate the Company’s compliance with federal securities laws;
+*   monitor compliance with the Company’s policies and procedures as set forth in the Compliance Manual and Code of Ethics;
+*   oversee and assess the Company’s Information Security policy and Business Continuity and Disaster Recovery Plan;
+*   oversee and assess the Company’s Identity Theft Prevention Programme; and
+*   address other matters that the Management Committee deems appropriate.
+
+The Committee meets as often as it may be deemed necessary or appropriate in its judgement, either in person or remotely, and at such times and places as the Committee shall determine. The Committee, via the KIM CCO, reports to CLIG’s Audit & Risk Committee at each of its four scheduled meetings.
+
+### Internal controls
+The Group maintains a comprehensive system of internal controls, including financial, operational and compliance/ risk controls.
+
+*   As mentioned earlier, on a semi-annual basis each department of business within CLIM is required to review and update their individual risk assessment.
+*   Additionally, each department of business within CLIM is subject to an annual review by senior management, who are required to identify and report on the key controls pertinent to their responsibilities.
+*   The senior management team at KIM is responsible for ensuring adequate internal controls within KIM.
+*   The Audit & Risk Committee reviews the effectiveness of the system of internal controls on an ongoing basis.
+*   During the year an internal audit function has been set up to provide independent assurance and to support the Board in complying with the new Principle O of the UK Corporate Governance Code 2024 and its
+
+the year an internal audit function has been set up to provide independent assurance and to support the Board in complying with the new Principle O of the UK Corporate Governance Code 2024 and its responsibility to maintain the effectiveness of the risk management and internal control framework. Refer to page 60 for further information.
+
+### Strategic report 42 City of London Investment Group PLC Annual Report 2024/2025
+
+In addition, there are a number of less significant financial risks outlined in note 26 on pages 126 to 127.
+
+| PRINCIPAL RISK | CONTROLS / MITIGATION |
+| :--- | :--- |
+| **Key person risk** <br> Risk that key employees across the business leave/significant reliance on a small number of key employees. | Team approach, internal procedures and knowledge sharing. Remuneration packages reviewed as needed to ensure talent/key employees are retained. In addition, the Nomination Committee regularly reviews talent and succession plans for both Board and key senior management positions. |
+| **Technology, IT/ cybersecurity and business continuity risks** <br> Risk that technology systems and support are inadequate or fail to adapt to changing requirements; systems are vulnerable to third party penetration or that the business cannot continue in a disaster. | IT monitors and controls risks related to cyber threats, and for the strength and security of the Group's network and infrastructure. The IT department has controls in place to mitigate risk, which include, but are not limited to access management, patch management, application updates, physical environment protection, and data back-up and recovery. The Group has policies in place for Disaster Recovery/Business Continuity and Incident Response Planning. |
+| **Material error/ mandate breach** <br> Risk of a material error or investment mandate breach occurring. | Mandate guidelines are coded (where possible) into the order management system by the Investment Management/Compliance teams of each operating subsidiary. |
+| **Regulatory and legal risk** <br> Risk of legal or regulatory action resulting in fines, penalties, censure or legal action arising from failure to identify or meet regulatory and legislative requirements in the jurisdictions in which the Group and its operating subsidiaries operate, including those as a result of being a listed entity on the London Stock Exchange. Risk that new regulation or changes to the interpretation of existing regulation affects the Group’s operations and cost base. | Compliance teams of each subsidiary monitor relevant regulatory developments – both new regulations as well as changes to existing regulations that impact their respective subsidiary. Implementation is done as practicably as possible taking into account the size and nature of the business. The finance team with the support of CLIG’s Company Secretary keeps abreast of any changes to Listing Rules, accounting and other standards that may have an impact on the Group. Finance and both the compliance teams receive regular updates from a variety of external sources including regulators, law firms, consultancies etc. |
+
+## Principal risks
+
+The Board has conducted a robust assessment of the principal risks facing the Group, including those that would threaten its business model, future performance, solvency or liquidity. This assessment includes continuous monitoring of both internal and external environments to identify new and emerging risks, which in turn are analysed to determine how they can best be mitigated and managed.
+
+The primary risk is the potential for loss of FuM as a result of poor investment performance, client redemptions, reputational damage, a breach of mandate guidelines or market volatility. The Group seeks to attract and retain clients through consistent outperformance supplemented by first class client servicing.
+
+In addition to the above key business risk, the Group has outlined what it considers to be its other principal risks, including the controls in place and any mitigating factors.
+
+Should shareholders have any queries with regard to
+
+risk, the Group has outlined what it considers to be its other principal risks, including the controls in place and any mitigating factors.
+
+Should shareholders have any queries with regard to the content of this report, they are welcome to email us at <investorrelations@citlon.co.uk>, but we will not be able to answer any questions of a price-sensitive nature.
+
+### Strategic Report approval statement
+
+The Strategic Report contained on pages 5 to 42 has been approved by the Board of Directors and is signed on its behalf by:
+
+**Rian Dartnell**  
+Chairman of the Board  
+15th September 2025
+
+---
+
+## RISK MANAGEMENT CONTINUED
+
+### Strategic report Contents
+
+*   Chair's introduction **44**
+*   Board of Directors **46**
+*   Corporate governance report **47**
+*   Nomination Committee report **53**
+*   Audit & Risk Committee report **58**
+*   Remuneration Committee report **62**
+*   Annual Report on Remuneration **64**
+*   Directors’ Remuneration Policy **74**
+*   Directors’ report **81**
+*   Statement of Directors’ responsibilities **84**
+
+---
+
+**City of London Investment Group PLC Annual Report 2024/2025** **43**
+
+Strategic report | Overview | Financial statements | Shareholder information | Governance
+
+---
+
+# GOVERNANCE
+
+## CHAIR’S INTRODUCTION
+
+On behalf of the Board, I am pleased to introduce the Company’s Corporate Governance Report for the year ended 30th June 2025. This section of the report sets out our corporate governance framework and how we have applied the 2018 UK Corporate Governance Code principles.
+
+CLIG’s keen focus on corporate governance has continued through the year. We have further strengthened the reporting relationship between the Group Executive Committee and the Board, begun to embed the recent changes to the Board and Committees, progressed Board succession discussions and reviewed the changes to the UK Corporate Governance Code (the 2024 Code) which will apply to us from FY 2026.
+
+We welcome the changes to the 2024 Code which was published in January 2024 by the Financial Reporting Council (FRC) following earlier consultation by the government relating to trust in audit and corporate governance. One of the key revisions in the 2024 Code focuses on internal controls. Last year the Board tasked a team within the business to review and strengthen the processes already in place in time for when the 2024 Code requirements come into effect, and we look forward to reporting more on this in our FY 2026 Annual Report.
+
+### Board changes and succession planning
+
+We were pleased to welcome Ben Stocks to the CLIG Board in April 2025 as a new Independent Non-Executive Director (NED) and he became Chair of our Nomination Committee as of July. We will pick up our search for an additional NED when our new CEO joins – to add diversity and longevity to our Board. Succession planning is a key priority for the Nomination Committee and further work on this will continue here as well. Further details can be found in the Nomination Committee report on page 53.
+
+### Board performance review
+
+As we continue our focus on high standards of corporate governance, our FY 2025 Board performance review was conducted internally. The Board reviewed its own performance and effectiveness along with that of its committees and individual Directors, with the results and feedback from the Directors due to be discussed at the Board meeting in September 2025. The responses were consistent with my view that we have a well-functioning Board and that our NEDs maintain a deep commitment to CLIG and are upholding high standards for the Company. An update on the outcomes and actions from the 2025 performance will be available in our next Annual Report. Further details about the 2025 process can be found on page 55.
+
+### Annual General Meeting (AGM)
+
+The Company will hold its 2025 AGM on 27th October 2025 at 77 Gracechurch Street, London EC3V 0AS at 11:30 am. Voting at the AGM will be conducted by way of a poll and the results will be announced through the Regulatory News Service and made available on the Group’s website. More information on AGM arrangements is included in the Notice of the AGM on page 129.
+
+On behalf
+
+will be announced through the Regulatory News Service and made available on the Group’s website. More information on AGM arrangements is included in the Notice of the AGM on page 129. On behalf of the Board, we look forward to meeting with shareholders at the AGM.
+
+---
+*44 City of London Investment Group PLC Annual Report 2024/2025 Governance*
+
+> “Your Board has initiated improvements that broaden and empower the leadership teams at CLIM and KIM as well as set clear goals and accountability.”
+>
+> **Rian Dartnell**
+>
+> Chair
+
+---
+*City of London Investment Group PLC Annual Report 2024/2025 45*
+
+### Looking ahead
+A solid governance framework and appropriate processes are well-embedded throughout the Group, and we continue to improve where we identify opportunities to do so. Most notably, we intend to focus on updating our Board and Committee succession process, consider how we may enhance stakeholder engagement and ensure that we complete on-going maintenance of an effective risk management and internal control framework.
+
+Your Board has initiated improvements that broaden and empower the leadership teams at CLIM and KIM as well as set clear goals and accountability. We are highly focused on the selection of our new CLIG CEO and, as mentioned in my Chairman’s Statement, have engaged with impressive candidates that we are currently meeting. More details will be forthcoming as we progress.
+
+The past year has been busy and productive. I would like to take the opportunity to thank my Board colleagues and the CLIG team for their continued focus and commitment.
+
+**Rian Dartnell**  
+Chairman of the Board  
+15th September 2025
+
+---
+Strategic report | Overview | Financial statements | Shareholder information | Governance
+---
+
+## BOARD OF DIRECTORS
+
+---
+*46 City of London Investment Group PLC Annual Report 2024/2025 Governance*
+
+### RIAN DARTNELL, CHAIR OF THE BOARD
+**Date of appointment:** 1st October 2020  
+**Aggregate tenure:** >9 years
+
+**Experience:** Rian Dartnell is the Managing Partner of PAXIS Key Holdings and works with endowment, foundation and family relationships to identify and monitor exceptional managers and investments. He also serves as a Trustee, Adviser, or Investment member for high quality family, endowment and institutional investors. Rian served as a Non-Executive Director on the Group Board from June 2011 to July 2016.
+
+**External listed directorships:** none.
+
+**Contributes to the Board:**
+*   strong leadership;
+*   extensive experience of asset management industry;
+*   experienced investor; and
+*   financial and emerging markets knowledge.
+
+**Committee membership**  
+N R
+
+### PETER ROTH, SENIOR INDEPENDENT NON-EXECUTIVE DIRECTOR
+**Date of appointment:** 1st June 2019  
+**Aggregate tenure:** >6 years
+
+**Experience:** Peter E. Roth has more than 40 years of experience in the financial services industry. During his career, he has held senior executive positions with Fox-Pitt, Kelton and Keefe, Bruyette & Woods. Peter currently serves as Managing Partner of Rothpoint Group LLC, a New York based consulting firm focusing on the financial services industry. Peter is an Independent Director of the Stone Point Credit Corporation, Trustee of the Stone Point Credit Income Fund and is the Chair of the Audit Committee and member of the Nomination and Governance Committee of both companies. In the non-profit sector, serves on the Board of St Mary’s Healthcare System for Children where he Chairs the Finance Committee and serves on the Executive, Nomination and Development Committees.
+
+**External listed directorships:** none.
+
+**Contributes to the Board:**
+*   experienced investor;
+*   extensive knowledge of financial services industry;
+*   Audit Committee Chair experience; and
+*   wide-ranging governance experience.
+
+**Committee membership**  
+A N R
+
+### SARAH ING, INDEPENDENT NON-EXECUTIVE DIRECTOR
+**Date of appointment:** 1st March 2024  
+**Aggregate tenure:** >1 year
+
+**Experience:** Sarah is a qualified chartered accountant with over 30 years of experience in the financial services sector including audit, corporate finance, investment banking and asset management. She is an experienced NED in quoted financial services
+
+with over 30 years of experience in the financial services sector including audit, corporate finance, investment banking and asset management. She is an experienced NED in quoted financial services companies. Previously, Sarah founded and ran an investment management business and was also a top-rated equity research analyst covering the financial sector. Sarah is also an independent NED at CMC Markets plc, XPS Group plc and Marex Group plc. She is Senior Independent Director and Chair of the Remuneration Committee at CMC Markets plc, Chair of the Audit and Risk Committee at XPS Group plc and at Marex Group plc she is Senior Independent Director and Chair of the Audit and Compliance Committee.
+
+**External listed directorships:** Non-Executive Director – CMC Markets plc, XPS Group plc and Marex Group plc.
+
+**Contributes to the Board:** extensive knowledge of financial services industry; leadership; Audit Committee & Remuneration Committee Chair; and wide-ranging governance experience.
+
+**Committee membership**
+A N R
+
+---
+
+### BEN STOCKS, INDEPENDENT NON-EXECUTIVE DIRECTOR
+
+**Date of appointment:** 7th April 2025
+
+**Aggregate tenure:** <1 year
+
+**Experience:** Ben Stocks has more than 35 years of experience in management leadership positions and has held senior executive positions with Courtaulds PLC and Carnauld Metal Box. Ben was Group Chief Executive of Porvair PLC from 1998 to 2025, during which time Porvair transformed from a mainly UK based materials company into a global specialist filtration business with operations in the USA, UK, Europe and Asia. He is Senior Independent Non-Executive Director of the Aerospace Technology Institute and Chair of its Remuneration Committee. Ben has an MBA from INSEAD and MA (Hons) from St. Andrews University.
+
+**External listed directorships:** none.
+
+**Contributes to the Board:** extensive experience in management leadership positions.
+
+**Committee membership**
+A
+
+---
+
+*   **A** Audit & Risk Committee
+*   **N** Nomination Committee
+*   **R** Remuneration Committee
+*   Committee Chair
+*   A N R
+
+---
+
+*City of London Investment Group PLC Annual Report 2024/2025*
+**47**
+
+Strategic reportOverview Financial statements Shareholder information Governance
+
+---
+
+## CORPORATE GOVERNANCE REPORT
+
+### Governance
+
+#### COMPLIANCE WITH THE UK CORPORATE GOVERNANCE CODE
+
+For the financial year ended 30th June 2025 the Board has applied the principles of the 2018 UK Corporate Governance Code (the 2018 Code) a copy of which can be found on the website of the Financial Reporting Council, [www.frc.org.uk](http://www.frc.org.uk). Our Corporate Governance Report has been structured to assist shareholders and other stakeholders to evaluate the Company’s application of the 2018 Code, with appropriate cross-references made where relevant information is disclosed in other sections of the annual report.
+
+The table below provides a summary of how the Board has applied the 2018 Code principles during the year.
+
+Looking ahead, the Board has noted the changes introduced to the 2018 Code, and, with support from the Company Secretary, continues to work to ensure adherence to these changes. The 2024 UK Corporate Governance Code (2024 Code) will apply to the first accounting period commencing after 1st January 2025, meaning the Group will be required to comply with the 2024 Code from FY 2026.
+
+| SECTION OF THE CODE | SUMMARY OF HOW WE APPLIED THE CODE |
+| :--- | :--- |
+| **Board leadership and Company purpose** | The role of the Board is set out on page 48. The section 172 (1) statement on page 30 explains how the Directors carry out their duty to promote the long-term success of the Company, taking into account the outcome of engagement with key stakeholders. Please see page 49 for a summary of the Group’s culture, purpose, values and pages 18 to 19 for strategy. The Board’s role in ensuring the Group has the necessary resources is stated on page 48. The Audit & Risk Committee report on pages 58 to 61 includes a description of the Group’s approach to risk management and internal control. Commentary about stakeholder engagement can be found on pages 31 to 32. The approval of workforce policies is a matter |
+
+a description of the Group’s approach to risk management and internal control. Commentary about stakeholder engagement can be found on pages 31 to 32. The approval of workforce policies is a matter reserved to the Board. Please see page 31 for more details on the Board’s role in relation to workforce policies and whistleblowing.
+
+### Division of responsibilities
+Information about the Chair’s role and responsibilities can be found on page 52. Details of the Chair’s tenure and succession plans can be found on pages 49 and 50. The composition of the Board is kept under review. A description of the division of responsibilities between the Board and the Group Executive Committee can be found on page 50. Expectations about time commitment and the duties of the role are set on appointment and the Chair of the Board provides support to the Non-Executive Directors as necessary thereafter. Please see page 52 for additional commentary. Information about the Company’s Board performance evaluation, which includes a review of Board processes, can be found on page 55.
+
+### Composition, succession and evaluation
+The approach to Board appointments and succession planning and the Board Diversity policy are described on pages 54 to 57. The Board reviews the balance of skills and experience needed as part of its discussions on succession planning. See page 54 for more information. Information about the annual Board evaluation and the individual evaluation of Directors can be found on page 55.
+
+### Audit, risk and internal control
+The Board monitors the need for an internal audit function and the policies and processes in place to ensure the independence and effectiveness of the external auditor. Further details can be found in the Audit & Risk Committee Report on pages 58 to 61. The Audit & Risk Committee and the Board consider whether the annual report is fair, balanced and understandable and the appropriate statement is included on page 59. Disclosures on the Company’s internal control and risk management systems are included in the Audit & Risk Committee Report on pages 58 to 61 and in the Directors’ Report on page 83.
+
+### Remuneration
+The Remuneration Committee considers the alignment of rewards policies with long-term strategy. Refer to pages 74 to 80. Details about the operation of the Remuneration Committee are included in the Chair of the Remuneration Committee’s Annual Statement and the Annual Report on Remuneration on pages 62 to 73. The Remuneration Committee exercises appropriate discretion when authorising remuneration outcomes, as described in the Annual Report on Remuneration on pages 64 to 73.
+
+---
+**CORPORATE GOVERNANCE REPORT** 48
+*City of London Investment Group PLC Annual Report 2024/2025*
+---
+
+# Governance
+
+## CORPORATE GOVERNANCE FRAMEWORK
+
+### GROUP EXECUTIVE COMMITTEE (GEC)
+*   **Chaired by** Tom Griffith**
+*   **Comprised of four members:** Carlos Yuste – Head of Business Development, Dan Lippincott – KIM President and Chief Investment Officer, Deepranjan Agrawal – Group Chief Financial Officer and Tom Griffith – Chief Executive Officer.
+*   **Roles and responsibilities**
+    *   Provides executive oversight of the Group’s operating businesses and day-to-day management of the Group.
+
+### AUDIT & RISK COMMITTEE
+*   **Chaired by** Peter Roth
+*   **Comprised exclusively of** three Independent Non-Executive Directors.
+*   **Roles and responsibilities**
+    *   Oversees financial reporting, audit and risk.
+    *   See page 58 for the Audit & Risk Committee report.
+
+### NOMINATION COMMITTEE
+*   **Chaired by** Ben Stocks*
+*   **Comprised exclusively of** four Independent Non-Executive Directors.
+*   **Roles and responsibilities**
+    *   Oversees Board composition, succession planning and governance matters.
+    *   See page 53 for the Nomination Committee report.
+
+### REMUNERATION COMMITTEE
+*   **Chaired by** Sarah Ing
+*   **Comprised exclusively of** four Independent Non-Executive Directors.
+*   **Roles and responsibilities**
+    *   Oversees Group remuneration policy and strategy ensuring there is an appropriate linkage between strategy and reward.
+    *   See page 62 for the Remuneration Committee report.
+
+### BOARD OF DIRECTORS
+
+*   Oversees Group remuneration policy and strategy ensuring there is an appropriate linkage between strategy and reward. *See page 62 for the Remuneration Committee report.*
+
+## BOARD OF DIRECTORS
+
+**Chaired by Rian Dartnell**
+
+### Roles and responsibilities
+
+*   Establishes the Company’s purpose, values and strategy, satisfying itself that these and its culture are aligned.
+*   Ensures that the Group’s financial structure, resources, talent and culture support its objectives and long-term success.
+*   Oversees the framework for risk management and internal control.
+*   Maintains engagement with stakeholders.
+
+### BOARD AND COMMITTEE MEETING AND ATTENDANCE
+
+| | Board | Audit & Risk Committee | Nomination Committee | Remuneration Committee |
+| :--- | :---: | :---: | :---: | :---: |
+| **Number of scheduled meetings:** | | | | |
+| **Executive Directors** | | | | |
+| Tom Griffith | 6/6 | N/A | N/A | N/A |
+| **Non-Executive Directors** | | | | |
+| Peter Roth | 6/6 | 4/4 | 2/2 | 4/4 |
+| Rian Dartnell | 6/6 | N/A | 2/2 | 4/4 |
+| Tazim Essani (1) | 2/2 | 1/1 | 1/1 | 2/2 |
+| Sarah Ing | 6/6 | 4/4 | 2/2 | 4/4 |
+| Ben Stocks (2) | 1/1 | 1/1 | 0/0 | 0/0 |
+
+**Notes:**
+
+*   Includes scheduled meeting dates that have taken place up until the financial year ended 30th June 2025.
+*   In addition to this year’s scheduled Board and Nomination Committee meetings, several ad-hoc meetings have also taken place.
+
+1) Tazim Essani stepped down from the Board on 28th October 2024.
+2) Ben Stocks was appointed to the Board on 7th April 2025.
+
+\* Ben Stocks became Chair of the Nomination Committee on 1st July 2025.
+\*\* Tom Griffith stepped down from the Board on 1st July 2025.
+
+---
+*City of London Investment Group PLC Annual Report 2024/2025*
+**49**
+---
+*Strategic report* *Overview* *Financial statements* *Shareholder information* *Governance*
+---
+
+## BOARD STATISTICS
+
+#### GENDER BALANCE
+**Male** 1  
+**Female** 4
+
+#### EXECUTIVE VS. NON-EXECUTIVE
+**Executive** 1  
+**Non-Executive (inc. Chair)** 4
+
+#### TENURE
+**3-6 years**  
+**0-3 years**  
+**6-8+ years**  
+*Rian Dartnell’s previous tenure as a CLIG Director has been included*  
+2 3
+
+#### INDEPENDENT VS. NON-INDEPENDENT
+**Non-Independent** 3  
+**Independent (excl. Chair)** 1
+
+## BOARD LEADERSHIP AND COMPANY PURPOSE
+
+There were six formally scheduled Board meetings during the year, with ad hoc meetings convened when required. The Group Chief Financial Officer (CFO) prepares an agenda for each Board meeting in conjunction with the Company Secretary, Chief Executive Officer (CEO) and Chair of the Board. Agendas are structured to allow sufficient time for discussion and debate, and to ensure that the Board covers all items it needs to in order to discharge its duties. A dedicated Board portal is used to create, distribute and securely hold meeting packs, which are published in a timely manner before each Board and Committee meeting to ensure that all Directors have sufficient time to review the information.
+
+Outside the formal meetings, the Chair meets with the CEO and other members of the GEC, promoting an open and constructive environment in the boardroom and actively invites NEDs to express their views. The NEDs provide objective, rigorous and constructive challenge to management and hold meetings at which Executive team members are not present. The Board periodically invites colleagues from within the business, external advisers and brokers to address Board meetings to provide comment on current market issues and specific developments. The Company Secretary helps coordinate internal procedure that relate to corporate governance issues and is available to provide independent guidance to individual board members.
+
+The Board is responsible for setting the Company’s purpose, values and strategy, and for satisfying itself that these and its culture are aligned. The Board reviewed its purpose, values and methods for assessing and monitoring culture in September 2025.
+
+### Purpose
+
+The Group exists for the mutual benefit of our three primary stakeholders: Clients, Employees and Shareholders.
+
+### Values
+
+*   **The Clients pay the bills** – Clients expect superior investment performance, openness and accountability, and ethical treatment.
+*   **The Employees manage the business** – Employees expect fair treatment, open communication and to share in the success of
+
+investment performance, openness and accountability, and ethical treatment.
+*   **The Employees manage the business** – Employees expect fair treatment, open communication and to share in the success of the Group.
+*   **The Shareholders own the business** – Shareholders expect relevant risk and cost controls, quality earnings and within the bounds of prudential balance sheet management, regular dividend distributions.
+
+## Culture
+The Board is responsible for setting the cultural tone of the Group by way of clear policies, procedures and codes which set out, and aim to ensure attainment of, stakeholder expectations. By setting an appropriate cultural framework the Board’s goal is to empower employees to deliver consistently and sustainably against the strategy it sets. New employees receive an induction including coaching on the Company’s Code of Ethics, which covers behavioural expectations around topics such as bribery and corruption, conflicts of interest, insider dealing, confidentiality, personal securities account dealing, inclusion, gifts and hospitality and delegated levels of authority.
+
+---
+*CORPORATE GOVERNANCE REPORT CONTINUED 50 City of London Investment Group PLC Annual Report 2024/2025*
+---
+
+## Governance
+The Board receives updates on employee retention, an important indicator that the Board has succeeded in embedding a positive culture. The Group boasts a very low level of employee turnover with high levels of reported employee satisfaction. Employee retention remains a key cornerstone of the Group’s strategy and is one of the Group’s additional key performance indicators. Further details on strategy can be found on pages 18 to 19 and additional key performance indicators can be found on pages 21 to 25.
+
+The Board receives regular updates from CLIM’s Head of Compliance and KIM’s Chief Compliance Officer, which contain details of policy breaches, including in relation to the Code of Ethics. The Board monitors such breaches closely with a view to acting should the reported issues indicate a trend as opposed to an exception.
+
+## Whistleblowing Policy
+The Group has adopted procedures by which employees may, in confidence, raise concerns relating to possible improprieties in matters of financial reporting, financial control or any other matter. The Whistleblowing Policy applies to all employees of the Group, who are required to confirm that they have read the policy and are aware of how the procedure operates as part of an ongoing internal training programme. The Board receives regular updates with respect to the whistleblowing procedures during the year.
+
+## Other Group Policies
+We also have Group-wide policies on a range of social issues, including Diversity, Equity & Inclusion, Anti-Slavery & Human Trafficking and Anti-Corruption & Bribery. These are reviewed and approved by the Board as required. For further details on our polices and our approach taken to ESG please see our website: [www.clig.co.uk](https://www.clig.co.uk)
+
+## MATTERS RESERVED TO THE BOARD
+The Board operates a policy of matters formally reserved for its decision, which includes items that are material in delivering on the Group’s strategy and purpose. These matters include:
+
+*   Setting the Company’s values and standards and monitoring progress against them.
+*   Approval of strategic aims and objectives.
+*   Approval of budgets, capital expenditure and changes to the Group’s capital structure.
+*   Ensuring a sound system of internal controls and risk management.
+*   Approval of financial results and trading updates.
+*   Approval of dividends and review of dividend policy.
+*   Approval of workforce policies.
+
+The full schedule of matters reserved can be found on the Company’s website: [www.clig.co.uk](https://www.clig.co.uk).
+
+## Division of responsibilities
+Responsibilities among the individual Board members are clearly defined and effectively managed. The Chair oversees the Board’s overall effectiveness and champions the highest standards of corporate governance. The CEO is responsible for leading the business and executing the Group’s overall strategy,
+
+oversees the Board’s overall effectiveness and champions the highest standards of corporate governance. The CEO is responsible for leading the business and executing the Group’s overall strategy, working closely with the Chair, CFO and the GEC. The NEDs offer an invaluable independent oversight, strategic guidance and hold management accountable. On 1st July 2025 Tom Griffith left his role as CEO of the Company and agreed to stay on to work with CLIG’s executive team to ensure a smooth transition until September 2025. The Board acknowledges that the 2024 Code requires there to be a clear division of responsibilities between the leadership of the Board and the executive leadership of the Company and to address this the Board is focused on the appointment of a new CEO.
+
+***
+*City of London Investment Group PLC Annual Report 2024/2025*
+**51**
+***
+
+Strategic report | Overview | Financial statements | Shareholder information | Governance
+:--- | :--- | :--- | :--- | :---
+
+## BOARD ACTIVITIES
+
+The Board discharges its duties through an annual programme of meetings. Some key areas of focus during the financial year are shown below.
+
+| | STAKEHOLDERS CONSIDERED |
+| :--- | :--- |
+| **Strategy and Performance** | |
+| • Received and discussed regular reports from the Executive Director and senior management on performance and strategy. | • Shareholders |
+| • Reviewed and approved Group strategy and KPIs, as set out on pages 18 to 25. | • Clients |
+| • Reviewed culture, purpose and values and alignment with culture. | • Employees |
+| • Received regular reports from the Company’s brokers and investor relations advisers. | |
+| **Financial Oversight** | |
+| • Reviewed the Company’s dividend policy. | • Shareholders |
+| • Considered and declared an interim dividend of 11p per share for payment on 3rd April 2025. | • Employees |
+| • Considered and recommended a final dividend of 22p per share payable on 6th November 2025. | |
+| • Reviewed and approved full and half year results and the Annual Report and Accounts. | |
+| • Reviewed and approved quarterly trading updates released during the year. | |
+| • Reviewed and approved the FY 2025 Group budget. | |
+| • Reviewed financial performance against forecasts. | |
+| **Audit Risk and Internal Control** | |
+| • Reviewed and approved the Internal Capital and Risk Assessment (ICARA). | • Shareholders |
+| • Reviewed systems of risk management and internal control. | • Clients |
+| • Approved the going concern statement and assessment of viability. | • Employees |
+| • Carried out a robust assessment of the Company’s principal and emerging risks. | • Vendors |
+| | • Environment |
+| | • Regulators |
+| **Governance** | |
+| • Appointing a new Independent Non-Executive Director. | • Shareholders |
+| • Oversight of outputs from the Committees of the Board. | • Communities |
+| • Reviewing and considering the outcomes from the recent internal Board evaluations. | • Environment |
+| • Reviewing Committee Terms of Reference. | • Regulators |
+| • Reviewed updates at each meeting from the Company Secretary on governance and regulatory developments. | |
+| • Approved various Group policies. | |
+| • Assessed the Group’s compliance with corporate governance guidelines and regulations. | |
+
+***
+**52**
+*City of London Investment Group PLC Annual Report 2024/2025*
+***
+
+## CORPORATE GOVERNANCE REPORT CONTINUED
+
+### Governance
+
+#### Appointment and election
+In April 2025 the Board approved, on recommendation from the Nomination Committee, the appointment of Ben Stocks as an Independent NED. Since the year-end, Ben was appointed as Chair of the Nomination Committee and continues as a member of the Audit and Risk Committee and the Remuneration Committee. In line with best practice, the Board also agreed that all Directors would seek election or re-election at the 2025 AGM. For further information, please see pages 53 to 57 of the Nomination Committee Report.
+
+#### New Director Induction
+A full and comprehensive induction programme is prepared for new Directors. This includes a range of separate internal meetings with the Board members and key individuals within the business. Site visits are also planned to meet local management and workforce whilst meetings with key external advisers also take place. For further information,
+
+and key individuals within the business. Site visits are also planned to meet local management and workforce whilst meetings with key external advisers also take place. For further information, please see pages 54 to 56 of the Nomination Committee Report.
+
+### Director time commitment, conflicts of interest and external appointments
+Director time commitments are assessed annually by the Nomination Committee. Directors are required to disclose any significant commitments upon appointment and all external appointments must be approved by the Board before they are accepted. On appointment, Directors are required to disclose conflicts of interest to the Company. Details of existing conflicts of interest are tabled at each Board meeting and Directors are asked to provide updates where required. Conflicts of interest are also verified as part of year-end reporting.
+
+## INDIVIDUAL BOARD ROLES AND RESPONSIBILITIES
+
+*   **Chair**
+    *   Leads the Board and ensures its effectiveness.
+    *   Supports the CEO in the execution of duties and providing constructive challenge.
+    *   Works closely with Executive and Non-Executive Directors, and facilitates a culture of open, robust and effective debate.
+    *   Ensures that the Board maintains effective communications with shareholders and other stakeholders.
+    *   Ensures stakeholder interests are considered in Board’s decision-making.
+
+*   **Chief Executive Officer**
+    *   Responsible for executive management of the Group.
+    *   Formulates and recommends Group strategy for Board approval and responsible for execution of approved strategy.
+    *   Runs the business within appropriate delegated authorities, risk management and internal controls.
+    *   Communicates and embeds a shared purpose, sets business values and builds management talent.
+    *   Develops an effective relationship with the Chair and leverages the knowledge of Non-Executive Directors.
+
+*   **Senior Independent Director**
+    *   Provides a sounding board for the Chair and, if required, acts as an intermediary between Directors and shareholders.
+    *   Leads the annual evaluation of the Chair’s performance.
+    *   Leads the search for the appointment of a successor to the roles of Chair of the Board and Chair of the Nomination Committee, where required.
+    *   Available as an additional point of contact for shareholders and other stakeholders if they feel matters raised have not been appropriately dealt with by the Chair and CEO.
+
+*   **Non-Executive Director**
+    *   Bring a broad external perspective, independent judgement and objectivity to the Board’s decision making and discussions.
+    *   Challenge and support Executive Director in the development and implementation of the strategy and objectives of the Company.
+    *   Take responsibility for monitoring the performance of Executive Directors.
+    *   Other responsibilities include determining appropriate levels of remuneration, overseeing succession planning and ensuring financial controls and risk management systems are robust.
+
+***
+
+City of London Investment Group PLC Annual Report 2024/2025 **53**
+
+Strategic report | Overview | Financial statements | Shareholder information | Governance
+
+***
+
+> Governance
+# NOMINATION COMMITTEE REPORT
+
+### COMMITTEE MEMBERSHIP
+*   Ben Stocks (Chair)
+*   Rian Dartnell
+*   Peter Roth
+*   Sarah Ing
+
+I am pleased to present the Nomination Committee report for the year ended 30th June 2025.
+
+I would like to thank Rian Dartnell for his service as Chair of our Nomination Committee for most of the year. I stepped into the role in July 2025.
+
+It was a busy year. Peter Roth continued as the Senior Independent Director and Chair of the Audit & Risk Committee. Sarah Ing took on the role of Chair of the Remuneration Committee, succeeding Tazim Essani.
+
+The Committee’s key priority during the year was the recruitment of a new independent NED. A robust and comprehensive recruitment process used external consultants. I was appointed to the Board on 7th April 2025 and have enjoyed a wide-ranging induction programme.
+
+Looking ahead to FY 2026 the Committee’s immediate priority will be the recruitment of a new CEO. A search is underway,
+
+Board on 7th April 2025 and have enjoyed a wide-ranging induction programme. Looking ahead to FY 2026 the Committee’s immediate priority will be the recruitment of a new CEO. A search is underway, and further information will be provided in due course. Following the recruitment of a CEO the Committee will start to think about succession plans for the other NEDs, notably the Board Chair Rian Dartnell, whose tenure at year end will be 9.7 years. It is the view of the independent Directors that Rian should seek re-election as Chair of the Board at the 2025 AGM, to guide the Group through a period of executive management change. In forming this conclusion, the Committee engaged with a range of key shareholders included our Controlling Shareholder. The clear feedback was a preference for continuity. Rian has confirmed that he would be happy to serve, and the Committee recommends this to shareholders. We will keep the matter under review in FY 2026, during which time we will review Board composition and independence – a review that may lead to the appointment of a further independent Director in due course.
+
+**Ben Stocks**  
+*Chair of the Nomination Committee*  
+15th September 2025
+
+> “Following the recruitment of a CEO the Committee will start to think about succession plans for the other NEDs”
+>
+> **Ben Stocks**  
+> *Chair of the Nomination Committee*
+
+### Committee composition and attendance
+
+The Committee held two scheduled meetings during the year, with ad hoc meetings as required. Attendance details for scheduled meetings can be found on page 48. Following Ben Stocks’ appointment in April 2025 the Committee now comprises four Independent NEDs. At the invitation of the Committee, meetings are regularly attended by the Executive Director. Other members of senior management are also invited to attend and present at meetings from time to time. The Company Secretary is secretary to the Committee.
+
+## COMMITTEE ACTIVITIES DURING THE YEAR
+
+### Terms of reference
+
+The Committee reviewed its terms of reference in July 2025 and recommended minor changes. A copy can be found on the Company’s website: www.clig.co.uk.
+
+### Appointment of Directors
+
+A formal, rigorous and transparent process is in place for the recruitment of new Directors, as was demonstrated during the year with the appointment of Ben Stocks. The Committee, in consultation with other Board members, undertook a structured assessment of the Board’s composition needs, which led to an independent external recruiter (Nurole), who has no connections with the Company or individual Directors, being appointed. The Committee ensures that appointments are made on merit against objective criteria, with due regard to the importance of promoting diversity of gender, social and ethnic backgrounds along with cognitive and personal strengths.
+
+All Directors are subject to annual re-election by shareholders at the Company’s AGM. The Committee makes recommendations to the Board regarding the election or re-election of Directors following consideration of Directors’ time commitments, independence and tenures. At the meeting in July 2025, it was agreed that all Directors seek re-election at the 2025 AGM, with the exception of Ben Stocks who will seek election following his appointment to the Board on 7th April 2025.
+
+### Succession and Board composition
+
+As noted above, the Committee regularly reviews senior management succession plans and Board composition. In FY 2026 it will expand this to include planning for contingencies and unplanned departures. In terms of diversity, experience and skills, an exercise to update our Board skills matrix commenced in July 2025.
+
+---
+*54 City of London Investment Group PLC Annual Report 2024/2025*
+
+## KEY ROLES AND RESPONSIBILITIES
+
+*   Monitor the structure, size and composition of the Board and its principal Committees.
+*   Oversee succession planning for Board and senior management roles.
+*   Identify and nominate candidates to fill Board vacancies.
+*   Review time commitment for Non-Executive Directors.
+*   Approve Directors for
+
+*   succession planning for Board and senior management roles.
+*   Identify and nominate candidates to fill Board vacancies.
+*   Review time commitment for Non-Executive Directors.
+*   Approve Directors for re-appointment at the end of their terms and at Annual General Meetings.
+*   Review results of annual Board performance reviews.
+
+**APPOINTMENT PROCESS FOR NEW DIRECTORS**
+
+Discuss and agree requirements for the role. Where appropriate, appoint an independent search agency. Conduct screening interviews to develop a shortlist. Take references when required. All Directors interview all shortlisted candidates. Nomination Committee final review of interview notes, references, conflicts of interest, and time availability followed by a recommendation made by the Nomination Committee to the Board.
+
+---
+### NOMINATION COMMITTEE REPORT CONTINUED
+*Governance*
+<br>
+*City of London Investment Group PLC Annual Report 2024/2025*
+<br>
+*55*
+---
+
+### Board evaluation
+The Board continues to review its own performance and effectiveness and that of its Committees and individual Directors on an annual basis. The FY 2025 effectiveness review was sponsored by Rian Dartnell and facilitated by the Company Secretary during June/July 2025. The FY 2025 review was again conducted by way of an internal questionnaire. The questions remained broadly similar to those used in previous years to allow a comparison of results over time. Each Director was asked to complete the questionnaire and the responses were collated into a report by the Company Secretary for review and discussion by the Board. As the Company is not a constituent of the FTSE 350, the Board determined that it would not undertake an externally facilitated Board evaluation in FY 2025 but the need for a periodic external perspective will remain under review by the Board.
+
+Overall, the results of the FY 2025 evaluation were positive and showed that the Board continued to collaborate well and perform effectively. Questionnaire topics included:
+
+*   Strategy
+*   The Board and stakeholders
+*   Board discussion and processes
+*   Risk, internal control and the Audit & Risk Committee
+*   Succession and the work of the Nomination Committee
+*   The Remuneration Committee
+*   The role of the Chair of the Board
+
+### Outcomes
+The outcomes of the FY 2025 Board effectiveness review were discussed by the Board at its meeting in September 2025. During the meeting the Board considered where further enhancements may be made and agreed upon key priorities and actions to be taken during the year. An update of the outcomes of the FY 2025 review will be provided in the FY 2026 Annual Report.
+
+### Individual Directors
+The individual skills, time commitment and independence of each Director, are assessed annually and the Board confirmed that each Director continues to contribute effectively to the Board both within and outside of Board meetings.
+
+### Chair of the Board
+The NEDs met in April 2025 without Rian Dartnell, Chair of the Board present to discuss his performance. It was concluded that the Chair had continued to lead the Board well, facilitating open dialogue and encouraging the participation of all Directors. Additionally, during the year the Chair held several meetings with the NEDs without management present.
+
+---
+*Strategic report* &nbsp;&nbsp;&nbsp; *Overview* &nbsp;&nbsp;&nbsp; *Financial statements* &nbsp;&nbsp;&nbsp; *Shareholder information* &nbsp;&nbsp;&nbsp; *Governance*
+<br>
+*56*
+<br>
+*City of London Investment Group PLC Annual Report 2024/2025*
+---
+
+### NOMINATION COMMITTEE REPORT CONTINUED
+*Governance*
+
+### Director induction and ongoing training
+The Directors induction process aims to:
+
+*   familiarise Directors with the Group’s business, departments and processes;
+*   cover the role, duties and responsibilities of Directors of a UK listed company; and
+*   facilitate engagement with employees.
+
+Comprehensive and tailored programmes are formulated for each Director, depending on their individual background and experience. New Directors meet members of the Board, including the Chair, as well as Heads of Departments from around the business. They are given documentation providing key information related
+
+and experience. New Directors meet members of the Board, including the Chair, as well as Heads of Departments from around the business. They are given documentation providing key information related to the Group, including financial performance, Board policies and procedures and governance matters. These documents remain available to Directors as a continuing point of reference. The ongoing training needs of Directors are kept under review and training sessions are planned as necessary.
+
+### Board size and composition
+During FY 2025 the size of the Board was in line with the size of the firm, with three Independent NEDs, one Executive Director who was also the CEO and our Chair of the Board.
+
+### Non-Executive Director Independence
+Consideration was given by the Committee to the continued independence of the NEDs, including their term in office, the time commitment required from each of them taking into account the number of meetings and preparation and attendance at those meetings. It was concluded that all NEDs remained independent and devoted an appropriate amount of time to fulfil their responsibilities.
+
+### Diversity and inclusion
+The Board is committed to ensuring that its membership reflects diversity in its broadest sense, with a diverse range of demographics, skills, experience, race, age, gender, educational and professional backgrounds and other relevant personal attributes being reflected on the Board. The Company’s Board and Committee Diversity Policy is reviewed regularly, and its objectives are considered to ensure they remain relevant and aligned with the Company’s priorities. Following review by the Committee in July 2025, the current policy was approved by the Board in September 2025.
+
+The Company’s Board and Committee Diversity Policy and its objectives can be found on the Company’s website: [www.clig.co.uk](http://www.clig.co.uk)
+
+It remains a key area of focus for the Committee to consider the Company’s approach to diversity among the Board and senior management. Details of the gender breakdown across the Group can be found in the Strategic Report on page 33. The Company remains committed to fostering diversity when making future Board appointments.
+
+### Board and Executive Management Diversity
+UK Listing Rules requires the Company to report on whether it has met specified diversity targets. The specific diversity targets are to ensure that at least 40% of the Board are women, at least one of the senior Board positions (Chair, CEO, CFO and SID) is a woman and that at least one Director is from a minority ethnic background, requiring companies to report on a ‘comply or explain’ basis.
+
+During FY 2024, two of the targets had been met as there were two female Directors on the Board which represented 40%, and one Director was from a minority ethnic group. At 30th June 2025 however, due to Board changes, the Company was no longer compliant. The Directors are fully aware of the UK Listing Rule requirements and will ensure that they are at the forefront of any succession planning discussions.
+
+The Nomination Committee has not formally set any diversity targets but is mindful of the target set by the FTSE Women Leaders Review to achieve 40% female representation by 2025 and will keep this in mind. The tables below report our data on the gender identity and ethnic diversity of the Board, senior Board positions and executive management, based on the data we collect from individuals when joining the Company.
+
+***
+
+City of London Investment Group PLC Annual Report 2024/2025 57
+Strategic report | Overview | Financial statements | Shareholder information | Governance
+
+***
+
+The disclosures required under UK Listing Rule 6.6.6R(10), as at 30th June 2025, are set out below:
+
+#### Gender representation data
+
+| | Number of Board Members | Percentage of Board Members | Number of Senior Positions on Board (CEO, CFO (1), SID & Chair) | Number in executive management (2) | Percentage of executive management (2) |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| **Male** | 4 | 80% | 4 | 4 | 100% |
+| **Female** | 1 | 20% | 0 | 0 | 0 |
+| **Not specified/prefer not to say** | – | – | – | – | – |
+
+#### Ethnicity representation
+
+| | Number of Board Members (SID & Chair) | Percentage of Board Members | Number in executive management (2) | Percentage of executive management (2) |
+| :--- | :--- | :--- | :--- | :--- |
+| **Male** | 4 | 80% | 4 | 100% |
+| **Female** | 1 | 20% | 0 | 0% |
+| **Not specified/prefer not to say** | – | – | – | – |
+
+| Ethnicity representation data | Number of Board Members (CEO, CFO (1), SID & Chair) | Percentage of Board Members | Number in executive management (2) | Percentage of executive management (2) |
+| :--- | :--- | :--- | :--- | :--- |
+| **White British or other White** | 5 | 100% | 3 | 75% |
+| **Asian/Asian British** | 0 | 0% | 1 | 25% |
+| **Mixed/multiple ethnic groups** | – | – | – | – |
+| **Black/African/Caribbean/Black British** | – | – | – | – |
+| **Other ethnic group** | – | – | – | – |
+| **Not specified/prefer not to say** | – | – | – | – |
+
+1.  The CFO is not a Board Director but is a member of executive management.
+2.  We regard our Group Executive Committee as executive management for the purposes of UK Listing Rule 6.6.6R. The CEO is a member of the Group Executive Committee.
+
+***
+
+58 City of London Investment Group PLC Annual Report 2024/2025
+
+# AUDIT & RISK COMMITTEE REPORT
+
+### COMMITTEE MEMBERSHIP
+
+*   Peter Roth (Chair)
+*   Sarah Ing
+*   Ben Stocks
+
+I am pleased to present the report of the Audit & Risk Committee (the Committee) for the year ended 30th June 2025, setting out how the Committee has discharged its duties. It has once again been a busy year for the Committee and I can confirm that it has fulfilled its responsibilities through activities taken during the year, as set out on pages 59 to 61.
+
+During the year Tazim Essani stepped down from the Board as an Independent NED and as a member of the Committee and was succeeded by Ben Stocks who was appointed on 7th April 2025.
+
+The Committee’s key areas of focus during the year were as follows:
+
+### 2024 UK Corporate Governance Code
+
+In response to the publication of the new 2024 UK Corporate Governance Code (the Code), the Committee has focused its attention on a number of the main changes which shall affect audit, risk and control (specifically Principle O and Provision 29). Preparations are already underway to address these changes so as to ensure compliance with the new Code. A deep dive on the changes that would come into effect was held by the Committee. Undertaking this review so early on ensured the Committee has sufficient time to introduce and enhance our internal controls and risk management framework ahead of the new disclosures in relation to Principle O to be reported in the 2026 Annual Report and Accounts. Provision 29 will become applicable to the Group from FY 2027. We look forward to sharing these details with you in next year’s annual report.
+
+### Risk Management and Internal Control Framework
+
+During the year an overview of the current risk management and internal control framework was once again reviewed by the Committee along with details of the long-standing process already in existence for the ongoing maintenance of the framework through an external and internal monitoring and testing program. An internal audit function has been set up to provide independent assurance and to support the Board in complying with the new Principle O of the Code and its responsibility to maintain the effectiveness of the risk management and internal control framework.
+
+### Cybersecurity/AI
+
+Cybersecurity continues to be a critical focal area for the Committee, with updates being presented during the year at every meeting. Topics covered in depth by the Head of Information Technology included, but were not limited to software improvements to our control environment, patching automation, hardware removal, and network design improvements. During the year, we completed third party assessments of our network engineering and our ability to respond to a cyber attack.
+
+### Environmental and Climate Risk
+
+In relation to environmental and climate risk, the Committee discussed the Group’s carbon offsetting strategy. ECO3 have been engaged once again as a consultant and are working with the Group to support its strategy and to help enable the Company to provide assurance to its stakeholders on such matters. There have been no major changes to the Company’s
+
+and are working with the Group to support its strategy and to help enable the Company to provide assurance to its stakeholders on such matters. There have been no major changes to the Company’s environmental policy anticipated, and a carbon offset for FY 2025 has been completed in the summer. My thanks go to my fellow Committee members for their continued insight and support in what has been a busy year for the Committee.
+
+**Peter Roth**  
+*Chair of the Audit & Risk Committee*  
+*15th September 2025*
+
+## Governance
+
+> “An internal audit function has been set up to provide independent assurance and to support the Board in complying with the new Principle O of the Code and its responsibility to maintain the effectiveness of the risk management and internal control framework.”
+
+**Peter Roth**  
+*Chair of the Audit & Risk Committee*
+
+***
+
+City of London Investment Group PLC Annual Report 2024/2025 59
+
+Strategic report | Overview | Financial statements | Shareholder information | Governance
+
+***
+
+## ACTIVITIES UNDERTAKEN DURING THE YEAR
+
+### Financial and Narrative Reporting
+The Committee reviews the Group financial statements, including half and full year results and the Annual Report and Accounts, and makes recommendations to the Board for approval. The Committee is responsible for reviewing the significant financial judgements, key assumptions and estimates employed by management, an analysis of which can be found on the following page. As part of the review, the Committee satisfies itself that the policies set out in note 1 of the financial statements on pages 101 to 106 are appropriate.
+
+### Task-Force on Climate-Related Financial Disclosures (TCFD)
+The Committee continued its increased scrutiny and challenge around the disclosure requirements relating to climate change and publication of our TCFD report. In line with the previous year, our external environmental consultant (ECO3) was retained during the year to help the Group in preparing its 2025 Group TCFD report.
+
+### Fair, balanced and understandable
+The Committee reviewed the Annual Report and Accounts for the year ended 30th June 2025 and concluded that they are representative of the year and present a fair, balanced and understandable overview, providing the necessary information for shareholders to assess the Group’s position, performance, business model and strategy.
+
+### Viability and going concern
+The Committee concluded that a three-year assessment period continued to be appropriate and recommended the viability statement to the Board for approval (Refer to page 29 for viability statement). The Committee also reviewed the going concern disclosure (see page 81) and recommended to the Board that the Group had adequate resources to continue in operational existence for the foreseeable future and that it was appropriate for the financial statements to be prepared on a going concern basis.
+
+## KEY ROLES AND RESPONSIBILITIES
+
+### Financial and narrative reporting
+*   Monitor the integrity of the financial statements of the Company and report to the Board on significant financial reporting issues and judgements.
+*   Review the content of the Annual Report and Accounts and advise the Board on whether, taken as a whole, it is fair, balanced and understandable.
+*   Considered the half year report for six months ended December 2024.
+
+### External audit
+*   Oversee the relationship with the external auditor.
+*   Assess the external auditor’s independence and objectivity, including oversight of the policy on non-audit services.
+*   Assess the effectiveness of the external audit.
+
+### Risk management and internal control
+*   Review the adequacy and effectiveness of the Company’s systems of risk management and internal control.
+*   Review and approve statements to be included in the annual report regarding risk management and internal control, principal and emerging risks and the viability statement.
+*   Consider the need for an internal audit function.
+
+### Compliance, speaking up and fraud
+*   Review the adequacy and security of the Company’s whistleblowing arrangements, and procedures
+
+statement.
+*   Consider the need for an internal audit function.
+
+### Compliance, speaking up and fraud
+*   Review the adequacy and security of the Company’s whistleblowing arrangements, and procedures related to fraud, bribery and money laundering.
+
+### Terms of reference
+The Committee reviewed its terms of reference in February 2025 and with no updates or amendments recommended. Full terms of reference of the Committee can be found on the Company’s website: www.clig.co.uk.
+
+### Committee evaluation
+An internal Board and Committee evaluation exercise was carried out in June/July 2025. This was by way of a questionnaire issued to each Board member, a section of which was devoted to the performance of the Audit & Risk Committee. Full details of the Board evaluation process can be found on page 55.
+
+## RISK MANAGEMENT AND INTERNAL CONTROL FRAMEWORK
+
+### Audit & Risk Committee
+The Committee is responsible for assisting the Board in maintaining an effective internal control environment. To achieve this objective, the Committee receives regular reports on compliance and internal control procedures from CLIM’s Head of Compliance, KIM’s Chief Compliance Officer, CLIG’s Head of Internal Audit, and CLIG’s management. The Group maintains a Group risk register which is kept under review by the Group Executive Committee. CLIM’s Risk & Compliance Committee (RCC) and KIM’s Compliance Committee have responsibility for the day-to-day oversight of the risk management process at the respective operating subsidiaries. They are also tasked with identifying any areas of perceived risk exposure for their respective subsidiaries. For the year ended 30th June 2025, the Committee is satisfied that the risk register has been appropriately amended and maintained.
+
+### Internal audit function
+We are pleased to confirm that during the year an internal audit function (IA) has been set up to provide independent assurance and to support the Board in complying with the new Principle O of the 2024 UK Corporate Governance Code and its responsibility to maintain the effectiveness of the risk management and internal control framework. IA is supported by a software to help establish systems and aid business processes and internal controls testing and remediation. Since its inception last year there has been significant progress in educating the business and obtaining buy-in from them, as well as moulding the function into a fully operational team with a view to it becoming a business partner. The Committee reviewed the IA’s 2025 work plan, which includes additional focus being given to the CLIG systems in light of the cyber incidents faced by companies globally.
+
+## AUDIT & RISK COMMITTEE REPORT CONTINUED
+
+---
+*60 City of London Investment Group PLC Annual Report 2024/2025 Governance*
+---
+
+| SIGNIFICANT JUDGEMENTS, KEY ASSUMPTIONS AND ESTIMATES | COMMITTEE ACTIONS |
+| :--- | :--- |
+| **Goodwill** <br><br> Goodwill for the Group’s cash generating unit is tested for impairment annually by assessing that its recoverable amount is not less than its carrying value. Recoverable amount of an asset is the greater of its ‘fair value less cost of disposal’ or its ‘value in use’. This requires estimates concerning future cash flows, financial multiples, growth rates and associated discount rates. | The services of an independent valuation consultant, Kroll Advisory Limited (Kroll) was retained during the year to perform an assessment of impairment as of 30th April 2025. The Committee considered Kroll’s report outlining the methodology for the impairment assessment and challenged the assumptions underpinning the goodwill valuation model including cash flow projections, multiples, discount rates and any other inputs. The Committee also considered whether there were any significant changes or indicators of impairment in the period from the assessment date to 30th June 2025. Further details can be found in note 13 of the financial statements on page 114. |
+
+---
+*City of London Investment Group PLC Annual Report 2024/2025 61 Strategic reportOverview Financial statements*
+
+on page 114.
+
+# SIGNIFICANT JUDGEMENTS, KEY ASSUMPTIONS AND ESTIMATES
+
+# COMMITTEE ACTIONS
+
+---
+**City of London Investment Group PLC Annual Report 2024/2025** `61`
+---
+*Strategic report* | *Overview* | *Financial statements* | *Shareholder information* | *Governance*
+---
+
+## EXTERNAL AUDIT
+
+Grant Thornton UK LLP (GT) was the Company’s appointed external auditor for the year. GT attended each scheduled meeting of the Committee during the year and reported on the status of the Group external audit process. GT performed the review of the half yearly report for six-month period ended 31st December 2024. The Committee met privately with external auditors at each meeting to allow for any concerns to be flagged by the external auditor. No such concerns were flagged during the year.
+
+### Rotation
+
+The Statutory EU Audit Directive (the Directive) sets out rules for public interest entities audit firm tenure and rotation and the provision of non-audit services. RSM UK Audit LLP (RSM) served as the Group’s auditor for six consecutive years, following which the Company undertook an audit tender and appointed GT as the Group auditor for the year ended 30th June 2024. This is therefore GT’s second year of serving as auditor. In order to comply with the Directive, the Company intends to undertake an audit tender at least every ten years. There are no contractual obligations that restrict the Committee’s choice of external auditor.
+
+### Assessment of external audit effectiveness
+
+The Committee makes an annual assessment of the performance of the external auditor and the effectiveness of the audit process. This assessment is based on the Committee’s interactions with, and observations of, the external auditor. The Committee concluded that the effectiveness of the external audit process carried out by GT was satisfactory and that their independence and objectivity were sufficiently maintained. Therefore, the Committee recommended to the Board the re-appointment of GT at the Company’s next AGM. The disclosures provided within this report constitute the Company’s statement of compliance with the requirements of the Statutory Audit Services for Large Companies Market Investigation (Mandatory Use of Competitive Tender Processes and Audit Committee Responsibilities) Order 2014.
+
+### Independence and objectivity
+
+Both the Committee and the external auditor have robust policies and procedures designed to protect the independence and objectivity of the external auditor. During the year, the Committee was provided with a number of assurances by the external auditor regarding the checks and balances in place to safeguard independence and objectivity. Overall, the Committee has concluded that GT remains independent.
+
+### Non-audit services policy
+
+The Company’s non-audit services policy sets out a list of non- audit services that the external auditor is either permitted or prohibited from providing to the Group. The policy places a requirement for all non-audit services that the external auditor is engaged for to be approved in advance as follows:
+
+| Value of non-audit service | Approver                         |
+| -------------------------- | -------------------------------- |
+| Up to £50,000              | Chair of the Audit & Risk Committee |
+| £50,001 and above          | Audit & Risk Committee           |
+
+The policy further mandates that the total fees for non-audit services provided by the external auditor to the Group shall be limited to no more than 70% of the average of the statutory audit fee for the Company, of its controlled undertakings and of the consolidated financial statements paid to the external auditor in the last three consecutive financial years. Pursuant to the policy, the Committee undertakes to seek annually from the external auditor information about policies and processes for maintaining independence and monitoring compliance with relevant requirements, including those regarding the rotation of audit partners and staff.
+
+### External auditor fee
+
+During the year, the Committee reviewed and approved the external auditor’s fee. Refer to note 5 of the financial statements on page 109 for fees paid to the Company’s auditors in the year ended 30th
+
+During the year, the Committee reviewed and approved the external auditor’s fee. Refer to note 5 of the financial statements on page 109 for fees paid to the Company’s auditors in the year ended 30th June 2025.
+
+## CHAIR OF THE REMUNERATION COMMITTEE’S ANNUAL STATEMENT
+
+*62 City of London Investment Group PLC Annual Report 2024/2025 Governance*
+
+### COMMITTEE MEMBERSHIP
+*   Sarah Ing (Chair)
+*   Rian Dartnell
+*   Peter Roth
+*   Ben Stocks
+
+On behalf of our Board and the Remuneration Committee, I am pleased to present our report for the year ended 30th June 2025. This report comprises three sections:
+
+*   This Annual Statement which summarises the remuneration outcomes for the year ended 30th June 2025 and the key decisions taken by the Remuneration Committee during the year.
+*   The Directors’ Remuneration Policy – which sets out the remuneration policy for Executive and Non-Executive Directors and is subject to a binding shareholder vote at the October 2025 Annual General Meeting.
+*   The Annual Report on Remuneration – which discloses how the 2022 Policy was implemented in the year ended 30th June 2025 and other disclosures which provides a comprehensive overview of Directors’ remuneration.
+
+### 2018 Code compliance
+Our Remuneration Policy and arrangements comply with the requirements of the 2018 UK Corporate Governance Code (2018 Code). The statement of compliance with the UK Corporate Governance Code is set out on page 47.
+
+### Business context
+As noted in the Chair’s statement, the business climate over the last year has been mixed with a tough first half and then increased positive momentum through the second half. Discounts have narrowed and with positive relative performance, the Group’s FuM ended the year at $10.8 billion.
+
+The Group’s key performance indicator (KPI) targets a total return (share price plus dividends) to compound annually in a range of 7.5% to 12.5% over a five-year period. This KPI applies to employees and the Executive Director alike and is a key cornerstone of our inclusive and team-based culture, helping to create a common goal for the Group. As noted in the Chair’s Statement on page 8, for the five years ended 30th June 2025, the total return was 36.9% (2024: 34.7%), or 6.5% (2024: 6.2%) annualised (source, Bloomberg). Since listing in April 2006, the annualised return has been 11.3%. The environment for UK-listed asset managers has been challenging for the past few years for a number of reasons and resulted in a de-rating of our shares while our dividends have been consistent, including periodic special dividends.
+
+### KEY ROLES AND RESPONSIBILITIES
+*   Determine policy for Directors’ remuneration and set remuneration for the Chair, Executive Director and senior management.
+*   Establish remuneration schemes aligning Executive Director with shareholder interests.
+*   Review workforce remuneration and related policies.
+
+Full terms of reference of the Committee can be found on the Company’s website: www.clig.co.uk.
+
+> “Our approach to remuneration aims to support the Group strategy and long term success.”
+>
+> **Sarah Ing**
+>
+> Chair of the Remuneration Committee
+
+*City of London Investment Group PLC Annual Report 2024/2025 63*
+
+---
+Strategic report | Overview | Financial statements | Shareholder information | Governance
+---
+
+### Remuneration outcomes
+The Executive Director’s salary has been unchanged since 2023 and reflecting the increase in profit during the year, his profit-share was higher than the last year. The Executive Director elected to reduce his participation in the EIP for FY 2025 to 0% of the profit-share so that employees were not scaled below 10%. Page 64 sets out the single figure total remuneration for the Executive Director of $993k (2024: $858k).
+
+### 2025 Directors’ Remuneration Policy review
+The Directors’ Remuneration Policy (the Policy) was last put to a binding shareholder vote at the Annual General Meeting (AGM) on 31st October 2022 (2022 AGM) and passed with a vote of 97.7%. The Policy has a three-year term and a new Policy will be put to shareholder vote at the 2025 AGM.
+
+at the Annual General Meeting (AGM) on 31st October 2022 (2022 AGM) and passed with a vote of 97.7%. The Policy has a three-year term and a new Policy will be put to shareholder vote at the 2025 AGM scheduled on 27th October 2025 (2025 AGM).
+
+Our approach to structuring senior executive pay at CLIG is atypical, in that we operate a profit-sharing arrangement (with interim payments made during the year and the balance after the year-end) and the Employee Incentive Plan (EIP) under which part of bonus earned may be waived and a matching share award granted. The structure has been in place to date and has served us well by providing a direct link between profit and reward and thereby aligning executives and employees with long-term shareholder value.
+
+The review of our Policy has coincided with a change to the executive team and the departure of our CEO and the only Executive Director on the Board, Tom Griffith. The Committee has reviewed the Policy in this context, noting the need for our 2025 Policy to be sufficiently flexible and competitive to be able to recruit in the market. Accordingly, several changes are being made which ensure our pay structure is more closely aligned with typical PLC practice.
+
+For the CEO or other Executive Directors, it is proposed that the current profit-sharing arrangement and EIP are replaced with a more standard PLC reward structure which is simpler to communicate both internally and externally, provides better alignment with successful long term strategic delivery, and strengthens our ability to recruit in the market. This will comprise traditional bonus arrangements with deferral and annual awards of performance shares under a Long Term Incentive Plan.
+
+Accordingly, a number of changes have been proposed which ensures our pay structure is more closely aligned with typical practice:
+
+*   **Base salary** – 2025 Policy provides for a single all-encompassing base salary, which replaces the previous policy on providing separate governance fees alongside base salary.
+*   **Annual bonus replacing profit-share** – The profit-sharing arrangement will be replaced with a traditional annual bonus scheme. The bonus opportunity will continue to be capped at 250% of salary with performance measured over one year. Two-thirds of bonus earned will be paid in cash and one-third will be deferred into shares for 3 years.
+*   **LTIP replacing EIP** – A new Long-Term Incentive Plan (LTIP) is being introduced which enables performance shares to be granted to Executive Directors with a maximum face value of 150% of salary or 200% in exceptional circumstances. Performance shares will vest after three years and vested awards are subject to a further two-year holding period. This structure aligns with common practice in listed UK PLCs and provides stronger executive alignment with long term performance. The previous EIP scheme which provided a matching share award for an element of deferred bonus will no longer operate for Executive Directors.
+
+The Committee believes the proposed changes will better align our remuneration with good practice and there will be clearer disclosure between annual performance and bonus outcomes. The Committee considered carefully how to set incentive opportunities – the 250% of salary bonus maximum is in line with the current profit share maximum and a 150% of salary performance share grant is broadly aligned with the grant values in listed companies of a similar size to us. Furthermore, the Committee intends to retain its existing philosophy of lower fixed and higher variable pay.
+
+At the time of writing, as we have no Executive Directors on the Board, the Committee has not set any bonus or LTIP criteria but will do so at the appropriate time during the year. The LTIP measures, weightings and targets will be disclosed in the stock exchange announcement when an award is granted.
+
+We engaged with our largest shareholders during our review of the Policy and it was positively supported by them.
+
+There will be three votes
+
+the stock exchange announcement when an award is granted. We engaged with our largest shareholders during our review of the Policy and it was positively supported by them. There will be three votes on remuneration at the 2025 AGM and I hope you will support them. There will be the usual advisory vote on this remuneration report (excluding the Policy), a second vote to approve the new Policy and a third vote to approve the LTIP rules under which deferred bonus and performance share awards may be made. We are always happy to discuss our approach to remuneration with shareholders and would be happy to answer any shareholder questions about the work of the Committee.
+
+Sarah Ing
+Chair of the Remuneration Committee
+15th September 2025
+
+***
+
+64 City of London Investment Group PLC Annual Report 2024/2025
+
+***
+
+## ANNUAL REPORT ON REMUNERATION
+
+### Governance
+
+The information provided within the Annual Report on Remuneration has been audited where indicated and summarises how the Directors’ remuneration policy was implemented during the financial period under review, as well as setting out total remuneration figures and rationales.
+
+### Committee composition and attendance
+
+The Committee comprises of four Independent NEDs: Rian Dartnell, Peter Roth, Ben Stocks, and Sarah Ing serving as Chair. The Committee is focused on maintaining the entrepreneurial can-do team-based culture of the Group, while at the same time continuing to deepen its processes. Our goal is to be a balanced Group, managing investment mandates with consistent long-term outperformance while empowering a culture of inclusion and an atmosphere in which colleagues strive to do their best work.
+
+The Committee held four meetings during the year. Committee Members’ attendance details can be found on page 48. Meetings are regularly attended by the Executive Director and the CFO, at the Committee’s invitation. Other members of senior management are invited to attend and present at meetings from time to time. No executives participate in any discussion regarding their own remuneration. The Committee received independent advice from FIT Remuneration Consultants during the year.
+
+This section of the Report is made up of four parts:
+
+1) Single total figure of remuneration
+2) Future implementation
+3) Further remuneration disclosures
+4) Governance disclosures
+
+The Directors’ Remuneration Policy is set out on pages 74 to 80, and subject to its approval by shareholders at the 2025 AGM, will govern all future remuneration to be awarded to Directors.
+
+### 1) SINGLE TOTAL FIGURE OF REMUNERATION (AUDITED)
+
+The table below shows the single total figure of remuneration for Directors in relation to the financial year ending 30th June 2025 relative to the previous financial year ended 30th June 2024.
+
+| | | <center>Fixed pay</center> | | | | <center>Variable pay (2)</center> | | | | | |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Director (1)** | | **Fees**<br>$’000 | **Salary**<br>$’000 | **Pension**<br>$’000 | **Taxable benefits**<br>$’000 | **Profit-share**<br>$’000 | **EIP vesting**<br>$’000 | **Dividend equivalent**<br>$’000 | **Total**<br>$’000 | **Total fixed**<br>$’000 | **Total variable**<br>$’000 |
+| **Current Directors** | | | | | | | | | | | |
+| **Executive Director** | | | | | | | | | | | |
+| Tom Griffith (3) | 2025 | 45 | 288 | 36 | 13 | 605 | 6 | | 993 | 382 | 611 |
+| | 2024 | 44 | 288 | 36 | 10 | 459 | 21 | | 858 | 378 | 480 |
+| **Non-Executive Directors** | | | | | | | | | | | |
+| Rian Dartnell | 2025 | 135 | – | – | 1 | – | – | | 136 | 136 | – |
+| | 2024 | 101 | – | – | 1 | – | – | | 102 | 102 | – |
+| Peter Roth | 2025 | 83 | – | – | 8 | – | – | | 91 | 91 | – |
+| | 2024 | 80 | – | – | 9 | – | – | | 89 | 89 | – |
+| Sarah Ing | 2025 | 68 | – | – | – | – | – | | 68 | 68 | – |
+| | 2024 | 19 | – | – | – | – | – | | 19 | 19 | – |
+| Ben Stocks (4) | 2025 | 14 | – | – | – | – | – | | 14 | 14 | – |
+| | 2024 | – | – | – | – | – | – | | – | – | – |
+| **Past Directors** | | | | | | | | | | | |
+| Barry Aling (5) | 2025 | – | – | – | – | – | – | | – | – | – |
+| | 2024 | 33 | – | – | – | – | – | | 33 | 33 | – |
+| George Karpus (6) | 2025 | – | – | – | – | – | – | | – | – | – |
+| | 2024 | 5 | – | – | – | – | – | | 5 | 5 | – |
+| Jane Stabile (7) | 2025 | – | – | – | – | – | – | | – | – | – |
+| | 2024 | 47 | – | – | 9 | – | – | | 56 | 56 | – |
+| Tazim Essani (8) | 2025 | 24 | – | – | – | – | – | | 24 | 24 | – |
+| | 2024 | 66 | – | – | – | – | – | | 66 | 66 | – |
+| **Total** | **2025** | **369** | **288** | **36** | **22** | **605** | **6** | | **1,326** | **715** | **611** |
+| | **2024** | **395** | **288** | **36** | **29** | **459** | **21** | | **1,228** | **748** | **480** |
+
+**Notes:**
+
+1) See explanation of benefits on page 65.
+2) This represents dividend equivalent on EIP shares vested during the year.
+3) Tom Griffith stepped down from the Board on 1st July 2025.
+4) Ben Stocks joined the Board on 7th April 2025.
+5) Barry
+
+- 2) This represents dividend equivalent on EIP shares vested during the year.
+- 3) Tom Griffith stepped down from the Board on 1st July 2025.
+- 4) Ben Stocks joined the Board on 7th April 2025.
+- 5) Barry Aling ceased to be a Director of the Company with effect from 23rd October 2023.
+- 6) George Karpus ceased to be a Director of the Company with effect from 31st July 2023.
+- 7) Jane Stabile ceased to be a Director of the Company with effect from 29th February 2024.
+- 8) Tazim Essani ceased to be a Director of the Company with effect from 28th October 2024.
+
+---
+**City of London Investment Group PLC Annual Report 2024/2025** &nbsp; &nbsp; &nbsp; &nbsp; **65**
+
+*Strategic report | Overview | Financial statements | Shareholder information | Governance*
+---
+
+### Non-Executive Director fees (1)
+
+| | **2025 (1)** <br> £’000 | **2024** <br> £’000 |
+| :--- | :---: | :---: |
+| Base fee for services as a Non-Executive Director | 44.0 | 44.0 |
+| Supplemental fee for services as Chair of the Board (2) | 106.0 | 40.0 |
+| Supplemental fee for services as Chair of a Committee | 12.5 | 12.5 |
+| Supplemental fee for services as Senior Independent Director | 7.5 | 7.5 |
+| Supplemental fee for services during the CEO transition (per month) (3) | 5.0 | – |
+
+**Notes:**
+
+1.  Base fees and supplemental fees are set in sterling and thus have been not converted to US dollars.
+2.  Supplemental fees for services as Chair of the Board were increased to £55,000 per annum with effect from 1st January 2025. These fees were further revised to £106,000 per annum effective from 10th June 2025.
+3.  Supplemental fee for services during the CEO transition effective from 10th June 2025.
+
+## Commentary on single total figure table
+
+The Remuneration Committee satisfied itself that the single total figures of remuneration for each Director are appropriate. A commentary on each element of the Directors’ fixed and variable remuneration is set out below.
+
+### a) Fixed pay
+
+**Salary/advisory fee**
+
+The Executive Director’s salary is kept at the lower end of what may be described as market average to allow the Group to manage fixed remuneration costs. A high proportion of total remuneration is provided by way of variable pay, allowing for remuneration to be trimmed in a timely fashion if market events threaten to impact profitability. Tom Griffith’s CEO salary (including Director’s fee) was $332,500 (FY 2024: $332,500) and he did not receive a pay rise during the year (no pay rise in FY 2024 either). As approved at the 2019 AGM, a separate Director’s fee has been carved out from the CEO’s current salary to reflect his Director/governance duties. In both FY 2025 and FY 2024 this was £35,000 per annum. The difference between FY 2025 and FY 2024 amounts (salary including Director’s fee as shown on page 64) is due to the weaker US dollar to sterling during the current year as compared to last year.
+
+**Pension**
+
+All employees*, including the Executive Director, are entitled to membership of the Group’s defined contribution pension arrangements. Contributions are capped at 12.5% of annual salary. Employer contributions in respect of the Executive Director was 12.5% for the period under review.
+
+\* As per the merger agreement, pension for KIM employees remain consistent with pre-merger practices of KIM.
+
+**Benefits**
+
+Taxable benefits relate to private medical insurance for the Executive Director and his dependants. It should be noted that although the Group offers private medical insurance to all employees it is not considered a taxable benefit for those resident in the US. Taxable benefits for Non-Executive Directors relate to reimbursed accommodation expenses whilst attending UK Board and Committee meetings. The amounts shown are grossed up in the Group accounts for the tax due on these benefits.
+
+### b) Variable pay
+
+**Profit-share**
+
+The Company operates a profit-share plan for all employees, including the Executive Director, that is linked to Group profitability. Profit-share constitutes a large part of employee and Executive Director’s remuneration – being variable, it can be adjusted in line with profitability and can therefore account for inherent volatility in earnings.
+
+a large part of employee and Executive Director’s remuneration – being variable, it can be adjusted in line with profitability and can therefore account for inherent volatility in earnings. A maximum profit-share of up to 30% of the pre-profit-share, pre-tax, operating profit can be allocated as per Group’s Remuneration Policy. Such allocation may be reduced infrequently as a result of an assessment of the projected intermediate term financial performance of the Group, and consistent with our fundamental objective of an appropriate balance of interests among all stakeholders, including clients, employees and shareholders.
+
+### 1) SINGLE TOTAL FIGURE OF REMUNERATION (AUDITED) CONTINUED
+### ANNUAL REPORT ON REMUNERATION CONTINUED
+
+---
+*66 City of London Investment Group PLC Annual Report 2024/2025 Governance*
+---
+
+## Governance
+
+The profit-share pool aligns employees and the Executive Director’s variable income with Group profitability. Both employees and the Executive Director are therefore incentivised to drive Group profitability. Driving Group profit leads to shareholder value by way of dividends, retained earnings and Company share price increases.
+
+The Executive Director’s performance is appraised annually by the Chair reflecting feedback gathered from Board members and senior leaders across the business. Discretion is applied appropriately, with bonus awards being adjusted upwards or downwards depending on the outcome of the annual performance appraisal.
+
+In the case of market downturns due to extenuating circumstances not linked to poor individual performance, the Committee can use its discretion to reduce profit-share awards for employees and the Executive Director. Being the more accountable parties, the Executive Director and Group Executive Committee members take a larger proportion of the reduction in comparison with other employees.
+
+### Executive Director remuneration outcomes
+
+The chart below compares the single total remuneration figures for FY 2025 for the CEO with the maximum total remuneration that could be awarded under the Directors’ Remuneration Policy as per 30th June 2024 illustrative reward scenario and the single total remuneration figures for FY 2024.
+
+### 1) SINGLE TOTAL FIGURE OF REMUNERATION (AUDITED) CONTINUED
+
+#### Executive Director Single total remuneration figure ($’000)
+
+**Tom Griffith, Chief Executive Officer**
+
+| Category | 2024 Actual | 2025 Maximum | 2025 Actual |
+| :--- | :--- | :--- | :--- |
+| **Total ($'000)** | **858** | **1,277** | **993** |
+
+---
+
+#### Remuneration Mix
+
+**2024 Actual**
+*   **Salary and related costs:** 39%
+*   **Variable cash bonus:** 61%
+*   **Employee Incentive Plan (EIP):** 0%
+
+**2025 Maximum**
+*   **Salary and related costs:** 26%
+*   **Variable cash bonus:** 39%
+*   **Employee Incentive Plan (EIP):** 34%
+
+**2025 Actual**
+*   **Salary and related costs:** 47%
+*   **Variable cash bonus:** 53%
+*   **Employee Incentive Plan (EIP):** 0%
+
+---
+
+**Assumptions:**
+1) Based on FY 2024 and FY 2025 actual results.
+2) 2025 maximum is the level of remuneration that could have been received in FY 2025 in accordance with Group’s Director’s remuneration policy as included in FY 2024’s illustrative reward scenario. This reflects the minimum remuneration plus the maximum bonus opportunity as detailed in the future policy table. The maximum variable cash bonus has been adjusted by the maximum amount of the bonus that can be waived, which in turn is matched by the Company and the total is shown as EIP.
+3) Under the Directors' remuneration policy, the EIP awards once awarded, will vest one-fifth per annum over a five-year period, and from October 2024 onwards over a five-year period with one-third vesting each year for the third, fourth and fifth anniversaries following grant.
+
+Tom Griffith’s profit-share increased by $146k (from 55% in FY2024 to 73% in FY2025 (refer page 70) of maximum), which reflects a year-on-year increase in profit after tax of 15%.
+
+---
+*City of London Investment Group PLC Annual Report 2024/2025 67*
+*Strategic report | Overview | Financial statements | Shareholder information | Governance*
+---
+
+### 1) SINGLE TOTAL FIGURE OF REMUNERATION (AUDITED) CONTINUED
+
+#### Deferred profit-share payment
+
+Profit-share in the fourth quarter of each financial year is calculated based upon an estimate of full year operating profits, and there is the possibility that the actual audited results could be below expectation. The Executive
+
+of each financial year is calculated based upon an estimate of full year operating profits, and there is the possibility that the actual audited results could be below expectation. The Executive Director therefore has up to 10% of his fourth quarter’s profit-share award deferred to the following quarter in order that the award can be adjusted based upon the final audited results. The table below sets out the amount deferred for payment once the financial statements have been audited and approved.
+
+| Deferred profit-share payments | 2025 | | 2024 | |
+| :--- | :--- | :--- | :--- | :--- |
+| | **$’000** | **% of annual award** | **$’000** | **% of annual award** |
+| Tom Griffith | 33 | 5% | 22 | 5% |
+
+This amount is included in the profit-share reported in the single total figure of remuneration table on page 64.
+
+### Employee Incentive Plan
+
+#### Summary of Employee Incentive Plan (EIP) interests
+
+The EIP was approved by shareholders at the October 2016 AGM and adopted by the Group in December 2016. It is open to employees of all Group companies, including the Executive Director. Participants are invited to waive up to 20% (or up to 30% if there is headroom within the cap agreed by shareholders) of their annual profit-share in return for the right to participate in the EIP for the relevant financial year.
+
+Under the EIP, participants are granted Restricted Share Awards (RSAs) over shares in the Company equal in value to two times the amount they have waived. Due to the high level of employee elections, participation was scaled back this year across the Group. In order to encourage maximum employee participation, and ownership of CLIG shares, the Executive Director elected to reduce his participation in the EIP for FY 2025 to 0% of the profit-share so that employees were not scaled below 10%.
+
+For the Executive Director, the RSAs vest one-third each year over a three-year period following grant for the awards made up until October 2020 and one-fifth each year over a five-year period following grant for awards made from October 2021 onwards. As per the 2022 Remuneration Policy, for the awards to be made in October 2024 and onwards, the RSAs for Executive Director will vest in three equal instalments after the third, fourth and fifth anniversaries following grant.
+
+These awards accrue an amount equal to the dividend that the Director would have received had they owned the shares from the date of grant. The dividend equivalent paid on shares vested during the year is disclosed in the single total figure of remuneration table on page 64. The RSAs are subject to forfeiture upon termination.
+
+---
+## **ANNUAL REPORT ON REMUNERATION CONTINUED**
+**68 City of London Investment Group PLC Annual Report 2024/2025**
+*Governance*
+---
+
+### EIP Restricted Share Awards
+
+| Director | Date of Award | Awards held 30th June 2024 | Awarded during the year | Vested during the year | Awards held 30th June 2025 | Market price on date of award £ | Market price on date of vesting £ | Vesting period From | Vesting period To |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Tom Griffith | 26/10/2021 | 5,501 | | (1,834) | 3,667 | 5.2450 | 3.68 | 26/10/2021 | 26/10/2026 |
+| | 26/10/2022 | 12,282 | | (3,071) | 9,211 | 3.5950 | 3.68 | 26/10/2022 | 26/10/2027 |
+| | 26/10/2023 | 11,750 | | (2,350) | 9,400 | 3.3040 | 3.68 | 26/10/2023 | 26/10/2028 |
+| | | **29,533** | **–** | **(7,255)** | **22,278** | | | | |
+
+1.  The number of shares awarded is calculated using the ten day average share price on the day prior to award.
+2.  Tom Griffith stepped down from the Board on 1st July 2025.
+
+### Summary of share option plan interests
+
+The Company operates an Employee Share Option Plan which is open to employees of all Group companies and which, prior to changes made to the Company’s Directors’ Remuneration Policy at the 2022 AGM, was open to Executive Directors who worked more than 25 hours per week, provided they did not have a material interest in the Company, that is to say the ability to control more than 25% of the ordinary share capital.
+
+| | Number of options Held 2024 | Exercised during the period | Lapsed during the period | Granted during the period | Held 2025 | Exercise price £ | Face value at grant £ | Vesting period | Vesting date | Expiry date |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Tom Griffith | 23,500 | – | (23,500) | – | 0 | 3.52 | | | | |
+
+| | at 2024 | Held during the period | during the period | during the period | Held at 2025 | Face value price £ | grant price £ | at grant £ | Vesting period | Vesting date | Expiry date |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Tom Griffith | 23,500 | – | (23,500) | – | 0 | 3.52 | 3.52 | 0 | 3 yrs | 19/6/2018 | 19/6/2025 |
+| **Total** | **23,500** | **–** | **(23,500)** | **–** | **0** | | | | | | |
+
+The closing market price of the Company’s ordinary shares at 30th June 2025 was £3.46 (2024: £3.70) and the price moved during the year between a low of £3.28 to a high of £3.95 (2024: low £3.01 high £4.24).
+
+## 2) FUTURE IMPLEMENTATION
+The Committee will table a new Directors’ Remuneration Policy at the 2025 AGM. Subject to being approved by the shareholders at the 2025 AGM, the Directors’ Remuneration Policy on pages 74 to 80 will apply from FY 2026 onwards.
+
+At the time of writing, there are no Executive Directors on the CLIG Board. Any new Executive Director appointment (whether internal or external) will be bound by the terms of the approved Directors’ Remuneration Policy. The Executive Director will receive fixed elements of salary, taxable benefits and pension, and the variable element will include participation in the annual bonus and LTIP. The bonus and LTIP measures will be determined upon the Executive Director’s appointment.
+
+The current fee arrangements for Non-Executive Directors for FY 2026 are shown on page 65. Non-Executive Directors’ biennial fee review process is next due to occur on 1st January 2027.
+
+## 1) SINGLE TOTAL FIGURE OF REMUNERATION (AUDITED) CONTINUED
+
+***
+
+*City of London Investment Group PLC Annual Report 2024/2025*
+*69*
+*Strategic report Overview Financial statements Shareholder information Governance*
+
+***
+
+## 3) FURTHER REMUNERATION DISCLOSURES
+### Total shareholder return
+The following graph illustrates the total shareholder return of a holding in the Company against an appropriate index for the ten years to 30th June 2025. We have chosen the MSCI Emerging Markets T/R Net Index which is calculated on a total return basis, i.e. assuming reinvestment of dividends.
+
+> **Total shareholder return (dividends reinvested) for ten years to 30th June 2025 (GBP)**
+>
+> 
+
+Griffith’s bonus was 2.5% of operating profit pre-bonus and EIP until 30th June 2019 and was changed to 250% of salary and base fee for the year ended 30th June 2020 onwards.
+
+(4) As detailed in the single total figure commentary on page 64, EIP awards are made on the basis of the amount of the bonus that has been waived in the scheme year. These awards vest based on continued service and therefore have been shown at 100% in the table. Tom Griffith did not participate in either the 2024 and 2025 EIP and thus his EIP has been shown as n/a.
+(5) Tom Griffith stepped down from the Board on 1st July 2025.
+
+***
+
+*City of London Investment Group PLC Annual Report 2024/2025*
+<br>
+*71*
+<br>
+*Strategic report | Overview | Financial statements | Shareholder information | Governance*
+
+***
+
+### 3) FURTHER REMUNERATION DISCLOSURES CONTINUED
+
+#### Annual percentage change in the remuneration of Directors and employees
+
+The table below shows the change in Director and employee salary/fees, benefits and profit-share over the preceding two years. The average change for employees as a whole is given using a per capita figure based on the average number of employees for the period.
+
+| | **Salary/fees** | | | **Benefits** | | | **Profit-share** | | |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| | **%** | **%** | **%** | **%** | **%** | **%** | **%** | **%** | **%** |
+| | **2025 (1)** | **2024 (2)** | **2023 (3)** | **2025 (1)** | **2024 (2)** | **2023 (3)** | **2025 (1)** | **2024 (2)** | **2023 (3)** |
+| **Employees (4)** | -3% | 6% | 16% | -3% | 9% | 21% | -1% | 0% | 8% |
+| **Executive Director** | | | | | | | | | |
+| Tom Griffith (5) | 0% | 0% | 0% | 2% | -3% | 11% | 40% | -7% | -27% |
+| **Non-Executive Directors** | | | | | | | | | |
+| Rian Dartnell | 30% | 50% | 6% | n/a | n/a | n/a | n/a | n/a | n/a |
+| Peter Roth | 0% | 8% | 8% | n/a | n/a | n/a | n/a | n/a | n/a |
+| Sarah Ing (6) | 258% | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a |
+| Ben Stocks (7) | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a |
+
+**Notes – Only current Directors are included in the above analysis:**
+
+(1) 2025 – June 2025 month end exchange rate has been applied to GBP payments for the two accounting periods 2024 to 2025 to eliminate the impact of FX movements.
+(2) 2024 – June 2024 month end exchange rate has been applied to GBP payments for the two accounting periods 2023 to 2024 to eliminate the impact of FX movements.
+(3) 2023 – June 2023 month end exchange rate has been applied to USD payments for the two accounting periods 2022 to 2023 to eliminate the impact of FX movements.
+(4) Based on average cost per employee.
+(5) Tom Griffith stepped down from the Board on 1st July 2025.
+(6) Sarah Ing joined the Board on 1st March 2024 and the increase relates to a full years impact of her Directors fee.
+(7) Ben Stocks joined the Board on 7th April 2025 and thus not analysed.
+
+#### Relative importance of spend on pay
+
+The table below shows the overall expenditure on employee remuneration and shareholder distributions and the percentage change between the current and previous period.
+
+| | **2025** | **2024** | **Change** |
+| :--- | :--- | :--- | :--- |
+| | **$’000** | **$’000** | **%** |
+| Total employee spend | 30,423 | 30,925 | -2% |
+| Average headcount (number) | 113 | 118 | -4% |
+| Profit after tax | 19,682 | 17,115 | 15% |
+| Dividends relating to the period (1) | 21,834 | 20,707 | 5% |
+| Dividend per share (pence) | 33p | 33p | 0% |
+
+**Note:**
+(1) The current period includes an estimate of the final dividend based on the number of qualifying shares as at 30th June 2025 excluding those held in the employee benefit trust.
+
+The Board are recommending a final dividend of 22p per share (2024: 22p), which would make the total for the year 33p per share (2024: 33p). This is subject to shareholder approval at the AGM in October 2025. The prior period estimate has been restated to include the actual final dividend paid.
+
+A breakdown of the employee spend can be found in note 3 to the financial statements on page 107.
+
+### ANNUAL REPORT ON REMUNERATION CONTINUED
+
+***
+
+*72*
+<br>
+*City of London Investment Group PLC Annual Report 2024/2025*
+<br>
+*Governance*
+
+***
+
+### 4) GOVERNANCE DISCLOSURES
+
+#### Payments to past Directors
+
+No payment or transfer of assets was made during the financial period to any past Director of the Company.
+
+#### Payments for loss of office
+
+Tom Griffith left the Board and his role as Chief Executive Officer on 1st July 2025. Following this, Tom remains with the Company as a Senior Advisor until 30th September 2025 and he will receive fifteen thousand dollars
+
+Board and his role as Chief Executive Officer on 1st July 2025. Following this, Tom remains with the Company as a Senior Advisor until 30th September 2025 and he will receive fifteen thousand dollars ($15,000) per month for undertaking this role and retains his benefits as a continuing senior-level executive. Tom will also receive twelve months of his net salary as payment in lieu of notice, which is in accordance with his terms of employment, payable at the end of September 2025, subject to applicable taxes and payroll deductions. When Tom ceases his employment, the Committee has agreed that he will be treated as a good leaver under EIP which reflects his strong contribution to the business and the length of his tenure. In respect of awards granted to Tom under the EIP (i) all Company shares held under unvested deferred share awards and (ii) a time pro-rated number of Company shares held under unvested bonus share awards will be deemed vested as of 30th September 2025 (any balance of the bonus share awards being forfeited) together with amounts in respect of applicable dividends on Company shares received. Any payments due will be paid in October 2025. Tom will receive no additional compensation or payment for the termination of his service contract or his ceasing to be a Director of the Company or any other Group Company and the arrangements outlined above are in line with the Directors’ Remuneration Policy.
+
+### Directors’ interests
+Beneficial interest of the Directors and their families in the shares of the Company at the period end were as follows:
+
+| | <center>Ordinary shares of 1p each</center> | <center>Restricted share awards of 1p each</center> | |
+| :--- | :---: | :---: | :---: | :---: |
+| | **2025** | **2024** | **2025** | **2024** |
+| **Executive Director** | | | | |
+| Tom Griffith (1) | 134,869 | 527,614 | 22,278 | 29,533 |
+| **Non-Executive Directors** | | | | |
+| Rian Dartnell | 63,000 | 50,000 | – | – |
+| Peter Roth | 5,000 | 5,000 | – | – |
+| Sarah Ing | 10,000 | 10,000 | – | – |
+| Ben Stocks (3) | – | n/a | – | n/a |
+| **Past Directors** | | | | |
+| Tazim Essani (2) | n/a | 5,350 | n/a | – |
+
+**Notes:**
+(1) Tom Griffith stepped down from the Board on 1st July 2025.
+(2) Tazim Essani ceased to be a Director of the Company with effect from 28th October 2024.
+(3) Ben Stocks joined the Board on 7th April 2025.
+
+### Executive Director shareholding guidelines
+The Executive Director is required to hold shares equivalent in value to 200% of salary within a five-year period from date of appointment. The below illustration shows the Executive Director’s share ownership against this target as at 30th June 2025. The closing share price of £3.46 for the financial year ended 30th June 2025 has been used.
+
+**Tom Griffith**
+`0%     50%     100%     150%     200%     250%`
+*   **Shareholding guidelines:** 220%
+*   Unvested EIP shares (net of tax)
+*   Shares held
+
+---
+City of London Investment Group PLC Annual Report 2024/2025 73
+*Strategic report* *Overview* *Financial statements* *Shareholder information* *Governance*
+---
+
+### 4) GOVERNANCE DISCLOSURES CONTINUED
+
+#### Remuneration Committee
+The Executive Director does not attend during discussions regarding his own remuneration. Details of attendance by members of the Remuneration Committee are set out on page 48.
+
+Dividends received by Directors and their families from holdings of shares in the Company during the financial year were as follows:
+
+| | **2025 (1)** | **2024 (1)** |
+| :--- | :---: | :---: |
+| | **£’000** | **£’000** |
+| **Executive Director** | | |
+| Tom Griffith (2) | 174.9 | 166.4 |
+| **Non-Executive Directors** | | |
+| Rian Dartnell | 16.5 | 16.5 |
+| Peter Roth | 1.7 | 1.7 |
+| Sarah Ing | 3.3 | n/a |
+| Ben Stocks (3) | n/a | n/a |
+| **Past Directors** | | |
+| Jane Stabile (4) | n/a | 1.1 |
+| Tazim Essani (5) | n/a | 1.8 |
+
+**Notes:**
+(1) Dividend is declared in sterling and thus the amounts have not been converted to US dollars.
+(2) Tom Griffith stepped down from the Board on 1st July 2025.
+(3) Ben Stocks joined the Board on 7th April 2025.
+(4) Jane Stabile ceased to be a Director of the Company with effect from 29th February 2024.
+(5) Tazim Essani ceased to be a Director of the Company with effect from 28th October 2024.
+
+### Statement of voting at the last Annual General Meeting (AGM)
+The table below shows the votes on the Directors’ Remuneration Report, and Policy, at the AGM held on 28th October 2024.
+
+October 2024.
+
+### Statement of voting at the last Annual General Meeting (AGM)
+
+The table below shows the votes on the Directors’ Remuneration Report, and Policy, at the AGM held on 28th October 2024.
+
+| | Votes For* | % For | Votes Against | % Against | Total Votes** |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Directors’ Remuneration Report 2024** | 17,381,872 | 97.08 | 523,320 | 2.92 | 17,905,192 |
+| **Directors’ Remuneration Policy 2022** | 16,231,003 | 97.67 | 387,513 | 2.16 | 16,618,516 |
+
+\* Includes discretionary votes.  
+\*\* Excludes votes withheld.
+
+### Consideration of employment conditions elsewhere in the Group
+
+The Group has adopted a partnership approach so in essence this policy is consistent with that applied across the Group. While employees were not directly consulted on the Directors’ remuneration, the Group remuneration policy is available to all employees and any feedback or concerns are welcomed.
+
+### Terms of reference
+
+The Committee reviewed its terms of reference in March 2025 and recommended minor administrative changes to the Board for approval.
+
+***
+
+# DIRECTORS’ REMUNERATION POLICY
+
+> 74 City of London Investment Group PLC Annual Report 2024/2025 Governance
+
+In this section, we present our proposed Directors’ Remuneration Policy (the ‘Policy’), which will be submitted for a binding shareholder vote at our upcoming Annual General Meeting scheduled for 27th October 2025. It will take formal effect from that date, subject to shareholder approval. The Policy will replace the one most recently approved by shareholders at the AGM on 31st October 2022. It will apply for three years unless a new policy is presented to shareholders before then. On approval, all payments to Directors will be consistent with the approved Policy.
+
+A review of Executive Directors’ remuneration was undertaken during 2025 in the context of changes to our executive team, consideration of typical practice in UK PLCs and institutional shareholders’ views.
+
+The main goal of our new Policy is to promote the Group’s long-term success. To do this, our Remuneration Committee adheres to the following principles:
+
+*   Remuneration packages should be clear and simple
+*   Arrangements should be closely aligned with the interests of shareholders and other key stakeholders and should conform to high standards of corporate governance – with the UK Corporate Governance Code a core source
+*   Remuneration should align with, and support, our values and culture
+*   A significant proportion of remuneration should be based on performance-related components
+*   Rewards should be subject to achieving challenging performance targets based on measures linked to the Group’s KPIs and the best interests of stakeholders
+*   Salaries, and the overall level of potential remuneration, should be competitive but not excessive when compared with companies of a similar size, scale, geographical reach and in our sector. They should be sufficient to recruit, retain and motivate individuals of the calibre needed to deliver long-term success.
+
+### Changes to our remuneration policy
+
+Full details of the substantive changes proposed in the new Policy, along with supporting rationale, are set out in the introduction from our Committee Chair on pages 62 to 63.
+
+In summary, the material changes we are proposing are as follows:
+
+*   **Base salary** – 2025 Policy provides for a single all-encompassing base salary, which replaces the previous policy on providing separate governance fee alongside base salary.
+*   **Annual bonus replacing profit-share** – The annual bonus opportunity will continue to be capped at 250% of salary with performance measured over one year. Two-thirds of bonus earned will be paid in cash following the year-end and one-third will be deferred into shares for three years.
+*   **LTIP replacing EIP** – A new Long Term Incentive Plan (LTIP) is being introduced which enables performance shares to be granted to Executive Directors with a maximum face value of 150% of salary or 200% in exceptional circumstances. Performance shares vest after three years and vested awards are subject to a further two-year holding period.
+
+with a maximum face value of 150% of salary or 200% in exceptional circumstances. Performance shares vest after three years and vested awards are subject to a further two-year holding period. This structure aligns with common practice in listed UK PLCs and provides stronger executive alignment with long-term performance. The previous EIP scheme which provided a matching share award for an element of deferred bonus will no longer operate for Executive Directors.
+
+**City of London Investment Group PLC Annual Report 2024/2025** | 75 | **Strategic report** | **Overview** | **Financial statements** | **Shareholder information** | **Governance**
+***
+
+## Policy table for Directors
+
+The table below sets out the main components of the proposed new policy, together with information on how they will operate, subject to shareholders’ approval at our 2025 AGM. The Committee has the discretion to amend remuneration to the extent described in the table and text below.
+
+| Component and purpose | Operation | Maximum opportunity | Performance measures and targets | Recovery |
+| :--- | :--- | :--- | :--- | :--- |
+| **Base salary (fixed pay)**<br><br>**EXECUTIVE DIRECTOR**<br>To pay a fair base salary, commensurate with the size of the business and the individual’s role and experience.<br><br>To attract and retain executives of a superior calibre. | Salaries are usually reviewed annually, with changes, if any, generally effective 1st January or 1st July.<br><br>The Committee considers salaries in the context of an overall package with regard to market data, Group performance and individual experience and performance.<br><br>Adjustments may be made at other times to reflect a change of responsibility. | While there is no prescribed maximum salary or increase, rises will normally be in line with the typical range awarded (in percentage of salary terms) to the wider workforce.<br><br>Larger salary increases may be awarded to take account of individual circumstances, such as where:<br>• An Executive Director has been promoted or had a change in scope or responsibility<br>• The Committee sets the salary of a new hire at a discount to the market level, and a series of planned increases can be implemented in the next few years to raise it to the appropriate market position, subject to individual performance<br>• The Committee considers it fitting to adjust salaries to reflect a significant increase in the size or complexity of the Group.<br><br>Increases may be implemented over a time period that the Committee deems appropriate. | Not applicable. | Not applicable. |
+| **Pension (fixed pay)**<br><br>To provide defined contribution pension arrangements to allow for retirement planning | Employer contributions are made to defined contribution pension arrangements or equivalent cash allowances are paid, subject to local practice in the relevant country. | The maximum defined pension contribution or cash equivalent will be no higher than the defined pension contribution level of the wider employee workforce in the jurisdiction in which the Executive Director is based (currently 12.5% of salary in the US/UK). | Not applicable. | Not applicable. |
+| **Benefits (fixed pay)**<br><br>To provide market competitive fringe benefits.<br><br>To attract and retain executives of a superior calibre. | Currently benefits offered include: life insurance, medical insurance (or a contribution towards the cost), disability insurance, sabbatical, paid holiday and travel season ticket loans.<br><br>Executives will be eligible for any other benefits which are introduced for the wider workforce on broadly similar terms.<br><br>For external and internal appointments or relocations, the Company may pay certain relocation or incidental expenses as appropriate.<br><br>Any reasonable business-related expenses can be reimbursed (and any related tax met if determined to be a taxable benefit).<br><br>Executive Directors can also participate in all-employee share plans on the same basis as other employees. | Given it is not possible to calculate in advance the cost of all benefits, a maximum is not pre-determined. | The maximum level of participation in all-employee share plans is subject to the limits imposed by the relevant tax | |
+
+to calculate in advance the cost of all benefits, a maximum is not pre-determined. The maximum level of participation in all-employee share plans is subject to the limits imposed by the relevant tax authority. Not applicable. Benefits are provided up to termination of employment and any outstanding travel season ticket loan is repayable in full.
+
+---
+**76 City of London Investment Group PLC Annual Report 2024/2025**
+---
+
+## DIRECTORS’ REMUNERATION POLICY CONTINUED
+
+### Governance
+
+#### Annual bonus (variable pay)
+
+**Component and purpose**
+To incentivise and reward Directors for their contribution to the corporate goals outlined in the strategic report. Bonus deferral encourages long- term shareholding, supports retention and discourages excessive risk-taking.
+
+**Operation**
+The Company operates an annual bonus scheme with awards based on performance, typically measured over one year. Any payment is discretionary, and payout levels are determined by the Committee after the year end based on performance against pre-set targets. Bonuses are normally paid in cash except one- third of any bonus, which is deferred into shares, typically for a three-year period. Dividends or dividend equivalents may accrue on deferred shares. The vesting of deferred shares is not subject to additional performance conditions.
+
+**Maximum opportunity**
+The maximum annual bonus opportunity for an Executive Director is 250% of base salary.
+
+**Performance measures and targets**
+Targets are set annually with measures linked to our strategy and aligned with key corporate goals including profit. The performance measures applied may be financial or non-financial, corporate, divisional or individual, and in such proportions as the Committee considers appropriate. A graduated scale of targets is typically set for each measure, with no payout for performance below the threshold level. The Committee has the discretion to amend the payout should any formulaic outcome not reflect its assessment of overall business performance.
+
+**Recovery**
+The annual bonus plan (and associated deferred bonus award element of the LTIP) include provisions that enable the Committee to recover or withhold value in the event of material misstatement or misleading representation of performance, calculation errors, significant failure of risk management and control, serious misconduct, corporate failure, reputational damage or applicable regulatory requirements. Such provisions are available in respect of bonuses or deferred bonus awards at any time prior to the third anniversary of the date of payment or grant as relevant.
+
+### EXECUTIVE DIRECTOR continued
+
+#### Long Term Incentive Plan (Plan)
+
+**Component and purpose**
+To incentivise Executive Directors and deliver long-term performance-related pay, with a clear line of sight for executives and direct alignment with shareholders’ interests.
+
+**Operation**
+Awards will be in the form of nominal or nil cost share options, conditional shares or other forms that have the same economic effect. Awards will be granted with vesting based on achieving performance conditions set by the Committee, with performance normally measured over at least three years. Awards will be subject to a two-year holding period following the end of the performance term, with shares (net of tax shares) typically not being released to participants until the end of the holding period. Dividends or dividend equivalents may accrue on awards to the extent they vest.
+
+**Maximum opportunity**
+The maximum LTIP grant level is 150% of salary in a financial year, (or 200% in exceptional circumstances such as when a new Executive Director is recruited).
+
+**Performance measures and targets**
+LTIP performance measures may include, but are not limited to, financial, Total shareholder return (TSR) and strategic objectives. The committee retains the discretion to set alternative measures and weightings for awards over the life of the policy. Targets are set and assessed by the Committee at its discretion. A maximum of 25% of any element vests for achieving the threshold target, with 100% for maximum performance. The Committee has the discretion to
+
+set and assessed by the Committee at its discretion. A maximum of 25% of any element vests for achieving the threshold target, with 100% for maximum performance. The Committee has the discretion to amend the vesting level should any formulaic outcome not reflect its assessment of overall business performance.
+
+The LTIP includes provisions that enable the Committee to recover or withhold value in the event of material misstatement or misleading representation of performance, calculation errors, significant failure of risk management and control, serious misconduct, corporate failure, reputational damage or applicable regulatory requirements. Such provisions are available in respect of an LTIP award at any time prior to the third anniversary of the date it vests.
+
+### Shareholding guideline
+Guidance to encourage Director share ownership and ensure alignment of their long-term interests with that of shareholders. The Committee will monitor the Executive Directors’ share ownership to ensure they are on track to meet the minimum shareholding requirement. Shares that count towards these guidelines include shares that are owned outright, and vested share awards (on a net of tax basis).
+
+In addition, a post-employment shareholding requirement applies. The Executive Director is required to hold the lower of 200% of their salary or the value of shares held by the Executive Director at the date of termination of employment. This excludes any shares purchased by executives but includes any shares delivered through the Group’s incentive schemes. The Committee retains discretion to allow for the sale of shares by the Executive Director before the second anniversary of termination of employment in the event of exceptional circumstances. The Committee expects the Executive Director to build up a shareholding of at least 200% of salary within a five-year period.
+
+Not applicable.
+
+Not applicable.
+
+***
+
+City of London Investment Group PLC Annual Report 2024/2025 77
+Strategic reportOverview Financial statements Shareholder information Governance
+
+***
+
+## NON-EXECUTIVE DIRECTORS
+
+### Fees
+
+**Component and purpose**
+To pay a fair fee, commensurate with the skills, experience and time required to undertake the role and to attract high-calibre individuals.
+
+**Operation**
+Fees are normally reviewed every two years taking into account factors such as the time commitment and contribution of the role and market levels in companies of a comparable size and complexity. Adjustments may be made at other times to reflect a change of responsibility. Fees for Non-Executive Directors may include a base fee and additional fees for further responsibilities (for example, chair-ship of Board committees or holding the office of Senior Independent Director or taking up significant additional responsibility). Fees are paid monthly or quarterly in arrears, depending on Director’s preference. The Group repays any reasonable expenses that a Non-Executive Director incurs in carrying out their duties, including travel, hospitality-related and other modest benefits, and related tax liabilities, if appropriate. In exceptional circumstances, if there is a temporary yet material increase in the time commitments for Non-Executive Directors, the Board may pay extra fees on a pro rata basis to recognise the additional workload.
+
+**Maximum opportunity**
+There is no prescribed maximum fee or maximum fee increase. An aggregate NED fee cap of £310,000 applies as is set out in the Group’s Articles of Association. Expenses are not subject to a specific cap but they must be reasonable and appropriate. The Company may settle any tax incurred.
+
+**Performance measures and targets**
+Not applicable.
+
+**Recovery**
+Not applicable.
+
+## Choice of performance measures
+Annual bonus performance measures are selected annually to align with the Group’s KPIs and strategic imperatives, and with the interests of our shareholders and other stakeholders. Financial measures and in particular, profit, will normally influence the majority of the bonus.
+
+## LTIP
+
+and strategic imperatives, and with the interests of our shareholders and other stakeholders. Financial measures and in particular, profit, will normally influence the majority of the bonus.
+
+LTIP performance measures will be selected to:
+*   Provide a robust and transparent basis on which to measure the Group’s performance.
+*   Link remuneration outcomes to delivery of the business strategy over the longer term.
+*   Provide strong alignment between senior management and shareholders.
+
+The policy provides for Committee discretion to alter the LTIP measures and weightings from year to year. This is to ensure that it can continue to measure performance appropriately, if the Group’s strategic ambitions evolve over the life of the policy.
+
+When setting performance targets for the bonus and LTIP, the Committee will consider a number of different factors. These may include the Group’s business plans and strategy, external forecasts and the wider economic environment.
+
+### Flexibility, discretion and judgement
+
+The Committee operates the annual bonus and LTIP according to the rules of each respective plan. Consistent with market practice, this includes discretion around how certain parts of each plan operate, including:
+
+*   Who participates in the plan, and the quantum and timing of awards and payments.
+*   Determining the extent of vesting.
+*   Treatment of awards and payments on a change of control or restructuring of the Group.
+*   Whether an Executive Director or Senior Manager is a good/bad leaver for incentive plan purposes and if the proportion of awards that vest do so at the time of leaving or at the normal vesting date(s).
+*   How and whether an award may be adjusted in certain circumstances – for example, for a rights issue, a corporate restructuring or special dividends.
+*   What the weighting, measures and targets should be for the annual bonus plan and LTIP awards from year to year.
+
+---
+**DIRECTORS’ REMUNERATION POLICY CONTINUED**
+
+*78 City of London Investment Group PLC Annual Report 2024/2025 Governance*
+---
+
+*   The ability, within the policy, to adjust targets and set different measures or weightings for the applicable annual bonus plan and LTIP awards, if the Committee determines that the original conditions are no longer appropriate or do not fulfil their initial purpose. Such changes would be explained in the subsequent Directors’ remuneration report and, if appropriate, be discussed with our major shareholders.
+*   The ability to override formulaic outcomes in line with policy.
+
+All assessments of performance are ultimately subject to the Committee’s judgement. Any discretion exercised, and the rationale, will be disclosed in the Annual report on remuneration.
+
+### Legacy arrangements
+
+If this proposed new remuneration policy is approved, the Group has the authority to honour any previous commitments entered into with current or former Directors – such as unwinding legacy share schemes or historic share awards – that remain outstanding.
+
+### Illustrative applications of our policy
+
+At the time of finalising the Directors’ Remuneration Policy, there are no Executive Directors on the CLIG Board and therefore it is not possible to provide an illustration of the reward on offer to Executive Directors.
+
+### Recruitment remuneration
+
+The policy aims to attract individuals of sufficient calibre to lead the business, deliver the Group’s strategy effectively and promote our long-term success for the benefit of our shareholders and other stakeholders.
+
+When appointing a new Executive Director, the Committee seeks to ensure that arrangements are in the best interests of the Group and to not pay more than is appropriate. The Committee will take into consideration a number of relevant factors. These may include the calibre and experience of the candidate, their existing remuneration package and their specific circumstances, including from where they are recruited.
+
+When hiring a new Executive Director, the Committee will typically align the remuneration package with the policy outlined.
+
+their specific circumstances, including from where they are recruited. When hiring a new Executive Director, the Committee will typically align the remuneration package with the policy outlined. It may include other elements of pay that it considers are appropriate; however, this discretion is capped and subject to the following principles and limits:
+
+*   New Executive Directors will be offered a basic salary in line with the policy. This will consider such factors as external market forces, the individual’s expertise, experience and calibre, and their current level of pay. Where the Committee has set the salary of a new appointment at a discount to the market level until proven, the individual may receive an uplift or a series of planned increases to raise the salary to the appropriate market position over time.
+*   For both external and internal appointments, the Committee may agree that it will meet relocation and incidental expenses as appropriate.
+*   Annual bonus awards, LTIP awards and pension contributions would not be above the levels stated in the policy table above.
+*   Depending on the appointment’s timing, the Committee may set different annual bonus performance conditions for the first year of performance. An LTIP award can be made following an appointment (assuming the Group is not in a close period).
+*   Where a position is filled internally, any ongoing remuneration obligations or outstanding variable pay elements (including participation in the previous profit-sharing arrangement and EIP) will be allowed to continue according to the original terms, adjusted as relevant to the appointment.
+*   The Committee may also offer additional cash or share-based buy-out awards when it considers it is in the best interests of the Group (and therefore shareholders) to take account of remuneration given up at the individual’s former employer. This includes the use of awards made under 9.3.2 (2) of the Listing Rules. Such awards would represent a reasonable estimate of the value foregone and reflect, as far as possible, the delivery mechanism and time horizons and whether performance requirements are attached to that remuneration. Shareholders will be informed of any such payments at the time of appointment or in the next Annual Report. The value of buy-out awards is not capped.
+*   For the appointment of a new Chair or Non-Executive Director, the fee arrangement would be set according to the approved remuneration policy.
+
+### Service contracts and letters of appointment
+
+The Group’s policy is that Executive Directors should normally be employed under rolling service contracts with notice periods of no more than twelve months (from each party).
+
+*City of London Investment Group PLC Annual Report 2024/2025 79 Strategic reportOverview Financial statements Shareholder information Governance*
+
+All Non-Executive Directors have letters of appointment on a rolling annual basis, which may be terminated with six months’ notice by either party. All Director appointments are subject to Board approval and election and re-election by shareholders at each AGM.
+
+Key details of the service contracts and letters of appointment of the current Directors are set out below, and copies of Executive Directors’ service contracts and Non-Executive Directors’ letters of appointment are available for inspection at our registered office during normal business hours.
+
+| Name | Date of appointment | Notice period from Company | Notice period from Director | Provision of compensation |
+| :--- | :--- | :--- | :--- | :--- |
+| **Executive Director** | | | | |
+| Tom Griffith (1) | 31st March 2020 | One year | One year | One year’s salary |
+| **Non-Executive Directors** | | | | |
+| Rian Dartnell | 30th September 2020 | Six months | Six months | Six months’ fees |
+| Peter Roth | 1st June 2019 | Six months | Six months | Six months’ fees |
+| Sarah Ing | 1st March 2024 | Six months | Six months | Six months’ fees |
+| Ben Stocks | 7th April 2025 | Six months | Six months | Six months’ fees |
+
+(1) Tom Griffith stepped down from the Board on 1st July 2025.
+
+### Payments for loss of office
+
+The principles underpinning how we determine
+
+# DIRECTORS’ REMUNERATION POLICY CONTINUED
+
+*   Stocks 7th April 2025
+*   Six months
+*   Six months
+*   Six months’ fees (1)
+
+(1) Tom Griffith stepped down from the Board on 1st July 2025.
+
+## Payments for loss of office
+
+The principles underpinning how we determine payments for loss of office are set out below:
+
+### Payment in lieu of notice
+The Group may terminate a contract with immediate effect with or without cause by making a payment, in lieu of notice, of base salary. The default approach will be to make the payment in lieu of notice by monthly instalments, with reductions for any amounts received from providing services to others during this period. However, the Committee retains the discretion to make the payment as a lump sum. There are no obligations to make payments beyond those disclosed in this report.
+
+### Annual bonus
+This will be at the discretion of the Committee on an individual basis. The decision as to whether to award an annual bonus in full or in part will depend on a number of factors, including the circumstances of the individual’s departure and their contribution to the business during the relevant annual bonus period. Any amounts paid will be prorated for time in service during the annual bonus period and will, subject to performance, be paid at the usual time (although the Committee retains the discretion to pay the annual bonus award earlier). Any bonus earned for the year of departure and, if relevant, for the prior year, may be paid wholly in cash at the Committee’s discretion. On a change of control, annual bonuses will either continue for the full year or be paid to the time of completion on a pro-rata basis.
+
+### Deferred bonus awards
+The extent to which any unvested deferred bonus award will vest will be determined according to the rules of the LTIP under which deferred bonus awards are granted. If a participant leaves the Group for any reason (other than summary dismissal, in which case the award will lapse), the award will usually continue until the normal vesting date. The Committee retains the discretion to release awards when the participant leaves. On a change of control, awards will generally vest on the date that control alters, unless the Committee permits (or requires) awards to roll over into equivalent shares in the acquirer.
+
+### LTI P
+The extent to which any unvested performance share awards will vest will be determined according to the rules of the LTIP. Any outstanding awards will ordinarily lapse. However, in ‘good leaver’ cases, awards will generally vest subject to the original performance condition and time proration and the holding period will continue to apply. For added flexibility, the policy allows the Committee to decide not to prorate (or to prorate to a different extent) if it decides it is appropriate, and to allow vesting to be triggered at the point of leaving, rather than waiting until the end of the performance period. On a change of control, any vesting of awards will be subject to assessment of performance against the performance conditions and will normally be prorated.
+
+### Mitigation
+The Committee strongly endorses the obligation on an Executive Director to mitigate any loss on early termination and will seek to reduce the amount payable on termination where appropriate. The Committee will also take care to ensure that, while meeting its contractual obligations, poor performance is not rewarded.
+
+### Buy-out awards
+Where a buy-out award is made under the Listing Rules, the leaver provisions would be determined at the time of the award.
+
+### Other payments
+The Group may pay outplacement and professional legal fees incurred by executives in finalising their termination arrangements, where appropriate. It may also pay any statutory entitlements or settle compromise claims in connection with a termination of employment, in the best interests of the Company. Outstanding savings/shares under all-employee share plans would be transferred in accordance with the terms of the plans.
+
+---
+**80** City of London Investment Group PLC
+
+savings/shares under all-employee share plans would be transferred in accordance with the terms of the plans.
+
+### DIRECTORS’ REMUNERATION POLICY CONTINUED
+
+---
+*80 City of London Investment Group PLC Annual Report 2024/2025 Governance*
+---
+
+#### External appointments
+The Group recognises that its Executive Directors may be invited to become Non-Executive Directors of other companies, and that such appointments can broaden a Director’s experience and knowledge to the Group’s benefit. Subject to approval by the Board, Executive Directors are allowed to accept non-executive appointments, provided that they are not likely to lead to conflicts of interest. The Committee will consider its approach to fees received by Executive Directors for external non-executive roles as they arise.
+
+#### Considering shareholders’ views
+As a Committee we are committed to ongoing dialogue with shareholders, and we welcome feedback on our Directors’ remuneration. We will seek to engage with major shareholders and their representative bodies about changes to the Policy. We will also consider shareholder feedback on remuneration-related resolutions following each year’s AGM. This, along with any additional feedback we receive – including about any updates to shareholders’ remuneration guidelines – will be considered as part of our annual review and implementation of our remuneration policy. The Committee also actively monitors changes in the expectations of institutional investors and considers good practice guidelines from institutional shareholders and shareholder bodies. As part of our review of the current policy, the Committee engaged with our largest shareholders. The feedback, which was largely positive, was invaluable in forming our final proposals.
+
+#### Differences in pay policy between Executive Directors and employees
+The overall approach to employee reward is a key reference point when setting Executive Directors’ remuneration. As with the Executive Directors, to attract and retain employees our general practice is to recruit staff at competitive market levels of remuneration, incentives and benefits, in line with national and regional talent pools. When reviewing our Executive Directors’ salaries, our Committee pays close attention to pay and employment conditions across the wider workforce. Our current expectation is that we will continue to raise our Executive Directors’ salaries only in line with or below our annual salary review levels for our salaried staff over the three-year policy period. The pension contribution for Executive Directors will be no higher than for most of our people.
+
+The key difference between Executive Directors’ and employees’ reward is that, at senior levels, remuneration is increasingly long term and ‘at risk’, with an emphasis on performance-related pay linked to business results and share-based remuneration. This ensures that senior-level remuneration will increase or decrease in line with business performance and aligns the interests of Executive Directors and shareholders. In particular, performance-based long-term incentives only go to the most senior executives, because they are considered to have the greatest potential to influence overall performance levels.
+
+---
+*City of London Investment Group PLC Annual Report 2024/2025 81 Strategic reportOverview Financial statements Shareholder information Governance*
+---
+
+## DIRECTORS’ REPORT
+
+### Governance
+
+#### Directors
+The Directors of the Company who held office during the year ended 30th June 2025 and to the date of this report are:
+
+*   **Rian Dartnell**
+    Chair
+*   **Tom Griffith**
+    Chief Executive Officer (stepped down on 1st July 2025)
+*   **Peter Roth**
+    Senior Independent Director and Independent Non-Executive Director
+*   **Tazim Essani**
+    Independent Non-Executive Director (stepped down on 28th October 2024)
+*   **Sarah Ing**
+    Independent Non-Executive Director
+*   **Ben Stocks**
+    Independent Non-Executive Director (appointed on 7th April 2025)
+
+The biographical details of the current Directors of the Company are given on page 46, whilst the roles and
+
+### Director Ben Stocks
+**Independent Non-Executive Director (appointed on 7th April 2025)**
+
+The biographical details of the current Directors of the Company are given on page 46, whilst the roles and responsibilities are on page 52.
+
+### Principal activity
+City of London Investment Group PLC is the holding company for its two principal operating subsidiaries: City of London Investment Management Company Limited (CLIM) and Karpus Investment Management (KIM). Both CLIM and KIM act as investment managers with a total of $10.8 billion (2024: $10.2 billion) funds under management as at 30th June 2025.
+
+### Going concern
+The Directors’ report should be read in conjunction with the governance report on pages 44 to 80 and the strategic report on pages 5 to 42, which together provide a commentary on the operations of the Group and include factors likely to affect its future development as well as relevant key performance indicators and principal risks and how they are managed, using the information available to the date of these financial statements.
+
+The Directors present their report, together with the audited financial statements of the Group for the year ended 30th June 2025. This report contained additional information which the Directors are required by law and regulation to include within the Annual report and Accounts. In conjunction with the information from the Chair’s Statement on page 5 to the Statement of Directors’ Responsibilities on page 84 this section constitutes the Directors report in accounts with the Companies Act and the Management Report as required by DTR 4.1.5 R(2).
+
+As permitted by legislation some matters required to be included in the Directors’ report have instead been included in the Strategic Report on pages 5 to 42 as the Board considers them to be of strategic importance. The information contained in the sections of this Annual Report and Accounts identified below also forms part of this Directors’ report:
+
+| DISCLOSURE | LOCATION |
+| :--- | :--- |
+| Corporate governance report | Pages 47 to 52 |
+| Statement of compliance with 2018 UK Corporate Governance Code | Page 47 of Corporate Governance report |
+| Future business developments | Pages 5 to 14 of the Strategic Report |
+| Greenhouse gas emissions | Page 38 of the TCFD report |
+| People, culture and employee engagement | Pages 31 to 35 |
+| Financial risk management objectives and policies | Note 26 to the Financial Statements – pages 126 to 127 |
+| Exposure to price risk, credit risk, liquidity risk and cash flow risk | Note 26 to the Financial Statements – pages 126 to 127 |
+| Statement of Directors’ responsibilities | Page 84 |
+| Directors’ interests in shares | Page 72 of the Directors’ remuneration report |
+| S.172 statement & Stakeholder Engagement | Page 30 of the Strategic report |
+
+The Directors’ report together with the strategic report on pages 5 to 42 form the management report for the basis of DTR 4.1.5R.
+
+---
+**DIRECTORS’ REPORT CONTINUED**
+<br>
+*82 City of London Investment Group PLC Annual Report 2024/2025*
+
+### Governance
+During the year to 30th June 2025, the Group had no external borrowings and is wholly funded by equity. As at 30th June 2025, cash and cash equivalents were $35.5 million (2024: $33.7 million). Accordingly, the Directors are satisfied that the Group and Parent Company have adequate resources to meet their business needs for the foreseeable future, and the Financial Statements have therefore been prepared on the going concern basis. Please see page 29 for the viability statement.
+
+### Results and dividend
+The results of the Group for the year to 30th June 2025, together with details of amounts transferred to reserves, are set out on pages 96, 98 and 99. The Company has paid dividends of $20.9 million during the period (2024: $19.9 million). The final dividend for the year to 30th June 2025 of 22p per share (2024: 22p) has been proposed, payable on 6th November 2025, subject to shareholder approval, to shareholders who are on the register of members on 26th September 2025. Refer to page 28 for dividend policy.
+
+### Annual General Meeting (AGM)
+The
+
+6th November 2025, subject to shareholder approval, to shareholders who are on the register of members on 26th September 2025. Refer to page 28 for dividend policy.
+
+### Annual General Meeting (AGM)
+The Company’s AGM will be held at 11.30am on 27th October 2025 at 77 Gracechurch Street, London EC3V 0AS. All resolutions will be taken on a poll and, accordingly, you are asked to vote by the means as set out in the Further Notes of the Notice of meeting.
+
+### Directors’ indemnity arrangements
+The Company maintains appropriate Directors’ and Officers’ insurance. The Directors also have the benefit of the indemnity provisions in the Company’s Articles of Association. These provisions, which are qualifying third party indemnity provisions as defined by s236 of the Companies Act 2006 were in force throughout the year and are currently in force.
+
+### Powers of Directors
+Subject to the Company’s Articles, UK legislation and any directions given by special resolution, the business of the Company is managed by the Directors and they may exercise all the powers of the Company. Provisions relating to the issuing of shares are included in the Articles and shareholders are asked each year at the Company’s AGM to renew the Directors’ authorities to issue shares.
+
+### Share capital
+As at 30th June 2025, the issued share capital of the Company was 50,679,095 (2024: 50,679,095) fully paid ordinary shares of 1p each, carrying one vote per share and a right to dividends, amounting to $643,777 (£506,791) (2024: $643,777 (£506,791)). There are no restrictions on the transfer of shares.
+
+### Controlling Shareholder
+Following completion of the merger with KIM, the Company entered into a relationship agreement with the ‘Controlling Shareholder Group’ which regulates the ongoing relationship between the Company and the Controlling Shareholder Group. The members of the Controlling Shareholder Group agreed to limit their voting rights at any shareholder meeting, including the AGM, to the lower of:
+(i) the number of shares held by them; and
+(ii) 24.99% of the votes cast on any resolution by all shareholders.
+
+In line with UK Listing Rule 6.2.3 R, the Directors confirm that the Company continues to carry on its main business independently from the Controlling Shareholder at all times.
+
+### Own shares
+During the year, and until the date of the next AGM on 27th October 2025, the Company does not have the authority to buy back its own ordinary shares. In the year under review, the Company purchased and cancelled nil shares (2024: nil). The number of own shares purchased by the Company’s Employee Benefit Trust during the year was 453,500 (2024: 318,000). The number of own shares held by the Trust as at 30th June 2025 was 1,750,055 (2024: 1,829,637), of which 163,500 shares (2024: 238,500) were subject to options in issue. The Trust has waived its entitlement to receive dividends in respect of the shares held. The trust will abstain from voting on resolutions that concern a change of control in the Company. The Trust also holds 854,550 shares (2024: 1,133,649) in custody for employees under the terms of the Employee Incentive Plan. Please see the Directors’ remuneration report on page 67 for further details of the plan.
+
+### Substantial shareholdings
+The table below shows the interests in shares (whether directly or indirectly held) notified to the Company in accordance with the Disclosure Guidance and Transparency Rules as at 30th June 2025 and 31st August 2025 (being the latest practicable date prior to publication of the Annual Report):
+
+| | **As at 30th June 2025** | **As at 31st August 2025** |
+| :--- | :--- | :--- |
+| **Name of shareholder** | **Number of voting rights** | **% of total voting rights held*** | **Number of voting rights** | **% of total voting rights held*** |
+| Aberforth Partners LLP | 2,560,745 | 5.1 | 2,560,745 | 5.1 |
+| George Karpus | 15,948,201 | 31.5 | 15,948,201 | 31.5 |
+
+\* Based on the Total Voting Rights in the Company as at 30th June 2025.
+
+There have been no further notifications between 30th June 2025 and 31st August 2025.
+
+City of London Investment Group PLC
+
+31.5 * Based on the Total Voting Rights in the Company as at 30th June 2025. There have been no further notifications between 30th June 2025 and 31st August 2025.
+
+---
+*City of London Investment Group PLC Annual Report 2024/2025*
+<br>
+**83**
+<br>
+*Strategic report | Overview | Financial statements | Shareholder information | Governance*
+---
+
+### Conflict of interests
+There are no potential conflicts of interest between any duties owed by the Directors or senior managers to the Company and their private interests and/or other duties; and no arrangements or understandings with any of the shareholders of the Company, clients, suppliers or others pursuant to which any Director or senior manager was selected to be a Director or senior manager. The Company tests regularly to ensure awareness of any future potential conflicts of interest and related party transactions.
+
+### Political donations
+The Company did not make any political donations or incur any political expenditures to candidates or political campaigns during the period.
+
+### External Auditor
+The auditors for the financial year were Grant Thornton UK LLP. Each of the persons who are Directors at the time when this report is approved has confirmed that:
+
+(a) so far as each Director is aware, there is no relevant audit information of which the Company’s auditors are unaware; and
+(b) each Director has taken all the steps that ought to have been taken as a Director, including making appropriate enquiries of fellow Directors and the Company’s auditors for that purpose, in order to be aware of any information needed by the Company’s auditors in connection with preparing their report and to establish that the Company’s auditors are aware of that information.
+
+This confirmation is given and should be interpreted in accordance with the provisions of Section 418 of the Companies Act 2006.
+
+### Internal control and risk management
+The Audit & Risk Committee has responsibility for overseeing the framework for risk management and internal control and ensuring it functions appropriately. The Group also has a robust financial controls framework designed to provide assurance that proper accounting records are adequately maintained, and that information used within the business and for external publication is reliable and free from material misstatement. This includes segregation of duties, balance sheet reconciliations, and quarterly compliance checks on revenue recognition. The Board reviews the effectiveness of the system of internal control annually and this process is subsequently evaluated by the Audit & Risk Committee. The Board is also responsible for the Internal Capital and Risk Assessment (ICARA) document, as required by the Financial Conduct Authority, a UK regulator, which summarises the Group’s risk management framework and regulatory capital requirements. A detailed description of the risk management framework and the principal risks identified is set out on pages 41 to 42.
+
+### Shareholder relations
+Engagement with shareholders is of paramount importance to the Group. The Directors, including on occasions the other Non-Executive Director and the Chair of the Board, endeavour to meet with large shareholders at least twice annually, generally following interim and final results announcements. Following these meetings, the Directors report back to the Board. All of the Directors aim to attend the AGM either in person or by video conference.
+
+### Post balance sheet events
+There have been no material events occurring between the balance sheet date and the date of signing this report.
+
+**By order of the Board**
+
+**Rian Dartnell**
+<br>
+*Chairman of the Board*
+<br>
+15th September 2025
+
+Company registration number: 2685257
+
+---
+**84**
+<br>
+*City of London Investment Group PLC Annual Report 2024/2025*
+---
+
+# STATEMENT OF DIRECTORS’ RESPONSIBILITIES
+The Directors are responsible for preparing the Strategic report, the Directors’ report, the Directors’ remuneration report and the Financial statements in accordance with applicable law and regulations.
+
+Company law requires the Directors to prepare
+
+report, the Directors’ report, the Directors’ remuneration report and the Financial statements in accordance with applicable law and regulations.
+
+Company law requires the Directors to prepare Group and Company financial statements for each financial year. The Directors have elected under Company law and are required under the Listing Rules of the Financial Conduct Authority to prepare Group financial statements in accordance with UK- adopted International Accounting Standards. The Directors have elected under Company law to prepare the Company financial statements in accordance with UK-adopted International Accounting Standards.
+
+The Group and Company financial statements are required by law and UK-adopted International Accounting Standards to present fairly the financial position of the Group and the Company and the financial performance of the Group; the Companies Act 2006 provides in relation to such financial statements that references in the relevant part of that Act to financial statements giving a true and fair view are references to their achieving a fair presentation.
+
+Under Company law, the Directors must not approve the financial statements unless they are satisfied that they give a true and fair view of the state of affairs of the Group and the Company and of the profit or loss of the Group for that period.
+
+In preparing each of the Group and Company financial statements, the Directors are required to:
+*   select suitable accounting policies and then apply them consistently;
+*   make judgements and accounting estimates that are reasonable and prudent;
+*   state whether they have been prepared in accordance with UK-adopted International Accounting Standards; and
+*   prepare the financial statements on the going concern basis unless it is inappropriate to presume that the Group and the Company will continue in business.
+
+The Directors are responsible for keeping adequate accounting records that are sufficient to show and explain the Group’s and the Company’s transactions and disclose with reasonable accuracy at any time the financial position of the Group and the Company and enable them to ensure that the financial statements and the Directors’ remuneration report comply with the Companies Act 2006. They are also responsible for safeguarding the assets of the Group and the Company and hence for taking reasonable steps for the prevention and detection of fraud and other irregularities.
+
+### Directors’ statement pursuant to the Disclosure and Transparency Rules
+Each of the Directors, whose names and functions are listed on page 46 confirm that, to the best of each person’s knowledge:
+*   the financial statements, prepared in accordance with the applicable set of accounting standards, give a true and fair view of the assets, liabilities, financial position and profit of the Company and the undertakings included in the consolidation taken as a whole; and
+*   the Strategic Report and Directors’ report contained in the Annual Report includes a fair review of the development and performance of the business and the position of the Company and the undertakings included in the consolidation taken as a whole, together with a description of the principal risks and uncertainties that they face.
+
+The Directors are responsible for the maintenance and integrity of the corporate and financial information included on the City of London Investment Group’s website. Legislation in the United Kingdom governing the preparation and dissemination of financial statements may differ from legislation in other jurisdictions.
+
+For and on behalf of the Board
+
+**Rian Dartnell**  
+Chairman of the Board  
+15th September 2025
+
+---
+**Governance**  
+City of London Investment Group PLC Annual Report 2024/2025 85
+***
+Strategic report | Overview | Shareholder information | Governance | Financial statements
+***
+
+# FINANCIAL STATEMENTS
+
+### Contents
+| | |
+| :--- | :--- |
+| **Independent auditor’s report** | **86** |
+| **Consolidated income statement** | **96** |
+| **Consolidated and Company statement of comprehensive income** | **96** |
+| **Consolidated and Company statement of financial** | |
+
+# STATEMENTS
+
+## Contents
+
+- Independent auditor’s report 86
+- Consolidated income statement 96
+- Consolidated and Company statement of comprehensive income 96
+- Consolidated and Company statement of financial position 97
+- Consolidated statement of changes in equity 98
+- Company statement of changes in equity 99
+- Consolidated and Company cash flow statement 100
+- Notes to the financial statements 101
+
+---
+
+## INDEPENDENT AUDITOR’S REPORT
+
+### TO THE MEMBERS OF CITY OF LONDON INVESTMENT GROUP PLC
+
+*86 City of London Investment Group PLC Annual Report 2024/2025*
+
+### Opinion
+
+**Our opinion on the financial statements is unmodified**
+
+We have audited the financial statements of City of London Investment Group PLC (the ‘Parent Company’) and its subsidiaries (the ‘Group’) for the year ended 30th June 2025, which comprise of the Consolidated Income Statement, Consolidated and Company Statement of Comprehensive Income, Consolidated and Company Statement of Financial Position, Consolidated Statement of Changes in Equity, Company Statement of Changes in Equity, Consolidated and Company Cash Flow Statement and notes to the financial statements, including material accounting policy information. The financial reporting framework that has been applied in their preparation is applicable law and UK- adopted international accounting standards and, as regards the Parent Company financial statements, as applied in accordance with the provisions of the Companies Act 2006.
+
+In our opinion:
+* the financial statements give a true and fair view of the state of the Group’s and of the Parent Company’s affairs as at 30th June 2025 and of the Group’s profit and the Parent Company’s profit for the year then ended;
+* the Group financial statements have been properly prepared in accordance with UK-adopted international accounting standards;
+* the Parent Company financial statements have been properly prepared in accordance with UK-adopted international accounting standards as applied in accordance with the provisions of the Companies Act 2006; and
+* the financial statements have been prepared in accordance with the requirements of the Companies Act 2006.
+
+### Basis for opinion
+
+We conducted our audit in accordance with International Standards on Auditing (UK) (ISAs (UK)) and applicable law. Our responsibilities under those standards are further described in the ‘Auditor’s responsibilities for the audit of the financial statements’ section of our report. We are independent of the Group and the Parent Company in accordance with the ethical requirements that are relevant to our audit of the financial statements in the UK, including the FRC’s Ethical Standard as applied to listed public interest entities, and we have fulfilled our other ethical responsibilities in accordance with these requirements. We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for our opinion.
+
+### Conclusions relating to going concern
+
+We are responsible for concluding on the appropriateness of the Directors’ use of the going concern basis of accounting and, based on the audit evidence obtained, whether a material uncertainty exists related to events or conditions that may cast significant doubt on the Group’s and the Parent Company’s ability to continue as a going concern. If we conclude that a material uncertainty exists, we are required to draw attention in our report to the related disclosures in the financial statements or, if such disclosures are inadequate, to modify the auditor’s opinion. Our conclusions are based on the audit evidence obtained up to the date of our report. However, future events or conditions may cause the Group or the Parent Company to cease to continue as a going concern.
+
+Our evaluation of the Directors’ assessment of the Group’s and the Parent Company’s ability to continue to adopt the going concern basis of accounting included:
+* Determining the appropriateness of the Group and Parent Company’s going concern policy and procedures under the relevant accounting
+
+continue to adopt the going concern basis of accounting included:
+
+*   Determining the appropriateness of the Group and Parent Company’s going concern policy and procedures under the relevant accounting framework;
+*   Assessing the adequacy of disclosures concerning the basis of preparation of the financial statements and going concern;
+*   Assessing the accuracy of the prior year forecasts and the underlying data used in management’s forecasts;
+*   Inspecting management’s going concern assessment and assessing its appropriateness by applying relevant sensitivities to the underlying assumptions and the conclusions made;
+*   Evaluating the reasonableness of the income forecasts prepared by management, including the assumptions used and level of headroom available in terms of cash resources;
+
+---
+**Financial statements: Independent Auditor’s report** | *City of London Investment Group PLC Annual Report 2024/2025* | **87**
+:--- | :--- | :---
+**Strategic report** | **Overview** | **Shareholder information** | **Governance**
+---
+
+*   Considering the robustness of the forecasts to potential changes in underlying key assumptions;
+*   Obtaining an understanding of how management has assessed the impact of geopolitical events and market conditions in relation to ongoing global macroeconomic factors in their forecasts;
+*   Assessing disclosures included in the financial statements in relation to the impact of macroeconomic uncertainties and geopolitical events such as the impact of tariffs and geopolitical uncertainty; and
+*   Identifying applicable subsequent events and discussing their implications with management.
+
+In our evaluation of the Directors’ conclusions, we considered the inherent risks associated with the Group’s and the Parent Company’s business model including effects arising from macro- economic uncertainties such as the impact of tariffs, fluctuating rates of inflation and interest and geopolitical uncertainty, we assessed and challenged the reasonableness of estimates made by the Directors and the related disclosures and analysed how those risks might affect the Group’s and the Parent Company’s financial resources or ability to continue operations over the going concern period.
+
+In auditing the financial statements, we have concluded that the Directors’ use of the going concern basis of accounting in the preparation of the financial statements is appropriate.
+
+Based on the work we have performed, we have not identified any material uncertainties relating to events or conditions that, individually or collectively, may cast significant doubt on the Group’s and the Parent Company’s ability to continue as a going concern for a period of at least twelve months from when the financial statements are authorised for issue.
+
+In relation to the Group’s reporting on how it has applied the UK Corporate Governance Code, we have nothing material to add or draw attention to in relation to the Directors’ statement in the financial statements about whether the Directors considered it appropriate to adopt the going concern basis of accounting.
+
+Our responsibilities and the responsibilities of the Directors with respect to going concern are described in the relevant sections of this report.
+
+## Our approach to the audit
+
+### Overview of our audit approach
+
+*   **Overall materiality:** Group: $1.3m which represents 5% of the Group’s profit before tax. Parent Company: $1.2m which represents approximately 1% of the Parent Company’s net assets.
+*   **Key audit matters were identified as:**
+    *   Management fees (same as previous year); and
+    *   Impairment of goodwill and intangible assets (same as previous year).
+*   Our auditor’s report for the year ended 30th June 2024 included no key audit matters that have not been reported as key audit matters in our current year’s report.
+*   **Scope:** The Group is comprised of the Parent Company and six subsidiaries, and we have performed an audit of the financial information of the components using component performance materiality (full scope audit) on three components, an audit of one or more account balances, classes of
+
+performed an audit of the financial information of the components using component performance materiality (full scope audit) on three components, an audit of one or more account balances, classes of transactions or disclosures including specified risk focused procedures (specific- scope audit) for one component and we performed analytical procedures at Group level (analytical procedures) of the three remaining Group components.
+
+Financial statements Key audit matters Materiality Scoping
+***
+
+### Key audit matters
+
+Key audit matters are those matters that, in our professional judgement, were of most significance in our audit of the financial statements of the current period and include the most significant assessed risks of material misstatement (whether or not due to fraud) that we identified. These matters included those that had the greatest effect on: the overall audit strategy; the allocation of resources in the audit; and directing the efforts of the engagement team. These matters were addressed in the context of our audit of the financial statements as a whole, and in forming our opinion thereon, and we do not provide a separate opinion on these matters.
+
+# INDEPENDENT AUDITOR’S REPORT CONTINUED
+
+---
+*88 City of London Investment Group PLC Annual Report 2024/2025*
+---
+
+Financial statements: Independent Auditor’s report
+
+| Description | Audit response | Disclosures | Key observations |
+| :--- | :--- | :--- | :--- |
+| **Management fees** | | | |
+| **Going concern** | | | |
+| **Cash and cash equivalents** | | | |
+
+| Key audit matter | Significant risk | Other risk |
+| :--- | :--- | :--- |
+| **Management override of controls** | | |
+| **Impairment of goodwill and intangible assets** | | |
+
+> In the graph below, we have presented the key audit matters, significant risks and other risks relevant to the audit.
+
+**Extent of management judgement**
+High
+<br>&nbsp;&nbsp;&nbsp;&nbsp;● Impairment of goodwill and intangible assets
+<br>&nbsp;&nbsp;&nbsp;&nbsp;● Management override of controls
+<br>&nbsp;&nbsp;&nbsp;&nbsp;● Going concern
+<br>Low
+<br>&nbsp;&nbsp;&nbsp;&nbsp;● Management fees
+<br>&nbsp;&nbsp;&nbsp;&nbsp;● Cash and cash equivalents
+
+**Potential financial statement impact**
+High
+<br>&nbsp;&nbsp;&nbsp;&nbsp;● Management fees
+<br>&nbsp;&nbsp;&nbsp;&nbsp;● Impairment of goodwill and intangible assets
+<br>&nbsp;&nbsp;&nbsp;&nbsp;● Management override of controls
+<br>Low
+<br>&nbsp;&nbsp;&nbsp;&nbsp;● Going concern
+<br>&nbsp;&nbsp;&nbsp;&nbsp;● Cash and cash equivalents
+
+*   **KAM**
+    *   Management fees
+    *   Impairment of goodwill and intangible assets
+*   **Significant risk**
+    *   Management override of controls
+*   **Other risk**
+    *   Going concern
+    *   Cash and cash equivalents
+
+---
+*City of London Investment Group PLC Annual Report 2024/2025 89*
+---
+
+Strategic reportOverview Shareholder informationGovernance Financial statements
+
+| Key Audit Matter – Group | How our scope addressed the matter – Group |
+| :--- | :--- |
+| **Management fees** <br><br> We identified accuracy of management fees applied to the Funds under Management (FuM) being incorrect as one of the most significant assessed risks of material misstatement due to fraud and error. <br><br> As described in the accounting policies on page 105 management fees of $73,044,427 (note 2) are based on a percentage of Funds under Management in accordance with the respective management agreements. <br><br> There is a risk of management fee income being inaccurate or incomplete if incorrect Funds under Management or incorrect percentages are used in the calculation of fees. Whilst the computation of fees is not inherently complex or judgemental, revenue is material in the context of the financial statements as a whole and it is therefore determined to be a key audit matter. | In responding to the key audit matter, we performed the following audit procedures: <br><br> • assessed whether the Group’s accounting policy for recognition of management fees is in accordance with UK-adopted international accounting standards; <br> • agreed a selection of funds under management to third-party (custodian) records of the relevant month-end Net Asset Value (NAV), and confirmed that the correct fund values had been used to calculate the fee; <br> • recalculated the majority of management fee income using audit data analytics, and challenged discrepancies noted between our expected fee recalculation and the revenue recognised by the client; <br> • for a sample of management fees selected from the revenue listing we agreed the key inputs into the management fee calculation to the Investment Management Agreements (IMA) and recalculated the expected management fee based on the NAV and fee income percentage as documented in the IMA; and <br> • reviewed System and Organisation Controls (SOC) reports for the custodians appointed by management to identify any exceptions and to provide support over the accuracy of the reported NAV balances used within our substantive testing; and <br> • considered the design and implementation of controls over |
+
+to identify any exceptions and to provide support over the accuracy of the reported NAV balances used within our substantive testing; and
+*   considered the design and implementation of controls over the inputs and calculation of management fee income by performing a walkthrough of the process including obtaining evidence of review and approval of the management fee calculation.
+
+#### Relevant disclosures in the Annual Report
+**Financial statements: Note 1.15, Revenue recognition**
+
+The group’s accounting policy on management fees, is shown in note 1.15 to the financial statements and related disclosures are included in note 2.
+
+#### Our results
+Our testing did not identify any material misstatements in the management fees recognised during the year.
+
+---
+### **INDEPENDENT AUDITOR’S REPORT CONTINUED**
+*90 City of London Investment Group PLC Annual Report 2024/2025*
+---
+
+| Key Audit Matter – Group | How our scope addressed the matter – Group |
+| :--- | :--- |
+| **Impairment of goodwill and intangible assets** <br><br> We identified impairment of goodwill and intangible assets as one of the most significant assessed risks of material misstatement due to error. <br><br> Goodwill of $90,072,110 and intangible assets, including customer relationships, distribution channels and the trade name, arising on acquisition of $27,162,000, as set out in note 13, are included in the consolidated Statement of Financial Position at 30 June 2025. <br><br> Management is required by IAS 36 ‘Impairment of assets’ to perform an annual impairment review for goodwill and for finite-life intangible assets where there are indicators of impairment. The test for impairment compares the carrying value of the cash generating unit to which the assets are allocated to their recoverable amount which is the higher of their fair value less costs of disposal (FVLCD) or value in use (VIU). <br><br> Calculating the recoverable amount requires management judgement as set out in the accounting policies in note 1.3 and the disclosures in note 13. The headroom in the impairment assessment is sensitive to changes in key assumptions (see note 13) and thus we consider this to represent a key audit matter. | In responding to the key audit matter, we performed the following audit procedures: <br><br> *   assessed whether the Group’s accounting policy for the impairment of goodwill and intangible assets is in accordance with UK-adopted international accounting standards and is compliance with the requirements of IAS 36; <br> *   challenged management on key assumptions used in the VIU calculation; <br> *   recalculated the FVLCD for mechanical accuracy and consistency with the requirements of IAS 36; <br> *   considered the appropriateness of management’s assessment of the allocation of goodwill and intangible assets to a cash generating unit; <br> *   assessed the reasonableness of comparable companies used in the market comparable approach; <br> *   challenged management on key assumptions used in the fair value model including the selected market appreciation rate, Assets under Management growth rate and comparison against market comparators; <br> *   worked with our internal valuation experts to determine the appropriateness of the impairment assessment including assumptions used and reasonableness of supporting data used in the fair value estimate and VIU calculation; <br> *   evaluated the sensitivity analysis prepared by management; <br> *   considered the qualifications, credentials and independence of the valuation expert engaged by management; <br> *   assessed the completeness and accuracy of disclosures within the financial statements; and <br> *   considered the design and implementation of controls over the inputs of the impairment review by performing a walkthrough of the process including obtaining evidence of the review. |
+
+#### Relevant disclosures in the Annual Report
+**Financial statements: Note 1.7, Impairment of goodwill and other assets**
+
+The Group’s accounting policy on the impairment of goodwill and intangibles, is shown in note 1.7 to the financial statements and related
+
+### statements: Note 1.7, Impairment of goodwill and other assets
+The Group’s accounting policy on the impairment of goodwill and intangibles, is shown in note 1.7 to the financial statements and related disclosures are included in note 13. Our testing did not identify impairment in the goodwill and intangibles during the year and we are satisfied that the impairment review has been carried out in accordance with the requirements of IAS 36. We did not identify any key audit matters relating to the audit of the financial statements of the Parent Company only.
+
+*City of London Investment Group PLC Annual Report 2024/2025 91*
+
+## Our application of materiality
+We apply the concept of materiality both in planning and performing the audit, and in evaluating the effect of identified misstatements on the audit and of uncorrected misstatements, if any, on the financial statements and in forming the opinion in the auditor’s report. Materiality was determined as follows:
+
+**Strategic reportOverview Shareholder informationGovernance Financial statements**
+
+| Materiality measure | Group | Parent Company |
+| :--- | :--- | :--- |
+| **Materiality for financial statements as a whole**<br><br>We define materiality as the magnitude of misstatement in the financial statements that, individually or in the aggregate, could reasonably be expected to influence the economic decisions of the users of these financial statements. We use materiality in determining the nature, timing and extent of our audit work. | | |
+| **Materiality threshold** | $1.3m (2024: $1.1m), which represents 5% of profit before tax. | $1.2m (2024: $1.1m), which represents approximately 1% of net assets (2024: 1%). |
+| **Significant judgements made by auditor in determining materiality** | In determining materiality, we made the following significant judgements:<br>- profitability is considered to be a key benchmark monitored by management and investors as the investors return is based on profit.<br>- Materiality for the current year is higher than the level that we determined for the year ended 30th June 2024 to reflect an increase in the profit during the year. | In determining materiality, we made the following significant judgements:<br>- net assets is considered to be a key benchmark as the entity primarily exists to hold and manage its investments in trading subsidiaries.<br>- Materiality for the current year is higher than the level that we determined for the year ended 30th June 2024 to reflect an increase in net assets during the year. |
+| **Performance materiality used to drive the extent of our testing**<br><br>We set performance materiality at an amount less than materiality for the financial statements as a whole to reduce to an appropriately low level the probability that the aggregate of uncorrected and undetected misstatements exceeds materiality for the financial statements as a whole. | | |
+| **Performance materiality threshold** | $0.97m (2024: $0.73m), which is 75% (2024: 65%) of financial statement materiality. | $0.90m (2024: $0.70m), which is 75% (2024: 75%) of financial statement materiality.<br><br>Parent Company component performance materiality has been capped at an amount less than Group performance materiality for Group audit purposes. |
+| **Significant judgements made by auditor in determining performance materiality** | In determining performance materiality, we made the following significant judgements:<br>- There were no material audit adjustments in our prior year audit, and through our understanding obtained from planning procedures and meetings with management, we understand it to be a non-complex investment management business. As a result of this it is considered appropriate to use a performance materiality of 75%. | In determining performance materiality, we made the following significant judgements:<br>- There were no material audit adjustments in our prior year audit, and through our understanding obtained from planning procedures and meetings with management, we understand it to be a non-complex investment management business. As a result of this it is considered appropriate to use a |
+
+obtained from planning procedures and meetings with management, we understand it to be a non-complex investment management business. As a result of this it is considered appropriate to use a performance materiality of 75%.
+***
+92 City of London Investment Group PLC Annual Report 2024/2025
+***
+### INDEPENDENT AUDITOR’S REPORT CONTINUED
+#### Financial statements: Independent Auditor’s report
+The graph below illustrates how performance materiality interacts with our overall materiality and the threshold for communication to the audit committee.
+
+**FSM:** Financial statement materiality, **PM:** Performance materiality, **TfC:** Threshold for communication to the audit and risk committee.
+
+| Materiality measure | Group | Parent Company |
+| :--- | :--- | :--- |
+| **Specific materiality** | We determine specific materiality for one or more particular classes of transactions, account balances or disclosures for which misstatements of lesser amounts than materiality for the financial statements as a whole could reasonably be expected to influence the economic decisions of users taken on the basis of the financial statements. | |
+| **Specific materiality** | We determined a lower level of specific materiality for Director’s remuneration. | |
+| **Communication of misstatements to the audit and risk committee** | We determine a threshold for reporting unadjusted differences to the audit and risk committee. | |
+| **Threshold for communication** | $63,000 (2024: $56,600), which represents 5% of financial statement materiality, and misstatements below that threshold that, in our view, warrant reporting on qualitative grounds. | $59,800 (2024: $53,700), which represents 5% of financial statement materiality, and misstatements below that threshold that, in our view, warrant reporting on qualitative grounds. |
+
+#### Overall materiality – Group
+**FSM:** $1.30m, 5% Profit before tax: $25.99m
+**PM** $0.97m
+**TfC** $0.06m
+**FSM** $1.30m
+
+#### Overall materiality – Parent
+**FSM:** $1.23m, 1% Net assets: $156.17m
+**PM** $0.93m
+**TfC** $0.06m
+**FSM** $1.23m
+***
+City of London Investment Group PLC Annual Report 2024/2025 93
+***
+> Strategic reportOverview Shareholder informationGovernance Financial statements
+
+### An overview of the scope of our audit
+We performed a risk-based audit that requires an understanding of the Group’s and the Parent Company’s business and in particular matters related to:
+
+*   **Understanding the Group, its components, their environments, and its system of internal control including common controls**
+    *   The engagement team obtained an understanding of the Group and its components, their environment, and its system of internal control, including the nature and extent of common controls and centralised activities relevant to financial reporting, and assessed the risks of material misstatement at the Group level; and
+    *   The engagement team obtained an understanding of relevant internal controls at both the Group and subsidiaries. This included obtaining an understanding of the internal controls and assessing whether they are designed and implemented effectively.
+*   **Identifying components at which to perform audit procedures**
+    We have determined the components at which to perform further audit procedures, by considering the following:
+    *   Components in scope for further audit procedures due to individually including a risk of material misstatement to the Group financial statements due to the component’s nature or circumstances.
+    *   Components in scope for further audit procedures due to the nature and size of assets, liabilities and transactions at the component (being of financial significance to one or more scoped items that it is required to be in scope).
+    *   Components in scope for further audit procedures to obtain sufficient appropriate audit evidence for significant classes of transactions, account balances and disclosures, or for unpredictability.
+*   **Type of work to be performed on financial information of parent and other components (including how it addressed the key audit matters)**
+    *   Performance of full-scope audits of the financial information using component materiality of City of London Investment Group
+
+and other components (including how it addressed the key audit matters)
+
+*   Performance of full-scope audits of the financial information using component materiality of City of London Investment Group plc (Parent Company), Karpus Management Inc and City of London Investment Management Company Limited. These full-scope audits included the work on the identified key audit matters as described in the Key Audit Matter section above.
+*   Analytical procedures at Group level using Group materiality were performed for three components and for one component we audited one or more account balances, classes of transactions or disclosures of the component.
+
+### Performance of our audit
+*   Our full scope procedures gave a coverage of 100% of the Group’s total income, 90% of the Group’s total assets and 91% of the Group’s profit before tax.
+*   We made visits to the finance team in London, who are the central finance team for the Group including overseas subsidiaries, to assess the control environment and to aid fieldwork procedures. The Group consists of components based in the United Kingdom, United States of America and Singapore.
+*   The Group’s trading subsidiary in the United States of America was subject to a full scope audit to component performance materiality because the component was assessed as significant to the Group based on its individual financial significance and the nature of the significant risks identified. The Group audit team carried out analytical procedures at Group level on the overseas subsidiary based in Singapore.
+*   Further audit procedures performed on components subject to specific scope and specified procedures may not have included testing of all significant account balances of such components, but further audit procedures were performed on specific accounts within that component that we, the Group auditor, considered had the potential for the greatest impact on the Group financial statements either due to risk, size or coverage.
+
+The components within the scope of further audit procedures accounted for the following percentages of the Group’s results, including the key audit matters identified:
+
+| Audit approach | No. of components | % coverage total assets | % coverage revenue | % coverage PBT |
+| :--- | :--- | :--- | :--- | :--- |
+| Full-scope audit | 3 | 90% (2024: 95%) | 100% (2024: 100%) | 91% (2024: 86%) |
+| Specified scope audit | 1 | 7% (2024: 3%) | 0% (2024: 0%) | 5% (2024: 0%) |
+| Analytical procedures | 3 | 3% (2024: 2%) | 0% (2024: 0%) | 4% (2024: 14%) |
+| **Total** | **7** | **100%** | **100%** | **100%** |
+
+### Changes in approach from previous period
+*   There has been no change in scope from the prior year audit.
+
+### Other information
+The other information comprises the information included in the annual report, other than the financial statements and our auditor’s report thereon. The Directors are responsible for the other information contained within the annual report. Our opinion on the financial statements does not cover the other information and, except to the extent otherwise explicitly stated in our report, we do not express any form of assurance conclusion thereon. Our responsibility is to read the other information and, in doing so, consider whether the other information is materially inconsistent with the financial statements or our knowledge obtained in the audit or otherwise appears to be materially misstated. If we identify such material inconsistencies or apparent material misstatements, we are required to determine whether there is a material misstatement in the financial statements themselves. If, based on the work we have performed, we conclude that there is a material misstatement of this other information, we are required to report that fact.
+
+We have nothing to report in this regard.
+
+---
+*94 City of London Investment Group PLC Annual Report 2024/2025*
+
+## INDEPENDENT AUDITOR’S REPORT CONTINUED
+### Financial statements: Independent Auditor’s report
+
+### Our opinions on other matters prescribed by the Companies Act 2006 are unmodified
+In our opinion, the part of the Directors’ remuneration report to be audited has been properly
+
+# Auditor’s report
+
+## Our opinions on other matters prescribed by the Companies Act 2006 are unmodified
+
+In our opinion, the part of the Directors’ remuneration report to be audited has been properly prepared in accordance with the Companies Act 2006.
+
+In our opinion, based on the work undertaken in the course of the audit:
+*   the information given in the strategic report and the Directors’ report for the financial year for which the financial statements are prepared is consistent with the financial statements; and
+*   the strategic report and the Directors’ report have been prepared in accordance with applicable legal requirements.
+
+## Matter on which we are required to report under the Companies Act 2006
+
+In the light of the knowledge and understanding of the Group and the Parent Company and their environment obtained in the course of the audit, we have not identified material misstatements in the strategic report or the Directors’ report.
+
+## Matters on which we are required to report by exception
+
+We have nothing to report in respect of the following matters in relation to which the Companies Act 2006 requires us to report to you if, in our opinion:
+*   adequate accounting records have not been kept by the Parent Company, or returns adequate for our audit have not been received from branches not visited by us; or
+*   the Parent Company financial statements and the part of the Directors’ remuneration report to be audited are not in agreement with the accounting records and returns; or
+*   certain disclosures of Directors’ remuneration specified by law are not made; or
+*   we have not received all the information and explanations we require for our audit.
+
+## Corporate governance statement
+
+We have reviewed the Directors’ statement in relation to going concern, longer-term viability and that part of the Corporate Governance Statement relating to the Group’s compliance with the provisions of the UK Corporate Governance Code specified for our review by the Listing Rules.
+
+Based on the work undertaken as part of our audit, we have concluded that each of the following elements of the Corporate Governance Statement is materially consistent with the financial statements or our knowledge obtained during the audit:
+*   the Directors’ statement with regards to the appropriateness of adopting the going concern basis of accounting and any material uncertainties identified set out on page 81;
+*   the Directors’ explanation as to their assessment of the Group’s prospects, the period this assessment covers and why the period is appropriate as set out on page 81;
+*   the Director’s statement on whether they have a reasonable expectation that the Group will be able to continue in operation and meet its liabilities set out on page 81;
+*   the Directors’ statement on fair, balanced and understandable set out on page 59;
+*   the Board’s confirmation that it has carried out a robust assessment of the emerging and principal risks set out on pages 41 to 42;
+*   the section of the annual report that describes the review of the effectiveness of risk management and internal control systems set out on page 83; and
+*   the section describing the work of the audit committee set out on page 60.
+
+## Responsibilities of Directors
+
+As explained more fully in the Directors’ responsibilities statement set out on page 84, the Directors are responsible for the preparation of the financial statements and for being satisfied that they give a true and fair view, and for such internal control as the Directors determine is necessary to enable the preparation of financial statements that are free from material misstatement, whether due to fraud or error.
+
+In preparing the financial statements, the Directors are responsible for assessing the Group’s and the Parent Company’s ability to continue as a going concern, disclosing, as applicable, matters related to going concern and using the going concern basis of accounting unless the Directors either intend to liquidate the Group or the Parent Company or to cease
+
+disclosing, as applicable, matters related to going concern and using the going concern basis of accounting unless the Directors either intend to liquidate the Group or the Parent Company or to cease operations, or have no realistic alternative but to do so.
+
+### Auditor’s responsibilities for the audit of the financial statements
+
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are free from material misstatement, whether due to fraud or error, and to issue an auditor’s report that includes our opinion. Reasonable assurance is a high level of assurance but is not a guarantee that an audit conducted in accordance with ISAs (UK) will always detect a material misstatement when it exists. Misstatements can arise from fraud or error and are considered material if, individually or in the aggregate, they could reasonably be expected to influence the economic decisions of users taken on the basis of these financial statements.
+
+***
+
+City of London Investment Group PLC Annual Report 2024/2025 95
+
+**Strategic report | Overview | Shareholder information | Governance | Financial statements**
+
+***
+
+Irregularities, including fraud, are instances of non-compliance with laws and regulations. The extent to which our procedures are capable of detecting irregularities, including fraud, is detailed below:
+
+*   We obtained an understanding of the legal and regulatory frameworks applicable to the Group and Parent Company and the industry in which it operates. We identified areas of laws and regulations that could reasonably be expected to have a material effect on the financial statements from our sector experience and through discussion with the Directors and management. We determined that the most significant laws and regulations were applicable Financial Services and Markets Act 2000 (FSMA 2000) legislation and those that relate to the financial reporting framework, being UK-adopted international accounting standards, the Companies Act 2006 and the Listing Rules of the Financial Conduct Authority (the FCA);
+*   We enquired of the Directors and management to obtain an understanding of how the Group and Parent Company is complying with those legal and regulatory frameworks and whether there were any instances of non-compliance with laws and regulations and whether they had any knowledge of actual or suspected fraud. We corroborated the results of our enquiries through reading the minutes of Board and Audit Committee meetings;
+*   We assessed the susceptibility of the Group and Parent Company’s financial statements to material misstatement, including how fraud might occur by evaluating management’s incentives and opportunities for manipulation of the financial statements. This included an evaluation of the risk of management override of controls. Audit procedures performed by the engagement team in connection with the risks identified included:
+    *   evaluating of the design and implementation of controls that management has put in place to prevent and detect fraud;
+    *   testing journal entries, including manual journal entries processed at the year-end for financial statements preparation and journals with unusual account combinations; and
+    *   challenging the assumptions and judgements made by management in its significant accounting estimates.
+*   These audit procedures were designed to provide reasonable assurance that the financial statements were free from fraud or error. The risk of not detecting a material misstatement due to fraud is higher than the risk of not detecting one resulting from error and detecting irregularities that result from fraud is inherently more difficult than detecting those that result from error, as fraud may involve collusion, deliberate concealment, forgery or intentional misrepresentations. Also, the further removed non-compliance with laws and regulations is from events and transactions reflected in the financial statements, the less likely we would become aware of it;
+*   The engagement partner’s assessment of
+
+non-compliance with laws and regulations is from events and transactions reflected in the financial statements, the less likely we would become aware of it;
+*   The engagement partner’s assessment of the appropriateness of the collective competence and capabilities of the engagement team included consideration of the engagement team’s:
+    – understanding of, and practical experience with audit engagements of a similar nature and complexity through appropriate training and participation;
+    – knowledge of the industry in which the Group and Parent Company operates;
+    – understanding of the legal and regulatory frameworks applicable to the Group.
+*   We communicated relevant laws and regulations and potential fraud risks to all engagement team members and remained alert to any indications of fraud or non-compliance with laws and regulations throughout the audit.
+
+A further description of our responsibilities for the audit of the financial statements is located on the Financial Reporting Council’s website at: [www.frc.org.uk/auditorsresponsibilities](http://www.frc.org.uk/auditorsresponsibilities). This description forms part of our auditor’s report.
+
+### Other matters which we are required to address
+
+We were appointed by the City of London Investment Group PLC audit committee on 16th September 2024 to audit the financial statements for the year ending 30th June 2025. Our total uninterrupted period of engagement is two years, covering the years ended 30th June 2024 to 30th June 2025.
+
+The non-audit services prohibited by the FRC’s Ethical Standard were not provided to the Group or the Parent Company and we remain independent of the Group and the Parent Company in conducting our audit.
+
+Our audit opinion is consistent with the additional report to the audit committee.
+
+### Use of our report
+
+This report is made solely to the Company’s members, as a body, in accordance with Chapter 3 of Part 16 of the Companies Act 2006. Our audit work has been undertaken so that we might state to the Company’s members those matters we are required to state to them in an auditor’s report and for no other purpose. To the fullest extent permitted by law, we do not accept or assume responsibility to anyone other than the Company and the Company’s members as a body, for our audit work, for this report, or for the opinions we have formed.
+
+**William Pointon**
+Senior Statutory Auditor
+for and on behalf of Grant Thornton UK LLP
+Statutory Auditor, Chartered Accountants
+London
+15th September 2025
+
+---
+
+## CONSOLIDATED INCOME STATEMENT FOR THE YEAR ENDED 30TH JUNE 2025
+
+| | **Note** | **Year to 30th June 2025 $’000** | **Year to 30th June 2024 $’000** |
+| :--- | :--- | :--- | :--- |
+| **Revenue** | | | |
+| Gross fee income | 2 | 73,044 | 69,453 |
+| Commissions payable | | (1,978) | (1,811) |
+| Custody fees payable | | (1,296) | (1,475) |
+| **Net fee income** | | **69,770** | **66,167** |
+| **Administrative expenses** | | | |
+| Employee costs | 3(b) | 30,423 | 30,925 |
+| Other administrative expenses | | 8,659 | 8,177 |
+| Depreciation and amortisation | | 6,560 | 6,574 |
+| | | **(45,642)** | **(45,676)** |
+| **Operating profit** | **5** | **24,128** | **20,491** |
+| Finance income | 6 | 1,490 | 1,460 |
+| Finance expense | 7 | (395) | (381) |
+| Gain on investments | 8 | 766 | 1,051 |
+| **Profit before taxation** | | **25,989** | **22,621** |
+| Income tax expense | 9 | (6,307) | (5,506) |
+| **Profit for the period** | | **19,682** | **17,115** |
+| **Profit attributable to:** | | | |
+| Equity shareholders of the parent | | 19,682 | 17,115 |
+| **Basic earnings per share (cents)** | **10** | **40.1** | **35.1** |
+| **Diluted earnings per share (cents)** | **10** | **39.4** | **34.4** |
+
+---
+
+## CONSOLIDATED AND COMPANY STATEMENT OF COMPREHENSIVE INCOME FOR THE YEAR ENDED 30TH JUNE 2025
+
+| | **Year to 30th June 2025 $’000** | **Year to 30th June 2024 $’000** |
+| :--- | :--- | :--- |
+| **Profit for the period** | **19,682** | **17,115** |
+| **Other comprehensive income:** | | |
+| *Items that may be subsequently reclassified to profit or loss if specific conditions are met* | | |
+| Foreign currency translation differences | – | (1) |
+| **Total comprehensive income for the period** | **19,682** | **17,114** |
+| **Attributable to:** | | |
+| Equity shareholders of the parent | 19,682 | 17,114 |
+
+---
+
+*96 City of London Investment Group PLC Annual Report 2024/2025 Financial statements*
+
+---
+
+## CONSOLIDATED AND COMPANY STATEMENT OF FINANCIAL POSITION 30TH JUNE 2025
+
+*City of London Investment Group PLC Annual Report 2024/2025 97*
+
+---
+
+| | **Group** | **Company** |
+| :--- | :--- | :--- |
+| | **30th June 2025** | **30th June 2024** |
+
+# Financial statements
+
+## CONSOLIDATED AND COMPANY STATEMENT OF FINANCIAL POSITION
+### 30TH JUNE 2025
+
+**City of London Investment Group PLC Annual Report 2024/2025** `97`
+
+| | | **Group** | | **Company** | |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| | | **30th June 2025** | **30th June 2024** | **30th June 2025** | **30th June 2024** |
+| | **Note** | **$’000** | **$’000** | **$’000** | **$’000** |
+| **Non-current assets** | | | | | |
+| Property and equipment | 11 | 917 | 1,128 | 157 | 227 |
+| Right-of-use assets | 12 | 4,418 | 5,076 | 699 | 925 |
+| Intangible assets | 13 | 117,296 | 122,853 | 62 | 20 |
+| Other financial assets | 14 | 6,506 | 5,750 | 134,203 | 134,283 |
+| Deferred tax asset | 15 | 1,737 | 1,879 | 287 | 313 |
+| | | **130,874** | **136,686** | **135,408** | **135,768** |
+| **Current assets** | | | | | |
+| Trade and other receivables | 16 | 8,855 | 8,380 | 6,574 | 3,654 |
+| Current tax receivable | | 662 | 167 | 3,360 | 2,426 |
+| Cash and cash equivalents | 17 | 35,492 | 33,738 | 16,550 | 20,381 |
+| | | **45,009** | **42,285** | **26,484** | **26,461** |
+| **Current liabilities** | | | | | |
+| Trade and other payables | 18 | (10,308) | (10,432) | (4,461) | (5,519) |
+| Lease liabilities | 19 | (585) | (526) | (318) | (284) |
+| Creditors, amounts falling due within one year | | **(10,893)** | **(10,958)** | **(4,779)** | **(5,803)** |
+| **Net current assets** | | **34,116** | **31,327** | **21,705** | **20,658** |
+| **Total assets less current liabilities** | | **164,990** | **168,013** | **157,113** | **156,426** |
+| **Non-current liabilities** | | | | | |
+| Lease liabilities | 19 | (4,705) | (5,207) | (725) | (964) |
+| Deferred tax liability | 20 | (7,821) | (9,162) | (216) | (256) |
+| **Net assets** | | **152,464** | **153,644** | **156,172** | **155,206** |
+| **Capital and reserves** | | | | | |
+| Share capital | 21 | 644 | 644 | 644 | 644 |
+| Share premium account | 22 | 2,866 | 2,866 | 2,866 | 2,866 |
+| Merger relief reserve | 21 | 128,984 | 128,984 | 128,984 | 128,984 |
+| Investment in own shares | 22 | (8,795) | (9,227) | (8,795) | (9,227) |
+| Share option reserve | 22 | 128 | 187 | 128 | 187 |
+| EIP share reserve | 22 | 1,683 | 2,046 | 1,683 | 2,046 |
+| Foreign currency translation reserve | 22 | (1,011) | (1,011) | 466 | 466 |
+| Capital redemption reserve | 22 | 33 | 33 | 33 | 33 |
+| Retained earnings | 22 | 27,932 | 29,122 | 30,163 | 29,207 |
+| **Attributable to:** | | | | | |
+| **Equity shareholders of the parent** | | **152,464** | **153,644** | **156,172** | **155,206** |
+| **Total equity** | | **152,464** | **153,644** | **156,172** | **155,206** |
+
+As permitted by section 408 of the Companies Act 2006, the income statement of the Parent Company is not presented as part of these financial statements. The Parent Company’s profit for the financial period amounted to $21,858k (2024: $20,445k).
+
+The Board of Directors approve and authorise for issue these financial statements on 15th September 2025.
+
+Signed on behalf of the Board of Directors of City of London Investment Group PLC, company number 2685257.
+
+*Rian Dartnell*
+*Chairman of the Board*
+
+---
+Strategic report | Overview | Shareholder information | Governance | Financial statements
+---
+
+# Financial statements
+
+## CONSOLIDATED STATEMENT OF CHANGES IN EQUITY
+### 30TH JUNE 2025
+
+| | **Share capital** | **Share premium account** | **Merger relief reserve** | **Investment in own shares** | **Share option reserve** | **EIP share reserve** | **Foreign currency translation reserve** | **Capital redemption reserve** | **Retained earnings** | **Total attributable to shareholders** |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| | **$’000** | **$’000** | **$’000** | **$’000** | **$’000** | **$’000** | **$’000** | **$’000** | **$’000** | **$’000** |
+| **As at 1st July 2023** | **644** | **2,866** | **128,984** | **(10,301)** | **170** | **2,200** | **(1,010)** | **33** | **31,882** | **155,468** |
+| Profit for the period | – | – | – | – | – | – | – | – | 17,115 | 17,115 |
+| Other comprehensive income | – | – | – | – | – | – | (1) | – | – | (1) |
+| **Total comprehensive income** | **–** | **–** | **–** | **–** | **–** | **–** | **(1)** | **–** | **17,115** | **17,114** |
+| **Transactions with owners** | | | | | | | | | | |
+| Share option exercise | – | – | – | 154 | (9) | – | – | – | 9 | 154 |
+| Purchase of own shares | – | – | – | (1,315) | – | – | – | – | – | (1,315) |
+| Share-based payment | – | – | – | – | 35 | 1,039 | – | – | – | 1,074 |
+| EIP vesting/forfeiture | – | – | – | 2,235 | – | (1,193) | – | – | – | 1,042 |
+| Deferred tax on share options | – | – | – | – | (9) | – | – | – | (22) | (31) |
+| Current tax on share options | – | – | – | – | – | – | – | – | 27 | 27 |
+| Dividends paid | – | – | – | – | – | – | – | – | (19,889) | (19,889) |
+| **Total transactions with owners** | **–** | **–** | **–** | **1,074** | **17** | **(154)** | **–** | **–** | **(19,875)** | **(18,938)** |
+| **As at 30th June 2024** | **644** | **2,866** | **128,984** | **(9,227)** | **187** | **2,046** | **(1,011)** | **33** | **29,122** | **153,644** |
+| Profit for the period | – | – | – | – | – | – | – | – | 19,682 | 19,682 |
+| Other comprehensive income | – | – | – | – | – | – | – | – | – | – |
+| **Total comprehensive income** | **–** | **–** | **–** | **–** | **–** | **–** | **–** | **–** | **19,682** | **19,682** |
+| **Transactions with owners** | | | | | | | | | | |
+| Share option exercise | – | – | – | 278 | (42) | – | – | – | 42 | 278 |
+| Purchase of own shares | – | – | – | (2,110) | – | – | – | – | – | (2,110) |
+| Share-based payment | – | – | – | – | (17) | 888 | – | – | – | 871 |
+| EIP vesting/forfeiture | – | – | – | 2,264 | – | (1,251) | – | – | – | 1,013 |
+| Deferred tax on share options | – | – | – | – | – | – | | | | |
+
+*98 City of London Investment Group PLC Annual Report 2024/2025 Financial statements*
+
+| | | | | | | | | | |
+| :--- | :--- | :--- | ---: | ---: | ---: | :--- | :--- | ---: | ---: |
+| of own shares | – | – | – | (2,110) | – | – | – | – | – | (2,110) |
+| Share-based payment | – | – | – | – | (17) | 888 | – | – | – | 871 |
+| EIP vesting/forfeiture | – | – | – | 2,264 | – | (1,251) | – | – | – | 1,013 |
+| Deferred tax on share options | – | – | – | – | – | – | – | – | (4) | (4) |
+| Current tax on share options | – | – | – | – | – | – | – | – | 8 | 8 |
+| Dividends paid | – | – | – | – | – | – | – | – | (20,918) | (20,918) |
+| **Total transactions with owners** | **–** | **–** | **–** | **432** | **(59)** | **(363)** | **–** | **–** | **(20,872)** | **(20,862)** |
+| **As at 30th June 2025** | **644** | **2,866** | **128,984** | **(8,795)** | **128** | **1,683** | **(1,011)** | **33** | **27,932** | **152,464** |
+
+<br>
+
+### COMPANY STATEMENT OF CHANGES IN EQUITY 30TH JUNE 2025
+
+*City of London Investment Group PLC Annual Report 2024/2025 99*
+
+| | Share Capital | Share premium account | Merger relief reserve | Investment in own shares | Share option reserve | EIP share reserve | Foreign currency translation reserve | Capital redemption reserve | Retained earnings | Total attributable to shareholders |
+| :--- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| | **$’000** | **$’000** | **$’000** | **$’000** | **$’000** | **$’000** | **$’000** | **$’000** | **$’000** | **$’000** |
+| **As at 1 July 2023** | **644** | **2,866** | **128,984** | **(10,301)** | **161** | **2,200** | **468** | **33** | **28,658** | **153,713** |
+| Profit for the period | – | – | – | – | – | – | – | – | 20,445 | 20,445 |
+| Other comprehensive income | – | – | – | – | – | – | – | – | – | – |
+| **Total comprehensive income** | **–** | **–** | **–** | **–** | **–** | **–** | **–** | **–** | **20,445** | **20,445** |
+| **Transactions with owners** | | | | | | | | | | |
+| Share option exercise | – | – | – | 154 | (9) | – | – | – | (1) | 144 |
+| Purchase of own shares | – | – | – | (1,315) | – | – | – | – | – | (1,315) |
+| Share-based payment | – | – | – | – | 35 | 1,039 | – | – | – | 1,074 |
+| EIP vesting/forfeiture | – | – | – | 2,235 | – | (1,193) | – | – | – | 1,042 |
+| Deferred tax on share options | – | – | – | – | – | – | – | – | (6) | (6) |
+| Foreign exchange translation | – | – | – | – | – | – | (2) | – | – | (2) |
+| Dividends paid | – | – | – | – | – | – | – | – | (19,889) | (19,889) |
+| **Total transactions with owners** | **–** | **–** | **–** | **1,074** | **26** | **(154)** | **(2)** | **–** | **(19,896)** | **(18,952)** |
+| **As at 30th June 2024** | **644** | **2,866** | **128,984** | **(9,227)** | **187** | **2,046** | **466** | **33** | **29,207** | **155,206** |
+| Profit for the period | – | – | – | – | – | – | – | – | 21,858 | 21,858 |
+| Other comprehensive income | – | – | – | – | – | – | – | – | – | – |
+| **Total comprehensive income** | **–** | **–** | **–** | **–** | **–** | **–** | **–** | **–** | **21,858** | **21,858** |
+| **Transactions with owners** | | | | | | | | | | |
+| Share option exercise | – | – | – | 278 | (42) | – | – | – | 16 | 252 |
+| Purchase of own shares | – | – | – | (2,110) | – | – | – | – | – | (2,110) |
+| Share-based payment | – | – | – | – | (17) | 888 | – | – | – | 871 |
+| EIP vesting/forfeiture | – | – | – | 2,264 | – | (1,251) | – | – | – | 1,013 |
+| Dividends paid | – | – | – | – | – | – | – | – | (20,918) | (20,918) |
+| **Total transactions with owners** | **–** | **–** | **–** | **432** | **(59)** | **(363)** | **–** | **–** | **(20,902)** | **(20,892)** |
+| **As at 30th June 2025** | **644** | **2,866** | **128,984** | **(8,795)** | **128** | **1,683** | **466** | **33** | **30,163** | **156,172** |
+
+---
+
+*Strategic report Overview Shareholder information Governance Financial statements*
+
+### Financial statements
+
+### CONSOLIDATED AND COMPANY CASH FLOW STATEMENT FOR THE YEAR ENDED 30TH JUNE 2025
+
+| | | <center><b>Group</b></center> | | <center><b>Company</b></center> | |
+| :--- | :--- | ---: | ---: | ---: | ---: |
+| | **Note** | **30th June 2025** | **30th June 2024** | **30th June 2025** | **30th June 2024** |
+| | | **$’000** | **$’000** | **$’000** | **$’000** |
+| **Cash flow from operating activities** | | | | | |
+| Profit before taxation | | 25,989 | 22,621 | 1,405 | 1,675 |
+| Adjustments for: | | | | | |
+| Depreciation of property and equipment | | 285 | 293 | 89 | 97 |
+| Depreciation of right-of-use assets | | 658 | 672 | 226 | 227 |
+| Amortisation of intangible assets | | 5,617 | 5,609 | 18 | 10 |
+| Share-based payment charge | | (17) | 35 | (4) | 4 |
+| EIP-related charge | | 1,298 | 1,438 | 432 | 581 |
+| Gain on investments | 8 | (766) | (1,051) | (12) | (323) |
+| Interest receivable | 6 | (1,490) | (1,460) | (750) | (898) |
+| Interest payable | 7 | 8 | 24 | 8 | 24 |
+| Interest payable on leased assets | 7 | 387 | 357 | 50 | 17 |
+| Translation adjustments | | 73 | 29 | (164) | 149 |
+| **Cash generated from operations before changes in working capital** | | **32,042** | **28,567** | **1,298** | **1,563** |
+| (Increase)/decrease in trade and other receivables | | (1,010) | (302) | (779) | 880 |
+| Increase in trade and other payables | | 807 | 365 | 910 | 3,038 |
+| **Cash generated from operations** | | **31,839** | **28,630** | **1,429** | **5,481** |
+| Interest received | 6 | 1,490 | 1,460 | 750 | 898 |
+| Interest payable | 7 | (8) | (24) | (8) | (24) |
+| Interest paid on leased assets | 7 | (387) | (357) | (50) | (17) |
+| Taxation paid | | (7,781) | (8,122) | (3,555) | (3,857) |
+| **Net cash generated from/(used in) operating activities** | | **25,153** | **21,587** | **(1,434)** | **2,481** |
+| **Cash flow from investing activities** | | | | | |
+| Dividends received from subsidiaries | | – | – | 20,800 | 19,150 |
+| Purchase of property and equipment and intangibles | | (134) | (500) | (79) | (44) |
+| Purchase of non-current financial assets | | (2,789) | (4,594) | – | – |
+| Proceeds from sale of current financial assets | | 2,791 | 9,997 | – | 5,203 |
+| **Net cash (used in)/generated from investing** | | | | | |
+
+| | | | | |
+| :--- | :--- | :--- | :--- | :--- |
+| (134) (500) (79) (44) Purchase of non-current financial assets | (2,789) | (4,594) | – | – |
+| Proceeds from sale of current financial assets | 2,791 | 9,997 | – | 5,203 |
+| **Net cash (used in)/generated from investing activities** | **(132)** | **4,903** | **20,721** | **24,309** |
+| | | | | |
+| **Cash flow from financing activities** | | | | |
+| Ordinary dividends paid | 23 (20,918) | (19,889) | (20,918) | (19,889) |
+| Purchase of own shares by employee share option trust | (2,110) | (1,315) | (2,110) | (1,315) |
+| Proceeds from sale of own shares by employee benefit trust | 295 | 154 | 295 | 154 |
+| Payment of lease liabilities | 19(c) (539) | (231) | (295) | (48) |
+| **Net cash used in financing activities** | **(23,272)** | **(21,281)** | **(23,028)** | **(21,098)** |
+| | | | | |
+| **Net increase/(decrease) in cash and cash equivalents** | **1,749** | **5,209** | **(3,741)** | **5,692** |
+| Cash and cash equivalents at start of period | 33,738 | 28,569 | 20,381 | 14,779 |
+| Effect of exchange rate changes | 5 (40) | (90) | (90) | |
+| **Cash and cash equivalents at end of period** | **35,492** | **33,738** | **16,550** | **20,381** |
+
+*100 City of London Investment Group PLC Annual Report 2024/2025 Financial statements*
+
+---
+
+# NOTES TO THE FINANCIAL STATEMENTS FOR THE YEAR ENDED 30TH JUNE 2025
+
+*City of London Investment Group PLC Annual Report 2024/2025 101*
+
+---
+
+## 1. SIGNIFICANT ACCOUNTING POLICIES
+
+City of London Investment Group PLC (the Company) is a public limited company which listed on the London Stock Exchange on 29th October 2010 and is domiciled and incorporated in the United Kingdom under the Companies Act 2006.
+
+### 1.1 Basis of preparation
+
+The financial statements have been prepared in accordance with UK-adopted International Accounting Standards. The Group financial statements have been prepared under the historical cost convention, except for certain financial assets held by the Group that are reported at fair value. The Group and Company financial statements have been prepared on a going concern basis. The principal accounting policies adopted are set out below and have, unless otherwise stated, been applied consistently to all periods presented in these financial statements.
+
+### 1.2 New or amended accounting standards and interpretations
+
+The Group has adopted all the new or amended accounting standards and interpretations issued by the International Accounting Standards Board (IASB) that are mandatory for the current reporting period. Any new or amended accounting standards that are not mandatory have not been early adopted. There are no new or amended standards and interpretations that are issued, but not yet effective, up to the date of issuance of the Group’s consolidated financial statements that would be expected to have a material impact on the Group’s consolidated financial statements when they become effective.
+
+### 1.3 Accounting estimates and assumptions
+
+The preparation of these financial statements in conformity with UK-adopted International Accounting Standards requires management to make estimates and judgments that affect the application of policies and reported amounts of assets and liabilities, income and expenses. Whilst estimates are based on management’s best knowledge and judgement using information and financial data available to them, the actual outcome may differ from those estimates. The most significant areas of the financial statements that are subject to the use of estimates and judgments are noted below:
+
+**Impairment of Goodwill**
+
+The recognition of goodwill in a business combination and subsequent impairment assessments are based on significant accounting estimates. Note 13 details our estimates and assumptions in relation to the impairment assessment of goodwill.
+
+### 1.4 Investment in subsidiaries
+
+Investments in subsidiaries in the Company only accounts are stated at cost less, where appropriate, provision for impairment.
+
+### 1.5 Basis of consolidation
+
+The consolidated financial statements are based on the financial statements of the Company and all of its subsidiary undertakings. The Group’s subsidiaries are those entities which it directly or indirectly controls. Control over an entity is evidenced by the Group’s ability to exercise its power in order to affect any variable
+
+The Group’s subsidiaries are those entities which it directly or indirectly controls. Control over an entity is evidenced by the Group’s ability to exercise its power in order to affect any variable returns that the Group is exposed to through its involvement with the entity. The consolidated financial statements also incorporate the results of the business combination using the acquisition method. The acquiree’s identifiable net assets are initially recognised at their fair values at the acquisition date. The results of the acquired business are included in the consolidated statement of comprehensive income from the date on which control is obtained.
+
+***
+
+Strategic report | Overview | Shareholder information | Governance | Financial statements
+:--- | :--- | :--- | :--- | :---
+
+**NOTES TO THE FINANCIAL STATEMENTS CONTINUED**
+*City of London Investment Group PLC Annual Report 2024/2025*
+*Page 102*
+
+***
+
+# 1. SIGNIFICANT ACCOUNTING POLICIES CONTINUED
+
+When assessing whether to consolidate an entity, the Group evaluates a range of control factors as defined under IFRS 10 Consolidated financial statements, namely:
+
+*   the purpose and design of the entity;
+*   the relevant activities and how these are determined;
+*   whether the Group’s rights, result in the ability to direct the relevant activities;
+*   whether the Group has exposure or rights to variable returns; and
+*   whether the Group has the ability to use its power to affect the amount of its returns.
+
+Subsidiaries are consolidated from the date on which control is transferred to the Group and are deconsolidated from the date that control ceases.
+
+The Group’s subsidiary undertakings as at 30th June 2025 are detailed below:
+
+**City of London Investment Group PLC holds a controlling interest in the following:**
+
+| Subsidiary undertakings | Activity | Controlling interest | Country of incorporation |
+| :--- | :--- | :--- | :--- |
+| City of London Investment Management Company Limited | Management of funds | 100% | UK |
+| City of London US Investments Limited | Holding company | 100% | UK |
+| Karpus Management Inc. (aka – Karpus Investment Management) | Management of funds | 100% | USA |
+| Global Equity CEF Fund | Delaware Statutory Trust Fund | 100% | USA |
+
+**City of London Investment Management Company Limited holds 100% of the ordinary shares in the following:**
+
+| Subsidiary undertakings | Activity | Country of incorporation |
+| :--- | :--- | :--- |
+| City of London Investment Management (Singapore) PTE Ltd | Management of funds | Singapore |
+| City of London Latin America Limited | Dormant company | UK |
+
+**City of London US Investments Limited holds 100% of the ordinary shares in the following:**
+
+| Subsidiary undertakings | Activity | Country of incorporation |
+| :--- | :--- | :--- |
+| City of London US Services Limited | Service company | UK |
+
+**The registered addresses of the subsidiary companies are as follows:**
+
+*   **City of London Investment Management Company Limited**  
+    77 Gracechurch Street, London EC3V 0AS, UK
+*   **City of London US Investments Limited**  
+    77 Gracechurch Street, London EC3V 0AS, UK
+*   **City of London US Services Limited**  
+    77 Gracechurch Street, London EC3V 0AS, UK
+*   **City of London Latin America Limited**  
+    77 Gracechurch Street, London EC3V 0AS, UK
+*   **City of London Investment Management Company (Singapore) PTE Ltd**  
+    20 Collyer Quay, #10-04, Singapore 049319
+*   **Karpus Management Inc.**  
+    183 Sully’s Trail, Pittsford, New York 14534, USA
+*   **Global Equity CEF Fund**  
+    4005 Kennett Pike, Suite 250, Greenville, DE 19807, USA
+
+***
+
+**Financial statements**
+*City of London Investment Group PLC Annual Report 2024/2025*
+*Page 103*
+
+***
+
+# 1. SIGNIFICANT ACCOUNTING POLICIES CONTINUED
+
+## 1.6 Property and equipment
+
+For all property and equipment depreciation is calculated to write off their cost to their estimated residual values by equal annual instalments over the period of their estimated useful lives, which are considered to be:
+
+*   **Leasehold property improvements** – over the remaining life of the lease
+*   **Furniture and equipment** – four to ten years
+*   **Computer and telephone equipment** – four to ten years
+
+## 1.7 Intangible assets
+
+Intangible assets acquired separately are initially recognised at cost. Intangible assets acquired through a business combination other than goodwill, are initially measured at fair value at the date of the acquisition.
+
+### (i) Goodwill
+
+Goodwill arises through a business combination. Goodwill represents the excess of the purchase consideration paid
+
+are initially measured at fair value at the date of the acquisition.
+
+1.  **(i) Goodwill**  
+    Goodwill arises through a business combination. Goodwill represents the excess of the purchase consideration paid over the fair value of the identifiable assets, liabilities and contingent liabilities of the business at the date of the acquisition. Goodwill is measured at cost less accumulated impairment losses. Goodwill on acquisition is allocated to a cash generating unit (CGU) that is expected to benefit from the acquisition, for the purpose of impairment testing. The CGU to which goodwill is allocated represents the lowest level at which goodwill is monitored for internal management purposes. A CGU is identified as a group of assets generating cash inflows which are independent from cash inflows from other Group cash generating assets and are not larger than the Group’s operating segments.
+
+2.  **(ii) Direct customer relationships and distribution channels**  
+    The fair values of direct customer relationships and distribution channels acquired in the business combination have been measured using a multi-period excess earnings method. These are amortised on a straight line basis over the period of their expected benefit, being a finite life of ten years for direct customer relationships and a finite life of seven years for distribution channels.
+
+3.  **(iii) Trade name**  
+    The fair value of the trade name acquired in the business combination has been measured using a relief from royalty method. This is amortised on a straight line basis over the period of its expected benefit, being a finite life of fifteen years.
+
+4.  **(iv) Software licences**  
+    Software licences are capitalised at cost and amortised on a straight line basis over the useful life of the asset. Costs are capitalised on the basis of the costs incurred to acquire and bring into use the specific software. Costs also include directly attributable overheads. The estimated useful life over which the software is depreciated is between four to ten years. Software integral to a related item of hardware equipment is accounted for as property and equipment. Costs associated with maintaining computer software programs are expensed to the income statement as incurred.
+
+#### 1.8 Impairment of goodwill and other assets
+Goodwill arising on acquisition is not subject to annual amortisation and is tested annually for impairment, or more frequently if changes in circumstances indicate a possible impairment. The Group annually reviews the carrying value of its CGU to ensure that those assets have not suffered from any impairment loss. The review compares the recoverable amount of the CGU to which goodwill is allocated against its carrying amount. Where the recoverable amount is higher than the carrying amount, no impairment is required. The recoverable amount is defined as the higher of (a) fair value less costs of disposal or (b) value in use, which is based on the present value of future cash flows expected to derive from the CGU. For the purposes of assessing impairment, assets are grouped at the lowest levels for which there are separately identifiable cash inflows which are largely independent of the cash inflows from other assets or groups of assets (cash-generating units). Other assets are tested for impairment whenever management identifies any indicators of impairment. Any impairment loss is recognised immediately through the income statement.
+
+---
+**Strategic report** | **Overview** | **Shareholder information** | **Governance** | **Financial statements**
+---
+
+## NOTES TO THE FINANCIAL STATEMENTS CONTINUED
+
+### 1. SIGNIFICANT ACCOUNTING POLICIES CONTINUED
+
+#### 1.9 Business combinations
+The Group accounts for business combinations using the acquisition method. A business combination is determined where in a transaction, the asset acquired and the liabilities assumed constitute a business. The consideration transferred on the date of the transaction is measured at fair value as are the identifiable assets acquired and liabilities assumed. Intangible assets are recognised
+
+a business. The consideration transferred on the date of the transaction is measured at fair value as are the identifiable assets acquired and liabilities assumed. Intangible assets are recognised separately from goodwill at the acquisition date only when they are identifiable.
+
+### 1.10 Financial instruments
+Financial instruments are only recognised in the financial statements and measured at fair value when the Group becomes party to the contractual provisions of the instrument.
+
+Under IFRS 9 Financial Instruments, financial assets are classified as either:
+*   amortised at cost;
+*   at fair value through the profit or loss; or
+*   at fair value through other comprehensive income.
+
+Financial liabilities must be classified at fair value through profit or loss or at amortised cost.
+
+The Group’s investments in securities are classified as financial assets or liabilities at fair value through profit or loss. Such investments are initially recognised at fair value, and are subsequently re-measured at fair value, with any movement recognised in the income statement.
+
+The fair value of the Group’s investments is determined as follows:
+*   Shares traded in active markets – priced using the quoted closing price
+*   Unlisted seed capital investments in funds – priced using net asset value at the reporting date
+
+The consolidated Group assesses and would recognise a loss allowance for expected credit losses on financial assets which are measured at amortised cost.
+
+The measurement of the loss allowance depends upon the consolidated entity’s assessment at the end of each reporting period as to whether the financial instrument’s credit risk has increased significantly since initial recognition, based on reasonable and supportable information that is available, without undue cost or effort to obtain.
+
+Where there has not been a significant increase in exposure to credit risk since initial recognition, a twelve-month expected credit loss allowance is estimated. This represents a portion of the asset’s lifetime expected credit losses that is attributable to a default event that is possible within the next twelve months. Where a financial asset has become credit impaired or where it is determined that credit risk has increased significantly, the loss allowance is based on the asset’s lifetime expected credit losses. The amount of expected credit loss recognised is measured on the basis of the probability weighted present value of anticipated cash shortfalls over the life of the instrument discounted at the original effective interest rate.
+
+Under the expected credit loss model, impairment losses are recorded if there is an expectation of credit losses, even in the absence of a default event. This model is applicable to assets amortised at cost or at fair value through other comprehensive income. The assets on the Group’s balance sheet to which the expected loss applies to are fees receivable. At the end of each reporting period, the Group assesses whether the credit risk of these trade receivables has increased significantly since initial recognition, based on reasonable and supportable information that is available, without undue cost or effort to obtain.
+
+### 1.11 Cash and cash equivalents
+Cash and cash equivalents comprise cash in hand and on-demand deposits with an original maturity of three months or less from inception, and other short-term highly liquid investments that are readily convertible to a known amount of cash and are subject to an insignificant risk of changes in value.
+
+### 1.12 Trade payables
+Trade payables are measured at initial recognition at fair value and subsequently measured at amortised cost.
+
+***
+
+104 City of London Investment Group PLC Annual Report 2024/2025 Financial statements City of London Investment Group PLC Annual Report 2024/2025 105
+
+***
+
+## 1. SIGNIFICANT ACCOUNTING POLICIES CONTINUED
+
+### 1.13 Current and deferred taxation
+The Group provides for current tax according to the tax regulations in each jurisdiction in which it operates, using tax rates that
+
+# ACCOUNTING POLICIES CONTINUED
+
+## 1.13 Current and deferred taxation
+
+The Group provides for current tax according to the tax regulations in each jurisdiction in which it operates, using tax rates that have been enacted or substantively enacted by the reporting date.
+
+Deferred tax is provided using the balance sheet liability method, providing for temporary differences between the carrying amounts of assets and liabilities for financial reporting purposes and the amounts used for tax purposes. However, deferred tax is not accounted for if it arises from goodwill or the initial recognition (other than in a business combination) of other assets or liabilities in a transaction that affects neither the accounting nor the taxable profit or loss. Deferred tax liabilities are generally recognised for all taxable temporary differences and deferred tax assets are recognised to the extent that it is probable that taxable profits will be available against which deductible temporary differences can be utilised.
+
+The carrying amount of deferred tax assets is reviewed at the end of each reporting period and reduced to the extent that it is no longer probable that sufficient taxable profits will be available to allow all or part of the asset to be recovered.
+
+Deferred tax is calculated at the tax rates that are expected to apply in the period when the liability is settled or the asset realised. The tax rates used are those that have been enacted, or substantively enacted, by the end of the reporting period. Deferred tax is charged or credited to the income statement, except when it relates to items charged or credited directly as part of other comprehensive income, in which case the deferred tax is also dealt with as part of other comprehensive income. For share-based payments, where the estimated future tax deduction exceeds the amount of the related cumulative remuneration expense, the excess deferred tax is recognised directly in equity.
+
+## 1.14 Share-based payments
+
+The Company operates an Employee Incentive Plan (EIP) which is open to all employees in the Group. Awards are made to participating employees over shares under the EIP where they have duly waived an element of their annual profit-share before the required waiver date, in general before the start of the relevant financial year. The awards are made up of two elements: Deferred Shares and Bonus Shares. The Deferred Shares represent the waived profit-share and the Bonus Shares represent the additional award made by the Company as a reward for participating in the EIP.
+
+Awards will vest (i.e. no longer be forfeitable) over a three-year period with one-third vesting each year for all employees, other than Executive Directors of CLIG. Awards granted from October 2021 onwards for the Executive Directors of CLIG will vest (i.e. no longer be forfeitable) over a five-year period with one-fifth vesting each year, and from October 2024 onwards over a five-year period with one-third vesting each year for the third, fourth and fifth anniversaries following grant. Should an employee leave within the vesting period, the unvested portion of the waived profit-share element is settled in cash as per the EIP rules.
+
+The full cost of the Deferred Shares is recognised in the year to which the profit-share relates. The value of the Bonus Shares is expensed on a straight line basis over the period from the date the employees elect to participate to the date that the awards vest. This cost is estimated during the financial year and at the point when the actual award is made, the share-based payment charge is re-calculated and any difference is taken to the profit or loss.
+
+The Company operates an Employee Share Option Plan. The fair value of the employee services received in exchange for share options is recognised as an expense. The fair value has been calculated using the Black-Scholes pricing model, and is being expensed on a straight line basis over the vesting period, based on the Company’s estimate of the
+
+as an expense. The fair value has been calculated using the Black-Scholes pricing model, and is being expensed on a straight line basis over the vesting period, based on the Company’s estimate of the number of shares that will actually vest. At the end of the three-year period when the actual number of shares vesting is known, the share-based payment charge is re-calculated and any difference is taken to the profit or loss.
+
+### 1.15 Revenue recognition
+Revenue is recognised within the financial statements based on the services that are provided in accordance with current investment management agreements (IMAs). The fees are charged as a percentage of Funds under Management. The performance obligations encompassed within these agreements are based on daily/monthly asset management of funds. Payment terms are monthly/quarterly in advance or in arrears. The Group has an enforceable right to the payment of these fees for services provided, in accordance with the underlying IMAs.
+
+---
+**Strategic report** | **Overview** | **Shareholder information** | **Governance** | **Financial statements**
+---
+
+# NOTES TO THE FINANCIAL STATEMENTS CONTINUED
+
+## 1. SIGNIFICANT ACCOUNTING POLICIES CONTINUED
+For each contract, the Group:
+
+1.  identifies the contract with a customer;
+2.  identifies the performance obligations in the contract;
+3.  determines the transaction price which takes into account estimates of variable consideration and the time value of money;
+4.  allocates the transaction price to the separate performance obligations on the basis of the relative stand-alone selling price of each distinct service to be delivered; and
+5.  recognises revenue when or as each performance obligation is satisfied in a manner that depicts the transfer to the customer of services promised.
+
+### 1.16 Commissions payable
+A portion of the Group’s revenue is subject to commissions payable under third party marketing agreements. Commissions payable are recognised in the same period as the revenue to which they relate.
+
+### 1.17 Foreign currency translation
+The functional and presentational currency of the Company and all its subsidiaries is US dollars. Transactions in currencies other than the relevant Group entity’s functional currency are recorded at the rates of exchange prevailing on the dates of the transactions. At each balance sheet date, monetary assets and liabilities that are denominated in foreign currencies are retranslated at the rates prevailing on the balance sheet date. Gains and losses arising on retranslation are included in the profit or loss for the year.
+
+### 1.18 Leases
+The total outstanding lease cost, discounted at the Group’s weighted average incremental borrowing rate to its present value, is shown as a lease liability in the statement of financial position. The payment of the lease charge is allocated between the lease liability and an interest charge in the income statement. On recognition of the lease liability, the associated asset is shown as a right-of-use asset. This is further adjusted for any lease payments made prior to adoption and any future restoration costs as implicit within the lease contract. The resulting total value of the right-of-use asset is depreciated on a straight line basis over the term of the lease period.
+
+The Group re-measures the lease liability whenever:
+*   there is a change in the lease term;
+*   there is a change in the lease payments; and
+*   a lease contract is modified and the lease modification is not accounted for as a separate lease.
+
+Where there is a change in the lease term or lease payments, the lease liability is re-measured by discounting the revised lease payments at the current or revised discount rate depending on the nature of the event. Where the lease liability is re-measured, a corresponding adjustment is made to the right-of-use assets. Where extension/termination options exists within a lease, the Group would assess at the lease commencement date as to whether it is reasonably certain that it will exercise these options. The Group would reassess these options if there
+
+within a lease, the Group would assess at the lease commencement date as to whether it is reasonably certain that it will exercise these options. The Group would reassess these options if there was a significant event or significant change in circumstances within its control, which would warrant the Group with reasonable certainty to exercise these options. Payments in relation to short-term leases, those that are less than twelve months in duration continue to be expensed to the income statement on a straight line basis. At the end of the year, all of the Group’s leases were recognised as right-of-use assets.
+
+### 1.19 Pensions
+The Group operates defined contribution pension schemes covering the majority of its employees. The costs of the pension schemes are charged to the income statement as they are incurred. Any amounts unpaid at the end of the period are reflected in other creditors.
+
+***
+
+106 City of London Investment Group PLC Annual Report 2024/2025
+
+***
+
+Financial statements
+
+***
+
+City of London Investment Group PLC Annual Report 2024/2025 107
+
+***
+
+### 2. SEGMENTAL ANALYSIS
+The Directors consider that the Group has only one reportable segment, namely asset management, and hence only analysis by geographical location is given.
+
+| | **Europe** | **USA** | **Canada** | **UK (ex UK)** | **Other** | **Total** |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| | **$’000** | **$’000** | **$’000** | **$’000** | **$’000** | **$’000** |
+| **Year to 30th June 2025** | | | | | | |
+| Gross fee income | 70,567 | 1,529 | – | 818 | 130 | 73,044 |
+| Non-current assets: | | | | | | |
+| Property and equipment | 759 | – | 147 | – | 11 | 917 |
+| Right-of-use assets | 3,656 | – | 699 | – | 63 | 4,418 |
+| Intangible assets | 117,234 | – | 62 | – | – | 117,296 |
+| **Year to 30th June 2024** | | | | | | |
+| Gross fee income | 66,885 | 1,465 | – | 1,001 | 102 | 69,453 |
+| Non-current assets: | | | | | | |
+| Property and equipment | 901 | – | 205 | – | 22 | 1,128 |
+| Right-of-use assets | 4,030 | – | 925 | – | 121 | 5,076 |
+| Intangible assets | 122,833 | – | 20 | – | – | 122,853 |
+
+### 3. EMPLOYEES
+
+| | **Group** | | **Company** | |
+| :--- | :--- | :--- | :--- | :--- |
+| | **Year to** | **Year to** | **Year to** | **Year to** |
+| **(a) Average number of persons employed by the Group in the period:** | **30th June 2025** | **30th June 2024** | **30th June 2025** | **30th June 2024** |
+| | **Number** | **Number** | **Number** | **Number** |
+| Investment Management/Research | 35 | 39 | 16 | 18 |
+| Performance and Attribution | 5 | 5 | – | – |
+| Business Development/Marketing | 16 | 16 | 1 | 1 |
+| Client Services | 14 | 15 | 2 | 2 |
+| Administration, Accounts and Settlements | 43 | 43 | 10 | 10 |
+| | **113** | **118** | **29** | **31** |
+
+<br>
+
+| | **Group** | | **Company** | |
+| :--- | :--- | :--- | :--- | :--- |
+| | **Year to** | **Year to** | **Year to** | **Year to** |
+| **(b) The aggregate employment costs of employees and Directors were:** | **30th June 2025** | **30th June 2024** | **30th June 2025** | **30th June 2024** |
+| | **$’000** | **$’000** | **$’000** | **$’000** |
+| Wages and salaries | 14,554 | 14,881 | 4,393 | 4,611 |
+| Profit sharing payments | 9,852 | 9,588 | 2,937 | 3,062 |
+| Social security costs | 1,979 | 1,956 | 1,025 | 1,046 |
+| Defined contribution pension costs | 2,003 | 2,110 | 498 | 511 |
+| EIP-related charges | 1,223 | 1,438 | 375 | 631 |
+| Share options charge | (17) | 35 | (4) | 4 |
+| Other employee costs | 829 | 917 | 187 | 259 |
+| | **30,423** | **30,925** | **9,411** | **10,124** |
+
+***
+
+Strategic reportOverview Shareholder informationGovernance Financial statements
+
+***
+
+### 4. DIRECTORS
+
+| | **Year to 30th June 2025** | **Year to 30th June 2024** |
+| :--- | :--- | :--- |
+| **Directors’ emoluments comprise:** | **$’000** | **$’000** |
+| Emoluments (excluding pension contributions and awards under share option schemes) | 1,263 | 1,141 |
+| Pension contributions | 36 | 36 |
+| EIP-related charges | 24 | 33 |
+| Gains on exercise of share options | – | 12 |
+| Other taxable benefits ^ | 22 | 28 |
+| | **1,345** | **1,250** |
+| Social security costs | 35 | 35 |
+| | **1,380** | **1,285** |
+
+<br>
+
+| | **Year to 30th June 2025** | **Year to 30th June 2024** |
+| :--- | :--- | :--- |
+| | **Number** | **Number** |
+| Number of Directors on whose behalf pension contributions were paid during the period | 1 | 1 |
+| Number of Directors who exercised share options during the period | – | 1 |
+
+<br>
+
+| | **Year to 30th June 2025** | **Year to 30th June 2024** |
+| :--- | :--- | :--- |
+| **Highest paid Director’s remuneration:** | **$’000** | **$’000** |
+| Emoluments (excluding pension contributions and awards under share option schemes) | 939 | 791 |
+| Pension contributions | 36 | 36 |
+| EIP-related charges | 24 | 33 |
+| Gains on exercise of share options | – | 12 |
+| Other taxable benefits ^ | 13 | 10 |
+| | **1,012** | **882** |
+| Social security costs | 22 | 21 |
+| | **1,034** | **903** |
+
+(^) The regulations require us to disclose taxable benefits. Health insurance is offered to all employees but is not considered a taxable benefit in all countries. For comparative purposes, we have based our calculations on all health insurance costs incurred,
+
+Health insurance is offered to all employees but is not considered a taxable benefit in all countries. For comparative purposes, we have based our calculations on all health insurance costs incurred, whether a taxable benefit or not.
+
+---
+**NOTES TO THE FINANCIAL STATEMENTS CONTINUED**
+<br>
+*City of London Investment Group PLC Annual Report 2024/2025*
+<br>
+*108*
+<br>
+*Financial statements*
+
+---
+*City of London Investment Group PLC Annual Report 2024/2025*
+<br>
+*109*
+<br>
+*Strategic report | Overview | Shareholder information | Governance*
+
+---
+
+### 5. OPERATING PROFIT
+
+The operating profit is arrived at after charging:
+
+| | Year to <br> 30th June 2025 | Year to <br> 30th June 2024 |
+| :--- | :--- | :--- |
+| | **$’000** | **$’000** |
+| Depreciation of property and equipment | 285 | 293 |
+| Depreciation of right-of-use assets | 658 | 672 |
+| Amortisation of intangible assets | 5,617 | 5,609 |
+| **Auditor’s remuneration:** | | |
+| – Statutory audit of the parent and consolidated financial statements | 158 | 149 |
+| – Statutory audit of subsidiaries of the Company | 147 | 134 |
+| – Audit related assurance services | 50 | 62 |
+| Short-term lease expense | 20 | 21 |
+| Legal and professional fees | 2,563 | 1,766 |
+| Consultancy and software fees | 1,959 | 1,780 |
+| Market information services | 1,312 | 1,511 |
+
+### 6. FINANCE INCOME
+
+| | Year to <br> 30th June 2025 | Year to <br> 30th June 2024 |
+| :--- | :--- | :--- |
+| | **$’000** | **$’000** |
+| Interest on cash and cash equivalents | 1,490 | 1,460 |
+
+### 7. FINANCE EXPENSE
+
+| | Year to <br> 30th June 2025 | Year to <br> 30th June 2024 |
+| :--- | :--- | :--- |
+| | **$’000** | **$’000** |
+| Interest payable on lease liabilities | 387 | 357 |
+| Interest payable other | 8 | 24 |
+| **Total** | **395** | **381** |
+
+### 8. GAIN ON INVESTMENTS
+
+| | Year to <br> 30th June 2025 | Year to <br> 30th June 2024 |
+| :--- | :--- | :--- |
+| | **$’000** | **$’000** |
+| Unrealised gain on investments | 614 | 180 |
+| Realised gain on investments | 152 | 871 |
+| **Total** | **766** | **1,051** |
+
+*Financial statements*
+
+### 9. TAX CHARGE ON PROFIT ON ORDINARY ACTIVITIES
+
+#### (a) Analysis of tax charge on ordinary activities:
+
+| | Year to <br> 30th June 2025 | Year to <br> 30th June 2024 |
+| :--- | :--- | :--- |
+| | **$’000** | **$’000** |
+| **Current tax:** | | |
+| UK corporation tax at 25% (2024: 25%) based on the profit for the period | 3,992 | 5,417 |
+| Double taxation relief | (585) | (887) |
+| Adjustments in respect of prior years | 162 | (7) |
+| **UK tax total** | **3,569** | **4,523** |
+| Foreign tax | 4,145 | 2,453 |
+| Adjustments in respect of prior years | (207) | (123) |
+| **Foreign tax total** | **3,938** | **2,330** |
+| **Total current tax charge** | **7,507** | **6,853** |
+| **Deferred tax:** | | |
+| UK – origination and reversal of temporary differences | 129 | 68 |
+| Foreign – origination and reversal of temporary differences | (1,329) | (1,415) |
+| **Total deferred tax credit** | **(1,200)** | **(1,347)** |
+| **Total tax charge in income statement** | **6,307** | **5,506** |
+
+#### (b) Factors affecting tax charge for the current period:
+
+The tax charge on profit for the year is different to that resulting from applying the standard rate of corporation tax in the UK – 25% (prior year – 25%). The differences are explained below:
+
+| | Year to <br> 30th June 2025 | Year to <br> 30th June 2024 |
+| :--- | :--- | :--- |
+| | **$’000** | **$’000** |
+| Profit on ordinary activities before tax | 25,989 | 22,621 |
+| Tax on profit from ordinary activities at the standard rate | (6,497) | (5,655) |
+| **Effects of:** | | |
+| Unrelieved foreign tax at rates different to those of the UK | (20) | (166) |
+| Income ineligible for tax | (62) | 75 |
+| Capital allowances less than depreciation | 207 | 98 |
+| Prior period adjustments | 47 | 129 |
+| Other | 18 | 13 |
+| **Total tax charge in income statement** | **(6,307)** | **(5,506)** |
+
+---
+**NOTES TO THE FINANCIAL STATEMENTS CONTINUED**
+<br>
+*City of London Investment Group PLC Annual Report 2024/2025*
+<br>
+*110*
+<br>
+*Financial statements*
+
+---
+*City of London Investment Group PLC Annual Report 2024/2025*
+<br>
+*111*
+<br>
+*Strategic report | Overview | Shareholder information | Governance*
+
+---
+
+### 10. EARNINGS PER SHARE
+
+The calculation of earnings per share is based on the profit for the period attributable to the equity shareholders of the parent divided by the weighted average number of ordinary shares in issue for the period ended 30th June 2025.
+
+As set out in the Directors’ report on page 82 the Employee Benefit Trust held 1,750,055 (2024: 1,829,637) ordinary shares in the Company as at 30th June 2025. The Trustees of the Trust have waived all rights to dividends associated with these shares. In accordance with IAS 33 Earnings per share, the ordinary shares held by the Employee Benefit Trust have been excluded from the calculation of the weighted average number of ordinary shares in issue.
+
+with IAS 33 Earnings per share, the ordinary shares held by the Employee Benefit Trust have been excluded from the calculation of the weighted average number of ordinary shares in issue. The calculation of diluted earnings per share is based on the profit for the period attributable to the equity shareholders of the parent divided by the diluted weighted average number of ordinary shares in issue for the period ended 30th June 2025.
+
+### Reported earnings per share
+
+| | **Year to 30th June 2025** | **Year to 30th June 2024** |
+| :--- | :--- | :--- |
+| | **$’000** | **$’000** |
+| Profit attributable to the equity shareholders of the parent for basic earnings | 19,682 | 17,115 |
+| | **Number of shares** | **Number of shares** |
+| Issued ordinary shares as at 1st July | 50,679,095 | 50,679,095 |
+| Effect of own shares held by EBT | (1,539,816) | (1,875,340) |
+| **Weighted average shares in issue** | **49,139,279** | **48,803,755** |
+| Effect of movements in share options and EIP awards | 759,201 | 978,997 |
+| **Diluted weighted average shares in issue** | **49,898,480** | **49,782,752** |
+| | | |
+| **Basic earnings per share (cents)** | **40.1** | **35.1** |
+| **Diluted earnings per share (cents)** | **39.4** | **34.4** |
+| | | |
+| **Basic earnings per share (pence)** | **30.9** | **27.8** |
+| **Diluted earnings per share (pence)** | **30.4** | **27.3** |
+
+### Underlying earnings per share*
+Underlying earnings per share is based on the underlying profit after tax*, where profit after tax is adjusted for gain/loss on investments, amortisation of acquired intangibles and their relating tax impact.
+
+#### Underlying profit for calculating underlying earnings per share
+
+| | **Year to 30th June 2025** | **Year to 30th June 2024** |
+| :--- | :--- | :--- |
+| | **$’000** | **$’000** |
+| Profit before tax | 25,989 | 22,621 |
+| Add back/(deduct): | | |
+| – (Gain)/loss on investments | (766) | (1,051) |
+| – Amortisation on acquired intangibles | 5,599 | 5,599 |
+| **Underlying profit before tax** | **30,822** | **27,169** |
+| Tax expense as per the consolidated income statement | (6,307) | (5,506) |
+| Tax effect of fair value adjustments | 190 | 261 |
+| Unwinding of deferred tax liability | (1,344) | (1,344) |
+| **Underlying profit after tax for the calculation of underlying earnings per share** | **23,361** | **20,580** |
+| | | |
+| **Underlying earnings per share (cents)** | **47.5** | **42.2** |
+| **Underlying diluted earnings per share (cents)** | **46.8** | **41.3** |
+| | | |
+| **Underlying earnings per share (pence)** | **36.7** | **33.5** |
+| **Underlying diluted earnings per share (pence)** | **36.1** | **32.8** |
+
+* *This is an Alternative Performance Measure (APM). Please refer to the Financial Review for more details on APMs.*
+
+---
+Financial statements NOTES TO THE FINANCIAL STATEMENTS CONTINUED 112 City of London Investment Group PLC Annual Report 2024/2025
+---
+
+### 11. PROPERTY AND EQUIPMENT
+
+| | <center><b>30th June 2025</b></center> | | | | <center><b>30th June 2024</b></center> | | |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| | **Computer and telephone equipment<br>$’000** | **Short leasehold improvements<br>$’000** | **Furniture and equipment<br>$’000** | **Total<br>$’000** | **Computer and telephone equipment<br>$’000** | **Short leasehold improvements<br>$’000** | **Furniture and equipment<br>$’000** | **Total<br>$’000** |
+| **Group** | | | | | | | | |
+| **Cost** | | | | | | | | |
+| At start of period | 553 | 2,178 | 666 | 3,397 | 491 | 2,021 | 877 | 3,389 |
+| Additions | 30 | 44 | – | 74 | 62 | 210 | 228 | 500 |
+| Disposals | – | (50) | – | (50) | – | (53) | (439) | (492) |
+| **At close of period** | **583** | **2,172** | **666** | **3,421** | **553** | **2,178** | **666** | **3,397** |
+| **Accumulated depreciation** | | | | | | | | |
+| At start of period | 261 | 1,826 | 182 | 2,269 | 209 | 1,677 | 582 | 2,468 |
+| Charge for the period | 53 | 184 | 48 | 285 | 52 | 201 | 40 | 293 |
+| Disposals | – | (50) | – | (50) | – | (52) | (440) | (492) |
+| **At close of period** | **314** | **1,960** | **230** | **2,504** | **261** | **1,826** | **182** | **2,269** |
+| **Net book value** | | | | | | | | |
+| **At close of period** | **269** | **212** | **436** | **917** | **292** | **352** | **484** | **1,128** |
+| **Company** | | | | | | | | |
+| **Cost** | | | | | | | | |
+| At start of period | 287 | 634 | 175 | 1,096 | 284 | 650 | 171 | 1,105 |
+| Additions | – | 19 | – | 19 | 3 | 37 | 4 | 44 |
+| Disposals | – | – | – | – | – | (53) | – | (53) |
+| **At close of period** | **287** | **653** | **175** | **1,115** | **287** | **634** | **175** | **1,096** |
+| **Accumulated depreciation** | | | | | | | | |
+| At start of period | 198 | 554 | 117 | 869 | 175 | 547 | 103 | 825 |
+| Charge for the period | 22 | 51 | 16 | 89 | 23 | 60 | 14 | 97 |
+| Disposals | – | – | – | – | – | (53) | – | (53) |
+| **At close of period** | **220** | **605** | **133** | **958** | **198** | **554** | **117** | **869** |
+| **Net book value** | | | | | | | | |
+| **At close of period** | **67** | **48** | **42** | **157** | **89** | **80** | **58** | **227** |
+
+---
+Financial statements City of London Investment Group PLC Annual Report 2024/2025 113 Strategic reportOverview Shareholder informationGovernance Financial statements
+---
+
+### 12. RIGHT-OF-USE ASSETS
+
+| | <center><b>30th June 2025</b></center> | | | <center><b>30th June 2024</b></center> | |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| | **Office leases<br>$’000** | **Property equipment leases<br>$’000** | **Total<br>$’000** | **Office leases<br>$’000** | **Property equipment leases<br>$’000** | **Total<br>$’000** |
+
+statements
+
+## 12. RIGHT-OF-USE ASSETS
+
+| | **30th June 2025** | | | **30th June 2024** | | |
+| :--- | ---:| ---:| ---:| ---:| ---:| ---:|
+| | **Office Property leases** | **Office equipment leases** | **Total** | **Office Property leases** | **Office equipment leases** | **Total** |
+| | **$’000** | **$’000** | **$’000** | **$’000** | **$’000** | **$’000** |
+| **Group** | | | | | | |
+| **Cost** | | | | | | |
+| At start of period | 7,397 | 89 | 7,486 | 4,474 | 82 | 4,556 |
+| Lease additions | – | – | – | 3,012 | 89 | 3,101 |
+| Lease modifications | – | – | – | 150 | – | 150 |
+| Disposals | – | – | – | (239) | (82) | (321) |
+| **At close of period** | **7,397** | **89** | **7,486** | **7,397** | **89** | **7,486** |
+| **Depreciation charge** | | | | | | |
+| At start of period | 2,404 | 6 | 2,410 | 1,969 | 63 | 2,032 |
+| Charge for the period | 640 | 18 | 658 | 649 | 23 | 672 |
+| Disposals | – | – | – | (214) | (80) | (294) |
+| **At close of period** | **3,044** | **24** | **3,068** | **2,404** | **6** | **2,410** |
+| **Net book value** | | | | | | |
+| **At close of period** | **4,353** | **65** | **4,418** | **4,993** | **83** | **5,076** |
+| **Company** | | | | | | |
+| **Cost** | | | | | | |
+| At start of period | 2,058 | – | 2,058 | 2,058 | – | 2,058 |
+| **At close of period** | **2,058** | **–** | **2,058** | **2,058** | **–** | **2,058** |
+| **Depreciation charge** | | | | | | |
+| At start of period | 1,133 | – | 1,133 | 906 | – | 906 |
+| Charge for the period | 226 | – | 226 | 227 | – | 227 |
+| **At close of period** | **1,359** | **–** | **1,359** | **1,133** | **–** | **1,133** |
+| **Net book value** | | | | | | |
+| **At close of period** | **699** | **–** | **699** | **925** | **–** | **925** |
+
+As at the period end, the Group’s right-of-use assets consisted of four property leases and one office equipment lease. The current lease periods range between one year and thirteen years, with the average remaining term being 5.9 years. Expenses in relation to short-term leases are shown in note 5. Details of lease liabilities are shown in note 19.
+
+---
+NOTES TO THE FINANCIAL STATEMENTS CONTINUED 114 City of London Investment Group PLC Annual Report 2024/2025
+---
+
+## 13. INTANGIBLE ASSETS
+
+| | **30th June 2025** | | | | | | **30th June 2024** |
+| :--- | ---:| ---:| ---:| ---:| ---:| ---:| ---:|
+| | **Goodwill** | **Direct customer relationships** | **Distribution channels** | **Trade name** | **Long-term software** | **Total** | **Total** |
+| | **$’000** | **$’000** | **$’000** | **$’000** | **$’000** | **$’000** | **$’000** |
+| **Group** | | | | | | | |
+| **Cost** | | | | | | | |
+| At start of period | 90,072 | 46,052 | 6,301 | 1,405 | 914 | 144,744 | 144,744 |
+| Additions | – | – | – | – | 60 | 60 | – |
+| **At close of period** | **90,072** | **46,052** | **6,301** | **1,405** | **974** | **144,804** | **144,744** |
+| **Amortisation charge** | | | | | | | |
+| At start of period | – | 17,270 | 3,376 | 351 | 894 | 21,891 | 16,282 |
+| Charge for the period | – | 4,605 | 900 | 94 | 18 | 5,617 | 5,609 |
+| **At close of period** | **–** | **21,875** | **4,276** | **445** | **912** | **27,508** | **21,891** |
+| **Net book value:** | | | | | | | |
+| **At close of period** | **90,072** | **24,177** | **2,025** | **960** | **62** | **117,296** | **122,853** |
+| **Company** | | | | | | | |
+| **Cost** | | | | | | | |
+| At start of period | – | – | – | – | 112 | 112 | 112 |
+| Additions | – | – | – | – | 60 | 60 | – |
+| **At close of period** | **–** | **–** | **–** | **–** | **172** | **172** | **112** |
+| **Amortisation charge** | | | | | | | |
+| At start of period | – | – | – | – | 92 | 92 | 82 |
+| Charge for the period | – | – | – | – | 18 | 18 | 10 |
+| **At close of period** | **–** | **–** | **–** | **–** | **110** | **110** | **92** |
+| **Net book value** | **–** | **–** | **–** | **–** | **62** | **62** | **20** |
+
+Goodwill, direct customer relationships, distribution channels and trade name acquired through business combination relate to the merger with KIM on 1st October 2020.
+
+### Impairment
+
+Goodwill acquired through the business combination is in relation to the merger with KIM and relates to the acquired workforce and future expected growth of the cash generating unit (CGU). The Group has carried out an annual review of the carrying value of the CGU to which the goodwill is allocated to see if it has suffered any impairment. Management also considered whether there were any indicators of impairment of other intangible assets. The services of an independent valuation consultant, Kroll Advisory Limited (Kroll) was retained during the year to perform an assessment of impairment as of 30th April 2025. The Group assessed the recoverable amount of the CGU by both its value in use (VIU) and its fair value (Fair Value) less cost of disposal (FVLCOD). Both methodologies gave a value which exceeded the carrying value of the CGU. Although, the recoverable amount calculated using VIU was higher than FVLCOD, to be consistent with the prior period, the Group adopted FVLCOD as its measurement against the carrying value of its CGU. The Fair Value is based on the Market Comparable Method (or “Comparable Company Analysis”) that indicates the value of KIM by comparing it to publicly traded companies in a similar line of business. An analysis of the trading multiples of comparable companies yields insight into investor perceptions and, therefore, the value of the subject company i.e., the value of KIM.
+
+---
+Financial statements City of London Investment Group
+
+of comparable companies yields insight into investor perceptions and, therefore, the value of the subject company i.e., the value of KIM.
+> Financial statements City of London Investment Group PLC Annual Report 2024/2025 115 Strategic reportOverview Shareholder informationGovernance Financial statements
+
+### 13. INTANGIBLE ASSETS CONTINUED
+FuM and EBITDA multiples were selected and applied to the historical and forecasted metrics of KIM. The multiples were evaluated and selected based on the relative growth potential, operating margins and risk profile of KIM vis-a-vis the publicly traded comparable companies and also to reflect the degree of control and lack of marketability of the interest held in KIM. As such, FuM multiple of 3.5% and EBITDA multiples of 10.0x and 9.0x (calendar year 2024 and 2025 respectively) were selected based on the Comparable Company Analysis prior to concluding the Fair Value of KIM on a weighted average basis. This Fair Value is classified within Level 3 of IFRS 13 fair value hierarchy.
+
+The Group’s forecasts are based on its most recent and current trading activity and on current financial budgets for twelve months that are approved by the Board. The key assumptions underlying the budgets are based on the most recent trading activity with built in organic growth, revenue and cost margins. The annual growth rate used for extrapolating revenue forecasts was 5.6% and for direct costs was 3.0% based on the Group’s expectation of future growth of the business.
+
+The goodwill impairment assessment date of 30th April 2025 was different to the current reporting date. The performance of the CGU is reviewed for the period between the assessment date and the reporting date to determine whether any changes in circumstances or impairment indicators have occurred since the assessment date. Following our review, it was determined that there were no changes in circumstances or impairment indicators that would require the CGU to be impaired at the reporting date. The recoverable amount of the CGU exceeded the carrying amount of the CGU at 30th April 2025 by $24,667k (2024: $9,496k).
+
+Sensitivity analysis was applied to the selected multiples to measure the impact on the headroom in existence under the current impairment review. The following table shows the extent to which each of the selected multiples will be required to change in isolation for the recoverable amount of this CGU to be equal to its carrying amount. This highlights that further adverse movements in the selected multiples would be required before an impairment would be recognised. The below sensitivities make no allowance for mitigating actions that management would take if such market conditions persisted.
+
+| 2025 | From | To |
+| :--- | :--- | :--- |
+| EV / December LTM FuM – (USD Mn) | 3.5% | 0.9% |
+| EV / CY 2025 FuM – (USD Mn) | 3.5% | 1.0% |
+| EV / CY 2024 EBITDA Post Bonus | 10.0x | 3.5x |
+| EV / CY 2025 EBITDA Post Bonus | 9.0x | 2.7x |
+
+The Directors and management have considered and assessed possible changes to other key assumptions and have not identified any instances that could cause the carrying amount of the CGU to exceed its recoverable amount. Based on the recoverable amount, using the fair value model, no impairment was required at 30th June 2025.
+
+### 14. OTHER FINANCIAL ASSETS (NON-CURRENT)
+
+**Group**
+| | **30th June 2025** | | | **30th June 2024** | | |
+|:---|---:|---:|---:|---:|---:|---:|
+| | **Unlisted investments**<br>$’000 | **Listed investments**<br>$’000 | **Total**<br>$’000 | **Unlisted investments**<br>$’000 | **Listed investments**<br>$’000 | **Total**<br>$’000 |
+| **At start of period** | 50 | 5,700 | 5,750 | 2,431 | 7,589 | 10,020 |
+| **Additions** | – | 2,789 | 2,789 | – | 4,594 | 4,594 |
+| **Disposals** | (1) | (2,637) | (2,638) | (2,537) | (7,091) | (9,628) |
+| **Fair value gains** | 11 | 594 | 605 | 156 | 608 | 764 |
+| **At close of period** | 60 | 6,446 | 6,506 | 50 | 5,700 | 5,750 |
+
+<br>
+
+**Company**
+| | **30th June 2025** | | | **30th June 2024** | | |
+|:---|---:|---:|---:|---:|---:|---:|
+| | **Unlisted investments**<br>$’000 | **Investment in subsidiary undertakings**<br>$’000 | **Total**<br>$’000 | **Unlisted investments**<br>$’000 | **Investment in subsidiary undertakings**<br>$’000 | **Total**<br>$’000 |
+| **At start of period** | 50 | 134,233 | 134,283 | 2,431 | 136,719 | 139,150 |
+| **Additions** | – | (40) | (40) | – | 50 | 50 |
+| **Disposals** | (1) | (50) | (51) | (2,537) | | |
+
+### Investments and Subsidiary Undertakings
+
+| | **Group** | | | **Company** | |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| | **Investments<br>$’000** | **Undertakings<br>$’000** | **Total<br>$’000** | **Investments<br>$’000** | **Undertakings<br>$’000** | **Total<br>$’000** |
+| **At start of period** | 50 | 134,233 | 134,283 | 2,431 | 136,719 | 139,150 |
+| **Additions** | – | (40) | (40) | – | 50 | 50 |
+| **Disposals** | (1) | (50) | (51) | (2,537) | (2,536) | (5,073) |
+| **Fair value gains** | 11 | – | 11 | 156 | – | 156 |
+| **At close of period** | 60 | 134,143 | 134,203 | 50 | 134,233 | 134,283 |
+
+The additions and disposals in investments in subsidiary undertakings include the allocation of share-based payments from the Company to its subsidiaries under IFRS 2 Share-based payments. All Group companies are listed in note 1.5.
+
+---
+
+### 15. DEFERRED TAX ASSET
+
+#### Group
+
+| | **Share-based payments<br>$’000** | **Other<br>$’000** | **Total<br>$’000** |
+| :--- | :--- | :--- | :--- |
+| **At 30th June 2023** | 493 | 669 | 1,162 |
+| Credited to income statement | 23 | 724 | 747 |
+| Charged to equity | (30) | – | (30) |
+| **At 30th June 2024** | **486** | **1,393** | **1,879** |
+| Charged to income statement | (48) | (118) | (166) |
+| Charged to equity | (4) | – | (4) |
+| Currency translation to income statement | – | 28 | 28 |
+| **At 30th June 2025** | **434** | **1,303** | **1,737** |
+
+> NOTES TO THE FINANCIAL STATEMENTS CONTINUED
+>
+> *116 City of London Investment Group PLC Annual Report 2024/2025*
+>
+> ---
+> *Financial statements*
+>
+> *City of London Investment Group PLC Annual Report 2024/2025 117*
+>
+> ---
+> *Strategic report Overview Shareholder information Governance Financial statements*
+
+---
+
+### 15. DEFERRED TAX ASSET CONTINUED
+
+#### Company
+
+| | **Share-based payments<br>$’000** | **Other<br>$’000** | **Total<br>$’000** |
+| :--- | :--- | :--- | :--- |
+| **At 30th June 2023** | 7 | 325 | 332 |
+| Credited/(charged) to income statement | 1 | (14) | (13) |
+| Charged to equity | (6) | – | (6) |
+| **At 30th June 2024** | **2** | **311** | **313** |
+| Charged to income statement | (2) | (50) | (52) |
+| Currency translation to income statement | – | 26 | 26 |
+| **At 30th June 2025** | **–** | **287** | **287** |
+
+---
+
+### 16. TRADE AND OTHER RECEIVABLES
+
+| | **Group** | | **Company** | |
+| :--- | :--- | :--- | :--- | :--- |
+| | **30th June 2025<br>$’000** | **30th June 2024<br>$’000** | **30th June 2025<br>$’000** | **30th June 2024<br>$’000** |
+| Trade receivables | 385 | 310 | – | – |
+| Accrued income* | 6,477 | 6,131 | – | – |
+| Amounts owed by Group undertakings | – | – | 6,046 | 3,102 |
+| Other receivables | 277 | 246 | 125 | 148 |
+| Prepayments | 1,716 | 1,693 | 403 | 404 |
+| | **8,855** | **8,380** | **6,574** | **3,654** |
+
+\* Accrued income consists of unbilled fee income at the year-end.
+
+---
+
+### 17. CASH AND CASH EQUIVALENTS
+
+| | **Group** | | **Company** | |
+| :--- | :--- | :--- | :--- | :--- |
+| | **30th June 2025<br>$’000** | **30th June 2024<br>$’000** | **30th June 2025<br>$’000** | **30th June 2024<br>$’000** |
+| Cash held with banks | 2,059 | 1,689 | 287 | 140 |
+| Short-term notice deposits | – | 1,288 | – | – |
+| Short term treasuries/money market funds | 33,408 | 30,761 | 16,263 | 20,241 |
+| Cash held by consolidated entities | 25 | – | – | – |
+| | **35,492** | **33,738** | **16,550** | **20,381** |
+
+---
+
+### 18. TRADE AND OTHER PAYABLES
+
+| | **Group** | | **Company** | |
+| :--- | :--- | :--- | :--- | :--- |
+| | **30th June 2025<br>$’000** | **30th June 2024<br>$’000** | **30th June 2025<br>$’000** | **30th June 2024<br>$’000** |
+| Trade payables | 37 | 2 | 1 | – |
+| Sundry payables | 205 | 129 | 6 | 5 |
+| Amounts owed to Group undertakings | – | – | 954 | 1,803 |
+| Other taxation and social security | 201 | 196 | 180 | 180 |
+| Accruals and deferred income* | 9,865 | 10,105 | 3,320 | 3,531 |
+| | **10,308** | **10,432** | **4,461** | **5,519** |
+
+\* Accruals and deferred income mainly consists of profit-share payable, employees waived bonus and other accruals at the year-end.
+
+---
+
+### 19. LEASE LIABILITIES AND COMMITMENTS
+
+#### a) Lease liabilities
+
+| | **Group** | | **Company** | |
+| :--- | :--- | :--- | :--- | :--- |
+| | **30th June 2025<br>$’000** | **30th June 2024<br>$’000** | **30th June 2025<br>$’000** | **30th June 2024<br>$’000** |
+| **Lease liabilities** | | | | |
+| Current | 585 | 526 | 318 | 284 |
+| Non-current | 4,705 | 5,207 | 725 | 964 |
+| | **5,290** | **5,733** | **1,043** | **1,248** |
+
+#### b) Lease maturities
+
+| | **Group** | | **Company** | |
+| :--- | :--- | :--- | :--- | :--- |
+| | **Present value of minimum lease payments<br>$’000** | **Undiscounted minimum lease payments<br>$’000** | **Present value of minimum lease payments<br>$’000** | **Undiscounted minimum lease payments<br>$’000** |
+| Within one year | 585 | 954 | 318 | 365 |
+| In the second to fifth year inclusive | 1,900 | 2,957 | 725 | 664 |
+| After five years | 2,805 | 3,784 | – | – |
+| | **5,290** | **7,695** | **1,043** | **1,029** |
+
+The total cash outflow in respect of lease liabilities for the period to 30th June 2025 was $926k (2024: $588k).
+
+#### c) Liabilities from financing activities
+
+| | **Group<br>$’000** | **Company<br>$’000** |
+| :--- | :--- | :--- |
+| **Lease liabilities as at 30th June 2023** | **2,749** | **1,301** |
+| Cash flows | (231) | (48) |
+| New and modified leases | 3,224 | – |
+| Currency translations | (9) | (5) |
+| **Lease liabilities as at 30th June 2024** | **5,733** | **1,248** |
+| Cash flows | (539) | (295) |
+| Currency translations | 96 | 90 |
+| **Lease liabilities as at 30th June 2025** | **5,290** | **1,043** |
+
+> NOTES TO THE FINANCIAL STATEMENTS CONTINUED
+>
+> *118 City of London Investment Group PLC Annual Report 2024/2025*
+>
+> ---
+> *Financial statements*
+>
+> *City of London*
+
+90 Lease liabilities as at 30th June 2025 5,290 1,043
+
+---
+
+### NOTES TO THE FINANCIAL STATEMENTS CONTINUED
+
+| 118 | City of London Investment Group PLC Annual Report 2024/2025 | Financial statements |
+| :-- | :--- | :--- |
+| **Financial statements** | **City of London Investment Group PLC Annual Report 2024/2025** | **119** |
+| Strategic report | Overview | Shareholder information |
+| Governance | Financial statements | |
+
+---
+
+### 20. DEFERRED TAX LIABILITY
+
+**Group**
+
+| | **Right-of-use assets** | **Intangible assets** | **Other financial assets** | **Total** |
+| :--- | :--- | :--- | :--- | :--- |
+| | **$’000** | **$’000** | **$’000** | **$’000** |
+| **At 30th June 2023** | 633 | 9,206 | (50) | 9,789 |
+| Credited to income statement | 2 | (1,343) | 106 | (1,235) |
+| Other movements | 608 | – | – | 608 |
+| **At 30th June 2024** | **1,243** | **7,863** | **56** | **9,162** |
+| Credited to income statement | (156) | (1,344) | 135 | (1,365) |
+| Currency translation to income statement | 24 | – | – | 24 |
+| **At 30th June 2025** | **1,111** | **6,519** | **191** | **7,821** |
+
+**Company**
+
+| | **Right-of-use assets** | **Intangible assets** | **Other financial assets** | **Total** |
+| :--- | :--- | :--- | :--- | :--- |
+| | **$’000** | **$’000** | **$’000** | **$’000** |
+| **At 30th June 2023** | 307 | – | 4 | 311 |
+| Debited to income statement | 2 | – | – | 2 |
+| Other movements | (57) | – | – | (57) |
+| **At 30th June 2024** | **252** | **–** | **4** | **256** |
+| Credited to income statement | (62) | – | – | (62) |
+| Currency translation to income statement | 22 | – | – | 22 |
+| **At 30th June 2025** | **212** | **–** | **4** | **216** |
+
+### 21. SHARE CAPITAL AND MERGER RELIEF RESERVE
+
+| **Group and Company** | **Share capital** | **Merger relief reserve** |
+| :--- | :--- | :--- |
+| | **$’000** | **$’000** |
+| At start and end of period 50,679,095 ordinary shares of 1p each | 644 | 128,984 |
+
+### 22. RESERVES
+
+*   **Share premium account** – used to record the issue of share capital at a premium to nominal value.
+*   **Merger relief reserve** – created on the business combination.
+*   **Investments in own shares** – balance with trustees in relation to employee benefit schemes.
+*   **Share option reserve** – provision for outstanding options in relation to employee share option scheme.
+*   **EIP share reserve** – provision for Company contribution to EIP employee benefit scheme.
+*   **Foreign currency translation reserve** – impact of the change in presentational and functional currency.
+*   **Capital redemption reserve** – created on the cancellation of share capital and reflects the value of share capital redeemed by the Company.
+*   **Retained earnings** – includes all current and prior year retained profits and losses.
+
+### 23. DIVIDEND
+
+| | **30th June 2025** | **30th June 2024** |
+| :--- | :--- | :--- |
+| | **$’000** | **$’000** |
+| **Dividends paid:** | | |
+| Interim dividend of 11p per share (2024: 11p) | 7,052 | 6,840 |
+| 30th June 2024 of 22p per share (2023: 22p) | 13,866 | 13,049 |
+| | **20,918** | **19,889** |
+
+A final dividend of 22p per share (gross amount payable $15,310k; net amount payable $14,782k\*) has been proposed, payable on 6th November 2025, subject to shareholder approval, to shareholders who are on the register of members on 26th September 2025.
+
+\*Difference between gross and net amounts is due to shares held at EBT that do not receive a dividend.
+
+### 24. SHARE-BASED PAYMENTS
+
+**(a)** The estimated fair value of options which fall under IFRS 2, and the inputs used in the Black-Scholes model to calculate those values at fair value, are as follows:
+
+| Date of grant | Expiry date | Expected life (yrs) | Risk-free rate | Share price at grant (£) | Exercise price (£) | Volatility | Dividend yield | Estimated Fair value (£) | Number originally granted |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 09/01/2025 | 09/01/2035 | 6.5 | 4.5% | 3.94 | 3.99 | 37.51% | 8.38% | 0.68 | 20,000 |
+
+The expected share price volatility is based on historical volatility over the past 6.5 years. The expected life of the options has been assumed to be 6.5 years based upon the empirical evidence available. The risk-free rate has been assumed to be represented by the yield to maturity at the date of grant of a UK Gilt Strip, with term to maturity equal to the expected life of the option.
+
+**(b)** All share options granted are equity settled. The number and weighted average exercise price of share options for each of the following groups is as follows:
+
+| | **Year to 30th June 2025** | | **Year to 30th June 2024** | |
+| :--- | :--- | :--- | :--- | :--- |
+| | **Number** | **Weighted average exercise price £** | **Number** | **Weighted average exercise price £** |
+| Outstanding at the beginning of the period | 238,500 | 5.07 | 290,900 | 4.15 |
+| Granted during the period | 20,000 | 3.99 | – | – |
+| Forfeited during the period | 35,500 | 3.78 | 5,000 | 5.04 |
+| Exercised during the period | 59,500 | 3.52 | 47,400 | 2.55 |
+| Outstanding at the end of the period | | | | |
+
+| | **Number** | **Weighted avg. exercise price (£)** | **Number** | **Weighted avg. exercise price (£)** |
+| :--- | :--- | :--- | :--- | :--- |
+| | 290,900 | 5.07 | | 4.15 |
+| Granted during the period | 20,000 | 3.99 | – | – |
+| Forfeited during the period | 35,500 | 3.78 | 5,000 | 5.04 |
+| Exercised during the period | 59,500 | 3.52 | 47,400 | 2.55 |
+| **Outstanding at the end of the period** | **163,500** | **4.88** | **238,500** | **5.07** |
+| **Exercisable at the end of the period** | **143,500** | **5.01** | **220,000** | **4.43** |
+
+The weighted average share price at the date of exercise for share options exercised during the period was 3.74 3.11
+
+The total share-based payment for the period is a credit of $17k (2024: charge of $35k).
+
+For outstanding share options the exercise price ranged between £3.99 and £5.04 (2024: between £3.52 and £5.04), and their weighted average contractual life was 6.3 years (2024: 4.7 years).
+
+---
+NOTES TO THE FINANCIAL STATEMENTS CONTINUED 120 City of London Investment Group PLC Annual Report 2024/2025
+---
+Financial statements City of London Investment Group PLC Annual Report 2024/2025 121
+---
+Strategic reportOverview Shareholder informationGovernance Financial statements
+---
+
+## 24. SHARE-BASED PAYMENTS CONTINUED
+
+(c) The Group introduced an Employee Incentive Plan (EIP) in 2016/17 which is open to employees of all Group companies and Executive Directors, details of the EIP can be found in the Directors’ Remuneration Report. Awards are made to participating employees over shares under the EIP where they have duly waived an element of their annual profit-share before the required waiver date. Awards under the EIP are made up of two elements: Deferred Shares and Bonus Shares. The Deferred Shares represent the waived profit-share and the Bonus Shares represent the additional award made by the Company as a reward for participating in the EIP. The Deferred Shares are treated as cash settled and the full cost is recognised in the income statement in the year of service. The Bonus Shares are treated as equity settled and as such their estimated fair value is spread over the period from the time the employee elects to participate, to when the award vests (i.e. no longer forfeitable). This will be re-calculated when the awards are granted and any amount under or over the estimated value will be recognised through the income statement at that point in time. The estimated fair value of the Bonus Share awards is based on the cash equivalent at the time of award.
+
+| | Vesting date | Estimated charge £’000s | Actual charge £’000s | 2020/21 £’000s | 2021/22 £’000s | 2022/23 £’000s | 2023/24 £’000s | 2024/25 £’000s | 2025/26 £’000s | 2026/27 £’000s | 2027/28 £’000s | 2028/29 £’000s | Total £’000s |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Awards granted October 2021** | | | | | | | | | | | | | |
+| Bonus Shares tranche 1 | Oct-22 | 289 | 281 | 88 | 154 | 39 | – | – | – | – | – | – | 2 8 1 |
+| Bonus Shares tranche 2 | Oct-23 | 289 | 281 | 88 | 81 | 85 | 27 | – | – | – | – | – | 2 8 1 |
+| Bonus Shares tranche 3 | Oct-24 | 289 | 281 | 88 | 41 | 65 | 66 | 21 | – | – | – | – | 2 8 1 |
+| Bonus Shares tranche 4 | Oct-25 | 33 | 32 | 8 | 4 | 6 | 6 | 6 | 2 | – | – | – | 3 2 |
+| Bonus Shares tranche 5 | Oct-26 | 33 | 32 | 9 | 2 | 8 | 4 | 4 | 4 | 1 | – | – | 3 2 |
+| | | **933** | **907** | **281** | **282** | **203** | **103** | **31** | **6** | **1** | **–** | **–** | **907** |
+| **Awards granted October 2022** | | | | | | | | | | | | | |
+| Bonus Shares tranche 1 | Oct-23 | 360 | 360 | – | 112 | 197 | 51 | – | – | – | – | – | 3 6 0 |
+| Bonus Shares tranche 2 | Oct-24 | 360 | 361 | – | 113 | 105 | 108 | 35 | – | – | – | – | 3 6 1 |
+| Bonus Shares tranche 3 | Oct-25 | 360 | 361 | – | 111 | 55 | 85 | 83 | 27 | – | – | – | 3 6 1 |
+| Bonus Shares tranche 4 | Oct-26 | 52 | 52 | – | 13 | 6 | 10 | 10 | 10 | 3 | – | – | 52 |
+| Bonus Shares tranche 5 | Oct-27 | 52 | 52 | – | 14 | 3 | 8 | 8 | 8 | 8 | 3 | – | 5 2 |
+| | | **1,184** | **1,186** | **–** | **363** | **366** | **262** | **136** | **45** | **11** | **3** | **–** | **1,186** |
+| **Awards granted October 2023** | | | | | | | | | | | | | |
+| Bonus Shares tranche 1 | Oct-24 | 338 | 313 | – | – | 108 | 162 | 43 | – | – | – | – | 3 1 3 |
+| Bonus Shares tranche 2 | Oct-25 | 338 | 313 | – | – | 108 | 80 | 93 | 32 | – | – | – | 3 1 3 |
+| Bonus Shares tranche 3 | Oct-26 | 338 | 313 | – | – | 108 | 37 | 73 | 72 | 23 | – | – | 313 |
+| Bonus Shares tranche 4 | Oct-27 | 5 | 4 | – | – | 1 | 1 | 1 | – | 1 | – | – | 4 |
+| Bonus Shares tranche 5 | Oct-28 | 4 | 4 | – | – | 1 | – | 1 | – | – | 1 | 1 | 4 |
+| | | **1,023** | **947** | **–** | **–** | **326** | **280** | **211** | **104** | **24** | **1** | **1** | **947** |
+| **Awards granted October 2024** | | | | | | | | | | | | | |
+| Bonus Shares tranche 1 | Oct-25 | 188 | 187 | – | – | – | 60 | 101 | 26 | – | – | – | 1 8 7 |
+| Bonus Shares tranche 2 | Oct-26 | 188 | 187 | – | – | – | 60 | 52 | 56 | 19 | – | – | 187 |
+| Bonus Shares tranche 3 | Oct-27 | 188 | 188 | – | – | – | 60 | 27 | 44 | 43 | 14 | – | 188 |
+| | | **564** | **562** | **–** | **–** | **–** | **180** | **180** | **126** | **62** | **14** | **–** | **562** |
+| **Awards expected to be granted October 2025** | | | | | | | | | | | | | |
+| Bonus Shares tranche 1 | Oct-26 | 193 | – | – | – | – | – | 83 | 83 | 27 | – | – | 193 |
+
+| | 3 Oct-27 | 188 | 188 | – | – | – | 60 | 27 | 44 | 43 | 14 | – | 188 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| | | 564 | 562 | – | – | – | 180 | 180 | 126 | 62 | 14 | – | 562 |
+| **Awards expected to be granted October 2025** | | | | | | | | | | | | | |
+| Bonus Shares tranche 1 | Oct-26 | 193 | – | – | – | – | – | 83 | 83 | 27 | – | – | 193 |
+| Bonus Shares tranche 2 | Oct-27 | 193 | – | – | – | – | – | 58 | 58 | 58 | 19 | – | 193 |
+| Bonus Shares tranche 3 | Oct-28 | 192 | – | – | – | – | – | 44 | 44 | 45 | 44 | 15 | 192 |
+| | | 578 | – | – | – | – | – | 185 | 185 | 130 | 63 | 15 | 578 |
+| **Total share-based payment charge** | | **281** | **645** | **895** | **825** | **743** | **466** | **228** | **81** | **16** | | | **4,180** |
+
+*Note: The amount of the EIP charge is stated in sterling, as at the point of vesting the sterling amount charged will be used to offset the share awards.*
+
+### 25. RELATED PARTY TRANSACTIONS
+In the ordinary course of business, the Company and its subsidiary undertakings carry out transactions with related parties as defined under IAS 24 Related Party Disclosures. Material transactions are set out below.
+
+**(i) Transactions with key management personnel**
+Key management personnel are defined as Directors (both Executive and Non-Executive) of City of London Investment Group PLC.
+
+(a) Details of compensation paid to the Directors as well as their shareholdings in the Group and dividends paid are provided in the Remuneration report on pages 64, 72 and 73 and in note 4.
+
+(b) One of the Group’s subsidiaries manages funds for some of its key management personnel, for which it receives a fee. All transactions between key management and their close family members and the Group’s subsidiary are on terms that are available to all employees of that Company. The amount received in fees during the year was $12k (2024: $7k). There were no fees outstanding as at the year-end.
+
+(c) A close member of a key management’s personnel family provided professional services to the Group. The amount paid during the period for these services were $0.4k (2024: $43k). The amount outstanding at the year-end was nil (2024: $11k).
+
+**(ii) Person with significant influence**
+One of the Group’s subsidiaries manages funds for a person with significant influence based on his shareholding in the Group. The amount of fees received by the Group during the period was $92k (2024: $81k).
+
+**(iii) Summary of transactions and balances**
+During the period, the Company received from its subsidiaries $12,245k (2024: $13,308k) in respect of management service charges and dividends of $20,800k (2024: $19,150k). Amounts outstanding between the Company and its subsidiaries as at 30th June 2025 are given in notes 16 and 18.
+
+### 26. FINANCIAL INSTRUMENTS
+The Group’s financial assets include cash and cash equivalents, investments and other receivables. Its financial liabilities include accruals, lease liabilities and other payables. The fair value of the Group’s financial assets and liabilities is materially the same as the book value.
+
+**(i) Financial instruments by category**
+The tables below show the Group and Company’s financial assets and liabilities as classified under IFRS 9 Financial Instruments:
+
+**Group**
+| 30th June 2025 | Financial assets at amortised cost | Assets at fair value through profit or loss | Total Assets as per statement of financial position |
+| :--- | :--- | :--- | :--- |
+| | **$’000** | **$’000** | **$’000** |
+| Other non-current financial assets | – | 6,506 | 6,506 |
+| Trade and other receivables | 7,139 | – | 7,139 |
+| Cash and cash equivalents | 35,492 | _ | 35,492 |
+| **Total** | **42,631** | **6,506** | **49,137** |
+
+---
+**NOTES TO THE FINANCIAL STATEMENTS CONTINUED**
+*122 City of London Investment Group PLC Annual Report 2024/2025*
+*Financial statements*
+---
+*City of London Investment Group PLC Annual Report 2024/2025 123*
+*Strategic report Overview Shareholder information Governance Financial statements*
+---
+
+### 26. FINANCIAL INSTRUMENTS CONTINUED
+
+| | Financial liabilities at amortised cost | Liabilities at fair value through profit or loss | Total Liabilities as per statement of financial position |
+| :--- | :--- | :--- | :--- |
+| | **$’000** | **$’000** | **$’000** |
+| Trade and other payables | 10,107 | – | 10,107 |
+| Current lease liabilities | 585 | – | 585 |
+| Non-current lease liabilities | 4,705 | – | 4,705 |
+| **Total** | **15,397** | **–** | **15,397** |
+
+| 30th June 2024 | Financial assets at amortised cost | Assets at fair value through profit or loss | Total Assets as per statement of financial position |
+| :--- | :--- | :--- | :--- |
+| | **$’000** | **$’000** | **$’000** |
+| Other | | | |
+
+| Assets as per statement of financial position | Financial assets at amortised cost | Assets at fair value through profit or loss | Total |
+| :--- | :--- | :--- | :--- |
+| **30th June 2024** | **$’000** | **$’000** | **$’000** |
+| Other non-current financial assets | – | 5,750 | 5,750 |
+| Trade and other receivables | 6,687 | – | 6,687 |
+| Cash and cash equivalents | 33,738 | _ | 33,738 |
+| **Total** | **40,425** | **5,750** | **46,175** |
+
+<br>
+
+| Liabilities as per statement of financial position | Financial liabilities at amortised cost | Liabilities at fair value through profit or loss | Total |
+| :--- | :--- | :--- | :--- |
+| | **$’000** | **$’000** | **$’000** |
+| Trade and other payables | 10,236 | – | 10,236 |
+| Current lease liabilities | 526 | – | 526 |
+| Non-current lease liabilities | 5,207 | – | 5,207 |
+| **Total** | **15,969** | **–** | **15,969** |
+
+<br>
+
+**Company**
+| Assets as per statement of financial position | Investment in subsidiaries | Financial assets at amortised cost | Assets at fair value through profit or loss | Total |
+| :--- | :--- | :--- | :--- | :--- |
+| **30th June 2025** | **$’000** | **$’000** | **$’000** | **$’000** |
+| Other non-current financial assets | 131,643 | 2,500 | 60 | 134,203 |
+| Trade and other receivables | – | 6,171 | – | 6,171 |
+| Cash and cash equivalents | – | 16,550 | – | 16,550 |
+| **Total** | **131,643** | **25,221** | **60** | **156,924** |
+
+### NOTES TO THE FINANCIAL STATEMENTS CONTINUED
+#### 26. FINANCIAL INSTRUMENTS CONTINUED
+
+| Liabilities as per statement of financial position | Financial liabilities at amortised cost | Liabilities at fair value through profit or loss | Total |
+| :--- | :--- | :--- | :--- |
+| | **$’000** | **$’000** | **$’000** |
+| Trade and other payables | 4,281 | – | 4,281 |
+| Current lease liabilities | 318 | – | 318 |
+| Non-current lease liabilities | 725 | – | 725 |
+| **Total** | **5,324** | **–** | **5,324** |
+
+<br>
+
+| Assets as per statement of financial position | Investment in subsidiaries | Financial assets at amortised cost | Assets at fair value through profit or loss | Total |
+| :--- | :--- | :--- | :--- | :--- |
+| **30th June 2024** | **$’000** | **$’000** | **$’000** | **$’000** |
+| Other non-current financial assets | 131,733 | 2,500 | 50 | 134,283 |
+| Trade and other receivables | – | 3,250 | – | 3,250 |
+| Cash and cash equivalents | – | 20,381 | – | 20,381 |
+| **Total** | **131,733** | **26,131** | **50** | **157,914** |
+
+<br>
+
+| Liabilities as per statement of financial position | Financial liabilities at amortised cost | Liabilities at fair value through profit or loss | Total |
+| :--- | :--- | :--- | :--- |
+| | **$’000** | **$’000** | **$’000** |
+| Trade and other payables | 5,339 | – | 5,339 |
+| Current lease liabilities | 284 | – | 284 |
+| Non-current lease liabilities | 964 | – | 964 |
+| **Total** | **6,587** | **–** | **6,587** |
+
+**(ii) Fair value measurements recognised in the statement of financial position**
+
+The following table provides an analysis of financial instruments that are measured subsequent to initial recognition at fair value, grouped into levels 1 to 3 based on the degree to which the fair value is observable.
+*   Level 1: fair value derived from quoted prices (unadjusted) in active markets for identical assets and liabilities.
+*   Level 2: fair value derived from inputs other than quoted prices included within level 1 that are observable for the assets or liability, either directly (i.e. as prices) or indirectly (i.e. derived from prices).
+*   Level 3: fair value derived from valuation techniques that include inputs for the asset or liability that are not based on observable market data.
+
+---
+124 City of London Investment Group PLC Annual Report 2024/2025 Financial statements
+City of London Investment Group PLC Annual Report 2024/2025 125
+Strategic reportOverview Shareholder informationGovernance Financial statements
+---
+
+#### 26. FINANCIAL INSTRUMENTS CONTINUED
+The fair values of the financial instruments are determined as follows:
+*   Investments for hedging purposes are valued using the quoted bid price and shown under level 1.
+*   Investments in own funds are determined with reference to the net asset value (NAV) of the fund. Where the NAV is a quoted price the fair value is shown under level 1, where the NAV is not a quoted price the fair value is shown under level 2.
+*   Forward currency trades are valued using the forward exchange bid rates and are shown under level 2.
+*   Unlisted equity securities are valued using the net assets of the underlying companies and are shown under level 3.
+
+The level within which the financial asset or liability is classified is determined based on the lowest level of significant input to the fair value measurement.
+
+**Group**
+| | Level 1 | Level 2 | Level 3 | Total |
+| :--- | :--- | :--- | :--- | :--- |
+| **30th June 2025** | **$’000** | | | |
+
+the financial asset or liability is classified is determined based on the lowest level of significant input to the fair value measurement.
+
+**Group**
+
+| | Level 1 | Level 2 | Level 3 | Total |
+| :--- | :--- | :--- | :--- | :--- |
+| **30th June 2025** | **$’000** | **$’000** | **$’000** | **$’000** |
+| **Financial assets at fair value through profit or loss** | | | | |
+| Investment in other non-current financial assets | 6,318 | 188 | – | 6,506 |
+| **Total** | **6,318** | **188** | **–** | **6,506** |
+
+<br>
+
+| | Level 1 | Level 2 | Level 3 | Total |
+| :--- | :--- | :--- | :--- | :--- |
+| **30th June 2024** | **$’000** | **$’000** | **$’000** | **$’000** |
+| **Financial assets at fair value through profit or loss** | | | | |
+| Investment in other non-current financial assets | 5,700 | 50 | – | 5,750 |
+| **Total** | **5,700** | **50** | **–** | **5,750** |
+
+<br>
+
+**Company**
+
+| | Level 1 | Level 2 | Level 3 | Total |
+| :--- | :--- | :--- | :--- | :--- |
+| **30th June 2025** | **$’000** | **$’000** | **$’000** | **$’000** |
+| Investment in other non-current financial assets | – | 60 | – | 60 |
+| **Total** | **–** | **6 0** | **–** | **6 0** |
+
+<br>
+
+| | Level 1 | Level 2 | Level 3 | Total |
+| :--- | :--- | :--- | :--- | :--- |
+| **30th June 2024** | **$’000** | **$’000** | **$’000** | **$’000** |
+| Investment in other non-current financial assets | – | 50 | – | 50 |
+| **Total** | **–** | **50** | **–** | **50** |
+
+There were no financial liabilities at fair value at any of the reported periods.
+
+## 26. FINANCIAL INSTRUMENTS CONTINUED
+
+**Level 3**
+
+Level 3 assets as at 30th June 2025 are nil (2024: nil). Where there is an impairment in the investment in own funds, the loss is reported in the income statement. No impairment was recognised during the period or the preceding year.
+
+### (iii) Foreign currency risk
+
+Almost all of the Group’s revenues, and a significant part of its expenses, are denominated in US dollars. However, expenses related to UK and Singapore offices are denominated in currencies other than US dollars. As a result, expenses and balances arise which give rise to currency exposure. As at 30th June 2025, significant net asset balances included within the Group’s net asset balances were £3,183k (2024: net liabilities of £413k) denominated in sterling, C$543k (2024: C$520k) in Canadian dollars and SGD1,680k (2024: SGD1,676k) in Singapore dollars. Had the US dollar strengthened or weakened against these currencies as at 30th June 2025 by 10%, with all other variables held constant, the Group’s net assets and profit before tax would have increased or decreased (respectively) by $609k (2024: $109k). 10% represents management’s assessment of the reasonably possible change in foreign exchange rate.
+
+### (iv) Market risk
+
+Changes in market prices, such as foreign exchange rates and equity prices will affect the Group’s income and the value of its investments. Where the Group holds investments in its own funds categorised as unlisted investments, the market price risk is managed through diversification of the portfolio. A 10% increase or decrease in the price level of the funds’ relevant benchmarks, with all other variables held constant, would result in an increase or decrease of approximately nil (2024: nil) in the value of the investments and profit before tax.
+
+The Group’s Global Equity CEF funds has been consolidated as controlled entities, and therefore the securities held by the fund are reported in the consolidated statement of financial position under investments. At 30th June 2025, all those securities were listed on a recognised exchange. A 10% increase or decrease in the price level of the securities would result in a gain or loss respectively of approximately $0.3 million (2024: $0.3 million) to the Group.
+
+The Group is also exposed to market risk indirectly via its Funds under Management, from which its fee income is derived. To hedge against potential losses in fee income, the Group may look to invest in securities or derivatives that should increase in value in the event of a fall in the markets. The purchase and sale of these securities are subject to limits established by the Board and are monitored on a regular basis. The investment management and settlement functions are totally segregated. The profit from hedging recognised in the Group income statement for the period is nil (2024: £nil).
+
+## NOTES TO THE FINANCIAL STATEMENTS CONTINUED
+
+---
+
+126 City of London Investment Group PLC Annual Report 2024/2025 Financial statements
+<br>
+City of London Investment Group PLC Annual Report 2024/2025 127
+
+£nil).
+
+# NOTES TO THE FINANCIAL STATEMENTS CONTINUED
+
+> 126 City of London Investment Group PLC Annual Report 2024/2025 Financial statements
+
+> City of London Investment Group PLC Annual Report 2024/2025 127
+
+> Strategic report | Overview | Shareholder information | Governance | Financial statements
+
+---
+
+## 26. FINANCIAL INSTRUMENTS CONTINUED
+
+#### (v) Credit risk
+The majority of debtors relate to management fees due from funds and segregated account holders. As such, the Group is able to assess the credit risk of these debtors as minimal. For other debtors a credit evaluation is undertaken on a case by case basis. The Group has zero experience of bad or overdue debts. The majority of cash and cash equivalents held by the Group are with leading UK and US banks. The credit risk is managed by carrying out regular reviews of each institution’s credit rating and of their published financial position. Given their high credit ratings, management does not expect any counterparty to fail to meet its obligations.
+
+#### (vi) Liquidity risk
+The Group’s trade and other sundry payables are immaterial and thus the liquidity risk is minimal. In addition, the Group’s investments in funds that it manages can be liquidated immediately if required.
+
+#### (vii) Interest rate risk
+The Group has no borrowings, and therefore has no exposure to interest rate risk other than that which attaches to its interest earning cash and cash equivalents balances. The Group’s strategy is to maximise the amount of cash which is maintained in interest bearing accounts and short-term treasuries/money market funds, and to ensure that those accounts attract a competitive interest rate. At 30th June 2025, the Group held $35,492k (2024: $33,738k) in cash balances, of which $34,940k (2024: $33,245k) was held in bank accounts, short-term deposits and short-term treasuries/money market funds, which attract variable interest rates. The effect of a 100 basis points increase/decrease in interest rates on the Group’s net assets would not be material.
+
+#### (viii) Capital risk management
+The Group manages its capital to ensure that all entities within the Group are able to operate as going concerns and exceed any minimum externally imposed capital requirements. The capital of the Group and Company consists of equity attributable to the equity holders of the Parent Company, comprising issued share capital, share premium, retained earnings and other reserves as disclosed in the statement of changes in equity. The Group’s operating subsidiary company in the UK, City of London Investment Management Company Ltd is subject to the minimum capital requirements of the Financial Conduct Authority (FCA) in the UK. This subsidiary held surplus capital over its requirements throughout the period. The Group is required to undertake an Internal Capital and Risk Assessment, which is approved by the Board. The objective of this is to ensure that the Group has adequate capital to enable it to manage risks which are not adequately covered under the Pillar 1 requirements. This process includes stress testing for the effects of major risks, such as a significant market downturn, and includes an assessment of the Group’s ability to mitigate the risks.
+
+---
+
+### Contents
+
+-   Notice of Annual General Meeting – Notice of Annual General Meeting 129
+-   – Explanatory notes to the Notice of AGM 132
+-   – Further notes 136
+-   Appendix: Summary of principal terms of the City of London Investment Group PLC Long Term Incentive Plan (the “LTIP”) 139
+-   Company information 142
+
+# SHAREHOLDER INFORMATION
+
+> 128 City of London Investment Group PLC Annual Report 2024/2025
+
+> City of London Investment Group PLC Annual Report 2024/2025 129
+
+# NOTICE OF ANNUAL GENERAL MEETING
+
+NOTICE IS HEREBY GIVEN that the 2025 Annual General Meeting (AGM) of the Company will be held on 27th October 2025 at 77 Gracechurch Street, London EC3V 0AS at 11:30am to consider and, if thought appropriate, pass the following resolutions, all of which will be proposed as ordinary resolutions.
+
+### Voting
+
+In order to save paper we no
+
+Street, London EC3V 0AS at 11:30am to consider and, if thought appropriate, pass the following resolutions, all of which will be proposed as ordinary resolutions.
+
+### Voting
+
+In order to save paper we no longer post hard copy Proxy Forms, and encourage shareholders to vote electronically via the Investor Centre app or web browser at [https://uk.investorcentre.mpms.mufg.com/](https://uk.investorcentre.mpms.mufg.com/). CREST members may also use the CREST electronic proxy appointment service to submit their proxy appointment in respect of the AGM and if you are an institutional investor, you may also be able to appoint a proxy electronically via the Proxymity platform.
+
+Full details regarding voting can be found in the Notes to the Notice of the AGM on pages 132 to 135.
+
+**Please note that all Proxy Forms and appointments must be received by 11:30am on 23rd October 2025.**
+
+Voting on the business of the meeting will be conducted by way of a poll. The results of voting on the resolutions will be posted on the Company’s website as soon as practicable after the AGM.
+
+## Ordinary Resolutions
+
+1.  **Reports and Accounts**  
+    To receive the reports of the Directors’ and auditors and the audited accounts of the Company for the year ended 30th June 2025 (2025 Annual Report).
+
+2.  **Directors’ remuneration report**  
+    To approve the Directors’ Remuneration Report for the year ended 30th June 2025, set out on pages 64 to 73 of the Annual Report and Accounts for the year ended 30th June 2025.
+
+3.  **Directors’ remuneration Policy**  
+    To approve the Directors’ remuneration policy, as set out on pages 74 to 80 of the Directors’ remuneration report for the year ended 30th June 2025, which takes effect immediately after the end of the AGM.
+
+4.  **Dividend**  
+    To declare a final dividend of 22p per Ordinary Share of 1p each in the Company (Ordinary Share) for the year ended 30th June 2025, payable on 6th November 2025 to members on the register as at 26th September 2025.
+
+5.  **Directors**  
+    To re-elect Rian Dartnell as a Director.
+
+6.  To re-elect Peter Roth as a Director.
+
+7.  To re-elect Sarah Ing as a Director.
+
+8.  To elect Ben Stocks as a Director.
+
+9.  **Auditors**  
+    To re-appoint Grant Thornton UK LLP as auditors of the Company, to hold office from the conclusion of this AGM until the conclusion of the next AGM at which accounts are laid before the Company.
+
+10. To authorise the Audit & Risk Committee of the Company to fix the remuneration of the auditors.
+
+---
+Strategic report | Overview | Financial statements | Governance | Shareholder information | Other information
+---
+
+### NOTICE OF ANNUAL GENERAL MEETING CONTINUED
+
+11. **Directors’ authority to allot shares**  
+    To generally and unconditionally authorise the Directors, pursuant to and in accordance with Section 551 of the Companies Act 2006 (the 2006 Act), to exercise all the powers of the Company to allot shares or grant rights to subscribe for or to convert any security into shares in the Company:
+
+    (a) up to an aggregate nominal amount of £101,358 (10,135,819 ordinary shares at nominal price of £0.01 per share, 20% of the Company’s ordinary share capital in issue); and
+
+    (b) comprising equity securities (as defined in Section 560(1) of the 2006 Act) up to a further aggregate nominal amount of £101,358 (10,135,819 ordinary shares at nominal price of £0.01 per share, 20% of the Company’s ordinary share capital in issue) in connection with an offer by way of a rights issue;
+
+    such authorities to apply in substitution for all previous authorities pursuant to Section 551 of the 2006 Act and to expire at the end of the next Annual General Meeting or on 31st October 2026, whichever is the earlier, but in each case so that the Company may make offers and enter into agreements during the relevant period which would, or might, require shares to be allotted or rights to subscribe for or to convert any security into shares to be granted after the authority ends.
+
+    For the purposes of this resolution, ‘rights issue’ means an offer to:
+
+    (i) ordinary shareholders in proportion (as nearly as may be practicable) to their existing holdings; and
+
+    (ii)
+
+authority ends. For the purposes of this resolution, ‘rights issue’ means an offer to: 
+(i) ordinary shareholders in proportion (as nearly as may be practicable) to their existing holdings; and 
+(ii) holders of other equity securities, if this is required by the rights of those securities or, if the Directors consider it necessary, as permitted by the rights of those securities, to subscribe for further securities by means of the issue of a renounceable letter (or other negotiable document) which may be traded for a period before payment for the securities is due, but subject in both cases to such exclusions or other arrangements as the Directors may deem necessary or expedient in relation to treasury shares, fractional entitlements, record dates or legal, regulatory or practical problems in, or under the laws of, any territory.
+
+### New Long Term Incentive Plan (LTIP)
+12. That the rules of the City of London Investment Group PLC Long Term Incentive Plan (LTIP), the principal terms of which are summarised in Appendix to this Notice of Annual General Meeting, produced in draft to this meeting and, for the purposes of identification, initialled by the Chair of the meeting, be and are hereby approved and the Directors be authorised to:
+    (a) make such modifications to the LTIP as they may consider appropriate to take account of the requirements of best practice and for the implementation of the LTIP and to adopt the LTIP as so modified and to do all such other acts and things as they may consider appropriate to implement the LTIP; and
+    (b) establish further plans based on the LTIP but modified to take account of local tax, exchange control or securities laws in overseas territories, provided that any shares made available under such further plans are treated as counting against the limits on individual or overall participation in the LTIP.
+
+### Employee benefit trust
+13. That the trustees of City of London Employee Benefit Trust (the EBT) be and are hereby authorised to hold ordinary shares in the capital of the Company from time to time, for and on behalf of the Employee Share Ownership Plan and Employee Incentive Plan, up to a maximum in aggregate equal to 10% of the issued Ordinary Share capital of the Company.
+
+## Special Resolutions
+
+### Disapplication of pre-emption rights
+14. That, if resolution 11 is passed, the Directors be authorised to allot equity securities (as defined in the 2006 Act) for cash under the authority given by that resolution and/or to sell ordinary shares held by the Company as treasury shares for cash as if section 561 of the 2006 Act did not apply to any such allotment or sale, such authority to be limited:
+    (a) to allotments for rights issues and other pre-emptive issues; and
+    (b) to the allotment of equity securities or sale of treasury shares (otherwise than under paragraph (a) above) up to a nominal amount of £50,679 (5,067,909 ordinary shares at nominal price of £0.01 per share, 10% of the Company’s ordinary share capital in issue):
+    
+    such authority to expire at the end of the next AGM of the Company or, if earlier, at the close of business on 31st October 2026 but, in each case, prior to its expiry the Company may make offers, and enter into agreements, which would, or might, require equity securities to be allotted (and treasury shares to be sold) after the authority expires and the Directors may allot equity securities (and sell treasury shares) under any such offer or agreement as if the authority had not expired.
+
+---
+*130 City of London Investment Group PLC Annual Report 2024/2025 Other information*
+ 
+*City of London Investment Group PLC Annual Report 2024/2025 131*
+---
+
+15. That, if resolution 11 is passed, the Directors be authorised, in addition to any authority granted under resolution 14, to allot equity securities (as defined in the 2006 Act) for cash under the authority given by that resolution and/or to sell ordinary shares held by the Company as treasury shares for cash, as if section 561 of the 2006 Act did not apply to
+
+the 2006 Act) for cash under the authority given by that resolution and/or to sell ordinary shares held by the Company as treasury shares for cash, as if section 561 of the 2006 Act did not apply to any such allotment or sale, such authority to be:
+(a) limited to the allotment of equity securities or sale of treasury shares up to a nominal amount of £50,679 (5,067,909 ordinary shares at nominal price of £0.01 per share, 10% of the Company’s ordinary share capital in issue); and
+(b) used only for the purposes of financing (or refinancing, if the authority is to be used within 12 months after the original transaction) a transaction which the Directors of the Company determine to be an acquisition or a specified capital investment of a kind contemplated by the Statement of Principles on Disapplying Pre-Emption Rights most recently published by the Pre-emption Group prior to the date of this Notice of AGM,
+
+such authority to expire at the end of the next AGM of the Company or, if earlier, at the close of business on 31st October 2026 but, in each case, prior to its expiry the Company may make offers, and enter into agreements, which would, or might, require equity securities to be allotted (and treasury shares to be sold) after the authority expires and the Directors may allot equity securities (and sell treasury shares) under any such offer or agreement as if the authority had not expired.
+
+**Authority to purchase own shares**
+
+16. To unconditionally and generally authorise the Company for the purpose of Section 701 of the 2006 Act to make market purchases (as defined in Section 693(4) of the 2006 Act) of ordinary shares, provided that:
+    (a) the maximum number of ordinary shares that may be purchased is 1,520,372 (3% of the Company’s ordinary share capital in issue);
+    (b) the minimum price that may be paid for each ordinary share is £0.01;
+    (c) the maximum price that may be paid for an ordinary share is an amount equal to the higher of (i) 105% of the average of the closing price of the Company’s ordinary shares, as derived from the London Stock Exchange Daily Official List for the five business days immediately preceding the day on which such ordinary share is contracted to be purchased, and (ii) an amount equal to the higher of the price of the last independent trade of an ordinary share and the highest current independent bid for an ordinary share as derived from the London Stock Exchange Trading System; and
+    (d) this authority shall expire at the conclusion of the Company’s next AGM or, if earlier, 31st October 2026 (except in relation to the purchase of ordinary shares, the contract for which was concluded before the expiry of such authority and which might be executed wholly or partly after such expiry), unless such authority is renewed prior to such time.
+
+By order of the Board
+**Prism Cosec Limited**
+Company Secretary
+15th September 2025
+
+Registered in England and Wales No. 2685257
+Registered Office: 77 Gracechurch Street, London EC3V 0AS
+
+---
+Strategic report | Overview | Financial statements | Governance | Shareholder information
+---
+
+# EXPLANATORY NOTES TO THE NOTICE OF AGM
+
+132 City of London Investment Group PLC Annual Report 2024/2025
+
+## Other information
+
+The notes on the following pages give an explanation of the proposed resolutions
+
+Resolutions 1 to 13 are proposed as ordinary resolutions. For each of these resolutions to be passed, more than half of the votes cast must be in favour of the resolution.
+
+Resolutions 14 to 16 are proposed as special resolutions. For each of these resolutions to be passed, at least three-quarters of the votes cast must be in favour of the resolution.
+
+### Resolution 1: Report and Accounts
+
+The first item of business is the receipt by the shareholders of the Directors’ report and the accounts of the Company for the year ended 30th June 2025. The Directors’ Report, the accounts, and the Report of the Company’s auditors on the accounts and on those parts of the Directors’ remuneration report that are capable of being audited, are
+
+2025. The Directors’ Report, the accounts, and the Report of the Company’s auditors on the accounts and on those parts of the Directors’ remuneration report that are capable of being audited, are contained within the 2025 Annual Report.
+
+## Resolution 2: Directors’ remuneration report
+Resolution 2 seeks shareholder approval of the Directors’ remuneration report for the year ended 30th June 2025, which is set out on pages 64 to 73 of the 2025 Annual Report. The Company’s auditors, Grant Thornton UK LLP, have audited those parts of the Directors’ remuneration report that are required to be audited and their report may be found on pages 86 to 95 of the 2025 Annual Report. The vote on this resolution is advisory in nature and Directors’ remuneration is not conditional on the passing of this resolution.
+
+## Resolution 3: Directors’ remuneration policy
+Resolution 3 seeks shareholder approval for the proposed new Directors’ remuneration policy, as required by the Companies Act 2026 (2026 Act). The Directors’ remuneration policy can be found on pages 74 to 80 of the 2025 Annual Report.
+
+Following a consultation exercise with major shareholders, the Remuneration Committee is seeking to change the current Directors’ remuneration policy as detailed on pages 74 to 80. This is a binding vote and, if approved will apply for a period of up to three years and a Directors’ remuneration policy will be put to shareholders for approval again no later than the 2028 AGM. The Directors’ remuneration policy was last approved by shareholders at the 2022 AGM. Further details of our approach to the review of the Directors' remuneration policy are set out on pages 74 to 80 of the 2025 Annual Report.
+
+## Resolution 4: Dividend
+Resolution 4 seeks approval for a final dividend of 22p per ordinary share for the year ended 30th June 2025 (Final Dividend). If approved by shareholders, the Final Dividend will be paid on 6th November 2025 to all shareholders on the register at the close of business on 26th September 2025.
+
+## Resolutions 5 to 8: Election and Re-election of Directors
+The Company’s Articles of Association (Articles) require all Directors to stand for election and re-election at each AGM. Therefore, and in line with provision 18 of the 2018 UK Corporate Governance Code, all Directors are submitting themselves for election or re-election by shareholders.
+
+The Board carries out a review of the independence of its Directors on an annual basis. In considering the independence of the Independent Non-Executive Directors proposed for re-appointment, the Board has taken into consideration the guidance provided by the 2018 UK Corporate Governance Code. Accordingly, the Board considers Rian Dartnell, Peter Roth, Sarah Ing and Ben Stocks to be independent (the Independent Directors).
+
+On 1st October 2020, the Company completed its merger with Karpus Management Inc. (KIM). Pursuant to the merger, the KIM stockholders received shares in the Company capable of being voted at meetings of the shareholders of the Company.
+
+Due to familial relationships, certain of the KIM stockholders are regarded as controlling shareholders and form part of a Controlling Shareholder Group holding, in aggregate, 19,145,215 shares, being 37.8% of the Company’s issued share capital, and consisting of: George W. Karpus, Karin Popham Anello, Katie Popham McCormick, William Popham, Alana Heahl, Nicholas Kuszlyk, Douglas Kuszlyk, Barbara Kuszlyk, Donald Heahl, Deborah Haehl, Alexandria Haehl, Dianna Kuszlyk and Rodd Riesenberger (the ‘Controlling Shareholder Group’).
+
+Under the UK Listing Rules, because the Controlling Shareholder Group together control in concert more than 30% of the voting rights of the Company (even though they have agreed to limit their voting rights as noted in note 22 of Further Notes to this Notice of AGM), the appointment or re-election of any Independent Director by shareholders must be approved by a majority vote of both:
+(i) the shareholders of the Company; and
+(ii) the
+
+Notes to this Notice of AGM), the appointment or re-election of any Independent Director by shareholders must be approved by a majority vote of both:
+
+*   (i) the shareholders of the Company; and
+*   (ii) the independent shareholders of the Company (that is the shareholders of the Company entitled to vote on the election of Directors who are not part of the Controlling Shareholder Group).
+
+---
+City of London Investment Group PLC Annual Report 2024/2025 133
+**Strategic report | Overview | Financial statements | Governance | Shareholder information**
+---
+
+**Resolutions 5 to 8** are therefore being proposed as ordinary resolutions which all shareholders may vote on, but in addition the Company will separately count the number of votes cast by independent shareholders in favour of the resolutions (as a proportion of the total votes of independent shareholders cast on the resolution) to determine whether the second threshold referred to in (ii) above has been met. The Company will announce the results of the resolutions on this basis as well as announcing the results of the ordinary resolutions of all shareholders.
+
+Under the UK Listing Rules, if a resolution to re-appoint an Independent Director is not approved by a majority vote of both the shareholders as a whole and the independent shareholders of the Company at the AGM, a further resolution may be put forward to be approved by the shareholders as a whole at a meeting which must be held more than 90 days after the date of the first vote but within 120 days of the first vote. Accordingly, if any of resolutions 5 to 8 are not approved by a majority vote of the Company’s independent shareholders at the AGM, the relevant Director(s) will be treated as having been re-appointed only for the period from the date of the AGM until the earlier of:
+
+*   (i) the close of any general meeting of the Company, convened for a date more than 90 days after the AGM but within 120 days of the AGM, to propose a further resolution to re-appoint him or her;
+*   (ii) the date that is 120 days after the AGM; and
+*   (iii) the date of any announcement by the Board that it does not intend to hold a second vote.
+
+In the event that the Director’s re-appointment is approved by a majority vote of all shareholders at a second meeting, the Director will then be re-appointed until the next AGM.
+
+The Company has received confirmation from each of the Independent Directors that, except as disclosed below, there is no existing or previous relationship, transaction or arrangement that the Independent Directors have or have had with the Company, its Directors, any controlling shareholder or any associate of a controlling shareholder.
+
+Biographical details of each Director seeking election or re-election, appear on page 46 of this document. The biographical details also set out each Independent Director’s experience. The Board considers, following a formal Board performance evaluation, that each Director seeking re-appointment continues to contribute effectively and to demonstrate commitment to his or her role. This consideration of effectiveness is based on, amongst other things, the business skills, industry experience, business model experiences and other contributions individuals may make (including diversity considerations), both as an individual and also in contributing to the balance of skills, knowledge and capability of the Board as a whole, as well as the commitment of time for Board and Committee meetings and other duties.
+
+As previously stated, each Independent Director’s independence was determined by reference to the relevant provisions of the 2018 UK Corporate Governance Code. The Board also considers that each of the Independent Directors is independent in character and judgement and that there are no relationships or circumstances which are likely to affect, or could appear to affect, their judgement.
+
+For the selection of Independent Directors, recruitment consultants are engaged to assist in conducting a thorough search to identify suitable candidates.
+
+or could appear to affect, their judgement. For the selection of Independent Directors, recruitment consultants are engaged to assist in conducting a thorough search to identify suitable candidates. The selection process involves, amongst other things, giving the recruitment consultants a detailed brief of the desired candidate profile against objective criteria and a rigorous process of interviews and assessments is then carried out. The Nomination Committee is responsible in each case for identifying and nominating, for the approval of the Board, candidates to fill Board vacancies.
+
+### Resolution 9: Re-appointment of auditors
+
+The auditors of a company must be appointed or re-appointed at each general meeting at which the accounts are laid. On the recommendation of the Audit & Risk Committee, the Board is proposing the re-appointment of Grant Thornton UK LLP as the Company’s auditors, until the conclusion of the next general meeting of the Company at which accounts are laid.
+
+### Resolution 10: Remuneration of auditors
+
+This resolution seeks shareholder consent for the Company’s Audit & Risk Committee to set the remuneration of the auditors.
+
+### Resolution 11: Directors’ authority to allot
+
+The purpose of this resolution is to renew the Directors’ power to allot shares.
+
+*   The authority in paragraph (a) will allow the Directors to allot new shares and grant rights to subscribe for, or convert other securities into, shares up to approximately 20% of the Company’s total issued ordinary share capital (exclusive of treasury shares) which, as at 14th September 2025, being the Latest Practicable Date prior to publication of this Notice of AGM (Latest Practicable Date), is equivalent to a nominal value of £101,358 (10,135,819 ordinary shares at nominal price of £0.01 per share).
+*   The authority in paragraph (b) of the resolution will allow the Directors to allot new shares and grant rights to subscribe for, or convert other securities into, shares only in connection with a rights issue up to a further nominal value of £101,358 (10,135,819 ordinary shares at nominal price of £0.01 per share), which is equivalent to approximately 20% of the total issued ordinary share capital of the Company (exclusive of treasury shares) as at the Latest Practicable Date.
+
+The Company currently holds no shares in treasury.
+
+**134 City of London Investment Group PLC Annual Report 2024/2025**
+**EXPLANATORY NOTES TO THE NOTICE OF AGM CONTINUED**
+
+#### Other information
+
+There are no present plans to undertake a rights issue, or to allot new shares. The Directors consider it desirable to have the maximum flexibility permitted by corporate governance guidelines to respond to market developments and to enable allotments to take place to finance business opportunities as they arise. If the resolution is passed, the authority will expire on the earlier of 31st October 2026 or the end of the AGM in 2026.
+
+### Resolution 12: New Long Term Incentive Plan (LTIP)
+
+The Company’s existing long-term incentive arrangement for its employees, including the Executive Directors is the Employee Incentive Plan (EIP). To cater for the performance share award and deferred bonus award aspects envisaged for the Company’s Executive Directors under the proposed Policy (for which shareholder approval is being sought under Resolution 3, the Remuneration Committee has concluded that shareholder authority should be sought under Resolution 12 for a new long-term incentive arrangement, the City of London Investment Group PLC Long Term Incentive Plan (the LTIP). The rules of the LTIP also provide scope for restricted share awards. No new awards will be made under the EIP to Executive Directors further to the adoption of the LTIP. The terms of awards granted under the LTIP to the Company’s Executive Directors shall necessarily align with applicable shareholder approved Directors’ Remuneration Policy. A summary of the principal terms of the LTIP is set out in the Appendix to the Notice.
+
+### Resolution 13: Employee Benefit Trust (EBT)
+
+with applicable shareholder approved Directors’ Remuneration Policy. A summary of the principal terms of the LTIP is set out in the Appendix to the Notice.
+
+### Resolution 13: Employee Benefit Trust (EBT)
+
+In accordance with the Investment Association’s Principles of Remuneration, the prior approval of shareholders should be obtained before 5% or more of the Company’s issued share capital is held on behalf of the EBT. Your Board of Directors therefore seeks the approval of shareholders by ordinary resolution to permit the trustees of the EBT to hold a maximum of 10% of the Company’s issued ordinary share capital from time to time. Your Directors believe that granting such approval would be in the best interests of shareholders because it will offer the opportunity to align more closely the interests of employees and shareholders, will extend the Company’s opportunities with respect to attracting new talent and will promote confidence in the stability of the Company’s investment process from a client perspective.
+
+### Resolutions 14 and 15: Disapplication of pre-emption rights
+
+If the Directors wish to allot new shares and other equity securities, or sell treasury shares, for cash (other than in connection with an employee share scheme), company law requires that these shares are offered first to shareholders in proportion to their existing holdings.
+
+Resolution 14 deals with the authority of the Directors to allot new shares or other equity securities pursuant to the authority given by resolution 11, or sell treasury shares, for cash without the shares or other equity securities first being offered to shareholders in proportion to their existing holdings. Such authority shall only be used in connection with a pre-emptive offer or, otherwise, up to an aggregate nominal amount of £50,679 (5,067,909 ordinary shares at nominal price of £0.01 per share), being approximately 10% of the total issued ordinary share capital of the Company as at the Latest Practicable Date. The Company does not hold any treasury shares as at the Latest Practicable Date.
+
+The Pre-emption Group Statement of Principles supports the annual disapplication of pre-emption rights in respect of allotments of shares and other equity securities (and sales of treasury shares for cash) representing no more than an additional 10% of issued ordinary share capital (exclusive of treasury shares), to be used only in connection with an acquisition or specified capital investment. The Pre-emption Group Statement of Principles defines ‘specified capital investment’ as meaning one or more specific capital investment related uses for the proceeds of an issuance of equity securities, in respect of which sufficient information regarding the effect of the transaction on the company, the assets the subject of the transaction and (where appropriate) the profits attributable to them is made available to shareholders to enable them to reach an assessment of the potential return.
+
+Accordingly, and in line with the template resolutions published by the Pre-emption Group, resolution 15 seeks to authorise the Directors to allot new shares and other equity securities pursuant to the authority given by resolution 11, or sell treasury shares, for cash up to a further nominal amount of £50,679 (5,067,909 ordinary shares at nominal price of £0.01 per share), being approximately 10% of the total issued Ordinary Share capital of the Company as at the Latest Practicable Date, only in connection with an acquisition or specified capital investment which is announced contemporaneously with the allotment, or which has taken place in the preceding twelve-month period and is disclosed in the announcement of the issue.
+
+If the authority given in resolution 15 is used, the Company will publish details of the placing in its next annual report.
+
+If these resolutions are passed, the authorities will expire on 31st October 2026 or at the end of the next AGM, whichever is the earlier.
+
+***
+
+City of London Investment Group PLC
+
+its next annual report. If these resolutions are passed, the authorities will expire on 31st October 2026 or at the end of the next AGM, whichever is the earlier.
+
+---
+City of London Investment Group PLC Annual Report 2024/2025 135
+---
+
+The Board considers the authorities in resolutions 14 and 15 to be appropriate in order to allow the Company flexibility to finance business opportunities or to conduct a rights issue or other pre-emptive offer without the need to comply with the strict requirements of the statutory pre-emption provisions.
+
+### **Resolution 16: Purchase of own shares**
+The effect of resolution 16 is to grant authority to the Company to purchase its own ordinary shares, up to a maximum of 1,520,372 ordinary shares, until the AGM in 2026 or 31st October 2026, whichever is the earlier. This represents 3% of the Company’s ordinary share capital in issue (excluding shares held in treasury) as at the Latest Practicable Date. The Company’s exercise of this authority is subject to the stated upper and lower limits on the price payable.
+
+Pursuant to the 2006 Act, the Company can hold any shares which are repurchased as treasury shares and either re-sell them for cash, cancel them, either immediately or at a point in the future, or use them for the purposes of its employee share schemes. Holding the repurchased shares as treasury shares will give the Company the ability to re-sell or transfer them in the future and will provide the Company with additional flexibility in the management of its capital base. No dividends will be paid on, and no voting rights will be exercised in respect of, treasury shares. Shares held as treasury shares will not automatically be cancelled and will not be taken into account in future calculations of earnings per share (unless they are subsequently re-sold or transferred out of treasury).
+
+The Directors consider it desirable and in the Company’s interests for shareholders to grant this authority. The Directors have no present intention to exercise this authority and will only do so if and when conditions are favourable with a view to enhancing net asset value per share. The Company will not, save in accordance with a predetermined, irrevocable and non-discretionary programme, repurchase shares in the period immediately preceding the preliminary announcement of its annual or interim results as dictated by the UK Listing Rules or Market Abuse Regulation (as applicable in the UK) (UK MAR) or, if shorter, between the end of the financial period concerned and the time of a relevant announcement or, except in accordance with the Listing Rules and UK MAR, at any other time when the Directors would be prohibited from dealing in shares.
+
+**Strategic report** | **Overview** | **Financial statements** | **Governance** | **Shareholder information**
+
+## FURTHER NOTES
+
+---
+136 City of London Investment Group PLC Annual Report 2024/2025
+---
+
+## Other information
+
+### Entitlement to attend and vote
+1. Only those shareholders registered in the Company’s register of members as at close of business on 23rd October 2025, or, if this meeting is adjourned, at close of business on the day which is two business days prior to the adjourned meeting, shall be entitled to attend and vote at the meeting. Changes to the register of members after the relevant deadline shall be disregarded in determining the rights of any person to attend and vote at the meeting.
+
+### Entry to the AGM, security arrangements and conduct of proceedings
+2. If any shareholders or their proxies intend to attend the meeting in person, we request that they advise the Company at least 48 hours in advance of the meeting by email to investorrelations@citlon.co.uk. Our website, www.clig.co.uk, contains the latest information for shareholders and will be updated before the AGM should there be any changes to the arrangements set out above. Where appropriate, we will notify shareholders of the change via a Regulatory Information Service announcement as early as is possible before the date of the meeting.
+
+Website giving
+
+set out above. Where appropriate, we will notify shareholders of the change via a Regulatory Information Service announcement as early as is possible before the date of the meeting.
+
+### Website giving information regarding the meeting
+
+3. A copy of this Notice of AGM and other information regarding the meeting, including the information required by section 311A of the 2006 Act, can be found at [www.clig.co.uk](http://www.clig.co.uk). Shareholders may not use any electronic address provided in either this Notice of AGM or any related documents (including the Proxy Form) to communicate with the Company for any purposes other than those expressly stated.
+
+### Appointment of proxies
+
+4. Hard copy Proxy Forms are not being issued this year to save paper, however shareholders can request a hard copy directly from the registrar, MUFG Corporate Markets, on +44 (0)371 664 0300. Calls are charged at the standard geographic rate and will vary by provider. Calls from outside the United Kingdom will be charged at the applicable international rate. Lines are open between 09:00 – 17:30, Monday to Friday, excluding public holidays in England and Wales. Alternatively, you can email MUFG Corporate Markets at [shareholderenquiries@cm.mpms.mufg.com](mailto:shareholderenquiries@cm.mpms.mufg.com).
+
+5. Although shareholders are entitled to appoint another person as their proxy to exercise all or any of their rights to attend and to speak and vote at the AGM, shareholders are encouraged to appoint the Chair of the meeting as their proxy. A proxy need not be a shareholder of the Company. A shareholder may appoint more than one proxy in relation to the AGM provided that each proxy is appointed to exercise the rights attached to a different share or shares held by that shareholder. The appointment of a proxy does not preclude a shareholder from attending and voting in person at the AGM. Unless otherwise indicated on the Form of Proxy, CREST, Proximity or any other electronic voting instruction, the proxy will vote as they think fit or, at their discretion, withhold from voting.
+
+6. In the case of joint holders, any one holder may vote. If more than one holder is present at the meeting, only the vote of the senior will be accepted, seniority being determined in the order in which the names appear on the register. A space has been included in the Proxy Form to allow members to specify the number of shares in respect of which that proxy is appointed. Shareholders who return the Proxy Form duly executed but leave this space blank will be deemed to have appointed the proxy in respect of all of their shares. Where appointing multiple proxies, shareholders should indicate on each Proxy Form the name of the proxy they wish to appoint and the number of Ordinary Shares in respect of which the proxy is appointed. All Proxy Forms should be returned together.
+
+7. To appoint a proxy, either:
+   (a) deposit the Proxy Forms, and any power of attorney or other authority under which it is executed (or a duly certified copy of any such power or authority), with the Company’s Registrar, MUFG Corporate Markets, PXS 1, Central Square, 29 Wellington Street, Leeds, LS1 4DL; or
+   (b) lodge the proxy appointment using the CREST Proxy Voting Service in accordance with note 12 below; or
+   (c) electronically via the Investor Centre app or web browser at [https://uk.investorcentre.mpms.mufg.com/](https://uk.investorcentre.mpms.mufg.com/), in accordance with note 10 below; or
+   (d) If you are an institutional investor you may also be able to appoint a proxy electronically via the Proxymity platform, in accordance with note 16 below,
+   in each case so as to be received no later than 48 hours (excluding non-working days) before the time of the holding of the AGM or any adjournment thereof. Please note that all Proxy Forms and appointments, whether postal or electronic, must be received by 11:30am on 23th October 2025.
+
+### Corporate representatives
+
+8. A corporation that is a shareholder can appoint one or more corporate representatives who may exercise, on its behalf, all its powers as a shareholder provided that no more than
+
+8.  **representatives**
+    A corporation that is a shareholder can appoint one or more corporate representatives who may exercise, on its behalf, all its powers as a shareholder provided that no more than one corporate representative exercises powers over the same share. Corporate shareholders are encouraged to complete and return a Proxy Form appointing the Chair of the meeting to ensure their votes are included in the poll.
+
+9.  **Nominated persons**
+    The right to appoint a proxy does not apply to persons whose shares are held on their behalf by another person and who have been nominated to receive communications from the Company in accordance with section 146 of the 2006 Act (Nominated Persons). Nominated Persons may have a right under an agreement with the member who holds the shares on their behalf to be appointed (or to have someone else appointed) as a proxy. Alternatively, if Nominated Persons do not have such a right, or do not wish to exercise it, they may have a right under such an agreement to give instructions to the person holding the shares as to the exercise of voting rights.
+
+***
+
+*City of London Investment Group PLC Annual Report 2024/2025 137*
+
+**Strategic report | Overview | Financial statements | Governance | Shareholder information**
+
+***
+
+10. **Online Voting via the Investor Centre**
+    Shareholders can vote electronically via the Investor Centre, a free app for smartphone and tablet provided by MUFG Corporate Markets (the company's registrar). It allows you to securely manage and monitor your shareholdings in real time, take part in online voting, keep your details up to date, access a range of information including payment history and much more. The app is available to download on both the Apple App Store and Google Play, or by scanning the relevant QR code below. Alternatively, you may access the Investor Centre via a web browser at: <https://uk.investorcentre.mpms.mufg.com/>;
+
+11. **Directors’ interests**
+    The interests of the Directors in the Ordinary Shares of the Company are shown on page 72 of the Annual Report and Accounts. There have been no changes to the Directors’ Interests between 30th June 2025 and 14th September 2025.
+
+12. **Total voting rights**
+    The total number of issued ordinary shares in the Company on the Latest Practicable Date, is 50,679,095. As described in note 21, the Controlling Shareholder Group’s voting is capped at the lower of (i) the number of shares held by them; and (ii) 24.99% of the votes cast on any resolution by all shareholders. Therefore, the total number of votes exercisable as at the Latest Practicable Date is 42,039,568.
+
+13. **CREST proxy instructions**
+    CREST members who wish to appoint a proxy or proxies through the CREST electronic proxy appointment service may do so for the meeting (and any adjournments thereof) by following the procedures described in the CREST Manual (available via [www.euroclear.com](http://www.euroclear.com)). CREST Personal Members or other CREST sponsored members (and those CREST members who have appointed a voting service provider) should refer to their CREST sponsor or voting service provider, who will be able to take the appropriate action on their behalf.
+
+14. In order for a proxy appointment or instruction made by means of CREST to be valid, the appropriate CREST message (a CREST Proxy Instruction) must be properly authenticated in accordance with Euroclear’s specifications and must contain the information required for such instructions, as described in the CREST Manual. The message (regardless of whether it constitutes the appointment of a proxy or an amendment to the instruction given to a previously appointed proxy) must, in order to be valid, be transmitted so as to be received by the issuer’s agent (ID RA10) by the latest time(s) for receipt of proxy appointments specified in note 7, above. For this purpose, the time of receipt will be taken to be the time (as determined by the timestamp applied to the message by the CREST Applications Host) from which the issuer’s agent is able to retrieve the message by enquiry to
+
+receipt will be taken to be the time (as determined by the timestamp applied to the message by the CREST Applications Host) from which the issuer’s agent is able to retrieve the message by enquiry to CREST in the manner prescribed by CREST. After this time, any change of instructions to proxies appointed through CREST should be communicated to the appointee through other means.
+
+15. CREST members (and, where applicable, their CREST sponsors or voting service providers) should note that Euroclear does not make available special procedures in CREST for any particular messages. Normal system timings and limitations will therefore apply in relation to the input of CREST Proxy Instructions. It is the responsibility of the CREST member concerned to take (or, if the CREST member is a CREST personal member or sponsored member or has appointed a voting service provider, to procure that their CREST sponsor or voting service provider takes) such action as shall be necessary to ensure that a message is transmitted by means of the CREST system by any particular time. In this connection, CREST members (and, where applicable, their CREST sponsors or voting service providers) are referred, in particular, to those sections of the CREST Manual concerning practical limitations of the CREST system and timings. The Company may treat as invalid a CREST Proxy Instruction in the circumstances set out in Regulation 35(5)(a) of the Uncertificated Securities Regulations 2001.
+
+### Proxy appointment via Proxymity
+
+16. If you are an institutional investor you may be able to appoint a proxy electronically via the Proxymity platform. For further information regarding Proxymity, please go to www.proxymity.io. Your proxy must be lodged 48 hours prior to the time appointed for the Meeting in order to be considered valid. Before you can appoint a proxy via this process you will need to have agreed to Proxymity’s associated terms and conditions. It is important that you read these carefully as you will be bound by them and they will govern the electronic appointment of your proxy. An electronic proxy appointment via the Proxymity platform may be revoked completely by sending an authenticated message via the platform instructing the removal of your proxy vote.
+
+### Automatic poll voting
+
+17. Each of the resolutions to be put to the meeting will be voted on by poll and not by show of hands. A poll reflects the number of voting rights exercisable by each member and so the Board considers it a more democratic method of voting. Members and proxies will be asked to complete a poll card to indicate how they wish to cast their votes. These cards will be collected at the end of the meeting. The results of the poll will be published on the Company’s website and notified to the London Stock Exchange once the votes have been counted and verified.
+
+***
+
+138 City of London Investment Group PLC Annual Report 2024/2025
+
+***
+
+## FURTHER NOTES CONTINUED
+
+### Other information
+
+#### Publication of audit concerns
+
+18. Under section 527 of the 2006 Act, members meeting the threshold requirements set out in that section have the right to require the Company to publish, on a website, a statement setting out any matter relating to:
+    (a) the audit of the Company’s accounts (including the auditors’ report and the conduct of the audit) that are to be laid before the AGM; or
+    (b) any circumstance connected with an auditor of the Company ceasing to hold office since the previous meeting at which annual accounts and reports were laid in accordance with section 437 the 2006 Act.
+
+The Company may not require the shareholders requesting any such website publication to pay its expenses in complying with sections 527 or 528 of the 2006 Act. Where the Company is required to place a statement on a website under section 527 of the 2006 Act, it must forward the statement to the Company’s auditor not later than the time when it makes the statement available on the website. The business which may be dealt with at the AGM includes any statement
+
+forward the statement to the Company’s auditor not later than the time when it makes the statement available on the website. The business which may be dealt with at the AGM includes any statement that the Company has been required under section 527 of the 2006 Act to publish on a website.
+
+### Right to request circulation or resolutions
+19. Under section 338 and section 338A of the 2006 Act, members meeting the threshold requirements in those sections have the right to require the Company:
+    (i) to give, to members of the Company entitled to receive notice of the meeting, notice of a resolution which may properly be moved and is intended to be moved at the meeting; and/or
+    (ii) to include in the business to be dealt with at the meeting any matter (other than a proposed resolution) which may be properly included in the business.
+    
+    A resolution may properly be moved or a matter may properly be included in the business unless (a) (in the case of a resolution only) it would, if passed, be ineffective (whether by reason of inconsistency with any enactment or the Company’s constitution or otherwise), (b) it is defamatory of any person, or (c) it is frivolous or vexatious. Such a request may be in hard copy form or in electronic form, must identify the resolution of which notice is to be given or the matter to be included in the business, must be authorised by the person or persons making it, must be received by the Company not later than the date which is six clear weeks before the AGM, and (in the case of a matter to be included in the business only) must be accompanied by a statement setting out the grounds for the request.
+
+### Questions
+20. The Board is always interested in the views of shareholders on the Company’s activities, and we remain committed to engagement with our shareholders. Any shareholder attending the meeting has the right to ask questions. The Company must cause to be answered any such question relating to the business being dealt with at the meeting but no such answer need be given if (a) to do so would interfere unduly with the preparation for the meeting or involve the disclosure of confidential information, or (b) the answer has already been given on a website in the form of an answer to a question, or (c) it is undesirable in the interests of the Company or the good order of the meeting that the question be answered.
+
+### Documents available for inspection
+21. Copies of Directors’ service contracts or letters of appointment are available for inspection at the Company’s registered office during usual business hours on any weekday (Saturdays, Sundays and public holidays excluded) and at the AGM until the end of the meeting. The rules of the City of London Investment Group PLC Long Term Incentive Plan will be available for inspection from the date of this Notice on the national storage mechanism and will also be available for inspection at the place of the Annual General Meeting for at least 15 minutes before and during the AGM.
+
+### Controlling Shareholder Group
+22. Following completion of the merger with KIM, the Company entered into a relationship agreement with the Controlling Shareholder Group which regulates the ongoing relationship between the Company and the Controlling Shareholder Group. The members of the Controlling Shareholder Group agreed to limit their voting rights at any shareholder meeting, including the Annual General Meeting, to the lower of:
+    (i) the number of shares held by them; and
+    (ii) 24.99% of the votes cast on any resolution by all shareholders.
+
+***
+
+*City of London Investment Group PLC Annual Report 2024/2025*
+**139**
+
+***
+
+## APPENDIX
+### SUMMARY OF PRINCIPAL TERMS OF THE CITY OF LONDON INVESTMENT GROUP PLC LONG TERM INCENTIVE PLAN (THE “LTIP”)
+
+#### Other information
+#### Operation and eligibility
+The Remuneration Committee will supervise the operation of the LTIP. Any employee (including an Executive Director) of the Company and its subsidiaries will be eligible to participate in the LTIP at the discretion of and selection by the
+
+the operation of the LTIP. Any employee (including an Executive Director) of the Company and its subsidiaries will be eligible to participate in the LTIP at the discretion of and selection by the Remuneration Committee. The current intention is that LTIP participation (if any) will only be considered for the Company’s Executive Directors. The terms of awards granted under the LTIP to the Company’s Executive Directors shall necessarily align with applicable shareholder approved Directors’ Remuneration Policy.
+
+### Grant of awards
+
+The Remuneration Committee may grant performance share awards and/or restricted share awards and/or deferred bonus awards to acquire ordinary shares in the Company (“Shares”) as conditional share awards or as nil (or nominal) cost options. The Remuneration Committee may also decide to grant cash- based awards of an equivalent value to share-based awards or to satisfy share-based awards in cash, although it does not currently intend to do so.
+
+*   **Performance share awards** are awards that have performance conditions attached.
+*   **Restricted share awards** are award that have underpin conditions attached or no performance related conditions attached.
+*   **Deferred bonus awards** relate to the deferral of a portion of bonus in the form of an award.
+
+The Remuneration Committee may normally grant awards within the period of six weeks following:
+
+1.  the date of adoption of the LTIP;
+2.  the Company’s announcement of its results for any period; or
+3.  the lifting of restrictions on dealing in Shares that prevented grant of awards under (i) or (ii).
+
+The Committee may also grant awards when there are exceptional circumstances which it considers justifies the granting of awards. An award may not be granted more than 10 years after the date on which the LTIP is adopted.
+
+No payment is required for the grant of an award. Awards are not transferable, except on death. Awards are not pensionable.
+
+### Individual limit
+
+An employee may not receive performance share awards or restricted share awards in relation to any financial year in respect of Shares having an aggregate market value in excess of **150%** of their annual base salary in that financial year (or in excess of **200%** of their annual base salary in that financial year at the discretion of the Remuneration Committee in exceptional circumstances).
+
+The number of Shares over which a deferred bonus award is granted shall be such number of Shares as have a market value equivalent to the amount of the employee’s bonus for the financial year which is to be delivered by the grant of the deferred bonus award.
+
+Market value for such purposes shall be based on the market value of Shares on the dealing day immediately preceding the grant of an award (or such other basis (for example using an averaging period) as the Committee determines appropriate).
+
+At the discretion of the Committee recruitment related ‘buyout’ awards may be disregarded for the purposes of the LTIP’s individual limit to such extent (if any) as the Committee considers appropriate.
+
+### Extent of vesting
+
+The extent of vesting of performance share awards shall be subject to performance conditions set by the Remuneration Committee.
+
+The extent of vesting of restricted share awards may be subject to scaling back (or cancellation) on account of underpin conditions set by the Remuneration Committee. Restricted share awards may be granted not subject to any underpin condition at the discretion of the Remuneration Committee.
+
+The Remuneration Committee may vary the performance conditions or underpin conditions applying to existing awards if an event has occurred which causes the Remuneration Committee to determine that it would be appropriate to amend the performance conditions or underpin conditions, provided the Remuneration Committee considers the varied conditions are fair and reasonable and in the case of awards to Executive Directors of the Company not materially less difficult to satisfy than the original conditions would have been but for the
+
+conditions are fair and reasonable and in the case of awards to Executive Directors of the Company not materially less difficult to satisfy than the original conditions would have been but for the event in question. Deferred bonus awards will not be subject to performance conditions or underpins condition but can only be granted in connection with the deferral of bonus.
+
+Strategic reportOverview Financial statementsGovernance Shareholder information 140 City of London Investment Group PLC Annual Report 2024/2025
+
+### Vesting of awards
+
+Awards shall ordinarily vest on such normal vesting date specified for the award or, if later, when the Remuneration Committee determines the extent to which any performance conditions and/or underpin conditions have been satisfied. The normal vesting date in respect of awards to Executive Directors shall not ordinarily be earlier than the third anniversary of the grant of the award.
+
+Where awards are granted in the form of options, once exercisable these will then remain exercisable up until the tenth anniversary of grant (or such shorter period specified by the Remuneration Committee at the time of grant) unless they lapse earlier. Shorter exercise periods shall apply in the case of “good leavers” and/or vesting of awards in connection with corporate events.
+
+### Leaving employment
+
+As a general rule, an award will lapse upon a participant’s termination of employment within the Group. However, if a participant ceases to be an employee of the Group because of death, ill health, injury, disability, redundancy, retirement with the agreement of the Remuneration Committee, their employing company or the business for which they work being sold out of the Group or in other circumstances at the discretion of the Remuneration Committee, then their award will normally vest on the normal timetable.
+
+The extent to which an award will vest in these situations will depend upon two factors:
+
+1.  (i) the extent to which any performance conditions or any underpin conditions (as relevant) have, in the opinion of the Remuneration Committee, been satisfied over the original performance measurement period, and
+2.  (ii) ordinarily pro rating of the award to reflect the period spent in service relative to the normal vesting period.
+
+The Remuneration Committee can decide to pro-rate an award to a lesser extent (including as to nil) if it regards it as appropriate to do so in the circumstances.
+
+Alternatively, in such “good leaver” circumstances specified above (including in the case of a discretionary good leaver), the Remuneration Committee can decide that the participant’s award will vest when they leave, subject to:
+
+1.  (i) any performance conditions/additional conditions measured at that time; and
+2.  (ii) ordinarily pro-rating as described above (including the Remuneration Committee’s discretion as described above in respect of pro-ration).
+
+Any post vesting holding periods applicable to awards will normally continue to apply to a good leaver’s awards, although the Remuneration Committee may choose to relax this requirement at its discretion. The right to exercise already vested but unexercised awards shall be retained for a short period except in the case of misconduct.
+
+### Corporate events
+
+In the event of a takeover or winding up of the Company (not being an internal corporate reorganisation) all awards will vest early subject to:
+
+1.  (i) the extent that any performance conditions or any underpin conditions (as relevant) have been satisfied at that time; and
+2.  (ii) pro-rating of the awards to reflect the period elapsed into the award’s normal vesting period.
+
+The Remuneration Committee can decide to pro-rate an award to a lesser extent (including as to nil) if it regards it as appropriate to do so in the circumstances.
+
+In the event of an internal corporate reorganisation, awards will be replaced by equivalent new awards over shares in a new holding company unless the Committee determines otherwise.
+
+In the event of a demerger, special dividend or event
+
+### reorganisation, 
+awards will be replaced by equivalent new awards over shares in a new holding company unless the Committee determines otherwise. In the event of a demerger, special dividend or event which, in the opinion of the Remuneration Committee, would affect the market price of the Shares to a material extent, the Remuneration Committee may decide that awards shall vest early or be adjusted on such basis as considered appropriate.
+
+### Holding periods 
+The terms of the awards may include that a participant will ordinarily be required to retain their net of tax number of vested Shares (if any) delivered under the LTIP (or the full number of the vested Shares whilst held under an unexercised nil (or nominal) cost option award, where relevant) until the second anniversary of the vesting of the award. Such post vesting holding periods apply in the case of normal policy performance share awards to Executive Directors under proposed Director’s Remuneration Policy.
+
+### Dividend equivalents 
+The Remuneration Committee may decide that participants will receive a payment (in cash and/or Shares) on or shortly following the vesting/exercise of their awards of an amount equivalent to the dividends that would have been paid on the award’s number of vested Shares between the time (or part of the time) when the awards were granted and the time when they vest (or where an award is structured as an option and subject to a holding period, the date of expiry of the holding period or if earlier the exercise of such award). This amount may assume the reinvestment of dividends. Alternatively, participants may have their awards increased as if dividends were paid on the Shares subject to their award and then assumed to be reinvested in further Shares.
+
+***
+### APPENDIX CONTINUED 
+#### Other information 
+**City of London Investment Group PLC Annual Report 2024/2025** `141`
+
+*Strategic reportOverview Financial statementsGovernance Shareholder information*
+***
+
+### Override 
+Notwithstanding any other provision of the LTIP, and irrespective of whether any performance condition or underpin condition attached to an award has been satisfied, the Committee retains discretion under the LTIP to adjust the level of vesting that would otherwise result (for example, that would otherwise result by reference to formulaic outcomes alone). Such discretion would only be used in exceptional circumstances and for example may include regard to corporate and personal performance.
+
+### Malus and clawback 
+The Remuneration Committee may apply the LTIP’s malus and clawback provisions in relation to an award if, at any point prior to the third anniversary of the date of vesting of an performance share award or restricted share award (or at any point prior to the third anniversary of the grant of a deferred bonus award), in the event of material misstatement or misleading representation of performance, calculation errors, a significant failure of risk management and control, serious misconduct, corporate failure, reputational damage or applicable regulatory requirements. The malus and clawback may be satisfied by way of a reduction in the amount of any future bonus, existing award or future share awards and/or a requirement to make a cash payment.
+
+### Participants’ rights 
+Awards will not confer any shareholder rights until the awards have vested or the options have been exercised, as relevant, and the participants have received their Shares.
+
+### Rights attaching to Shares 
+Any Shares allotted will rank equally with Shares then in issue (except for rights arising by reference to a record date prior to their allotment).
+
+### Variation of capital 
+In the event of any variation of the Company’s share capital or in the event of a demerger, payment of a special dividend or similar event which materially affects the market price of the Shares, the Remuneration Committee may make such adjustment as it considers appropriate to the number of Shares subject to an award and/or the exercise price payable (if any).
+
+### Overall dilution limit 
+The LTIP
+
+the Remuneration Committee may make such adjustment as it considers appropriate to the number of Shares subject to an award and/or the exercise price payable (if any).
+
+### Overall dilution limit
+The LTIP may operate over new issue shares, treasury shares or shares purchased in the market. The LTIP has a dilution limit that looks at the number of new issue shares issued (and that may still be potentially issued) in respect of awards granted under the LTIP in a ten year period looking back from the date of the calculation of the dilution percentage. The dilution percentage may not exceed than 10% of the issued ordinary share capital of the Company. Treasury shares will count as new issue shares for the purposes of such limit unless institutional investor guidelines cease to require them to count.
+
+### Amendments
+The Remuneration Committee may, at any time, amend the LTIP in any respect, provided that the prior approval of Shareholders is obtained for any amendments that are to the advantage of participants in respect of the rules governing eligibility, limits on participation, the overall limits on the issue of shares or the transfer of treasury shares (save for amendments pursuant to the aforementioned retained discretion for changes to reflect changes in investor guidelines), the basis for determining a participant’s entitlement to, and the terms of, the shares or cash to be acquired and the adjustment of awards. The requirement to obtain the prior approval of Shareholders will not, however, apply to any minor alteration made to benefit the administration of the LTIP, to take account of a change in legislation or to obtain or maintain favourable tax, exchange control or regulatory treatment for participants or for any company in the Group. Shareholder approval will also not be required for any amendments to any performance condition applying to an award amended in line with its terms.
+
+### Overseas plans
+The shareholder resolutions to approve the LTIP will allow the Board to establish further plans for overseas territories, any such plan to be similar to the LTIP, but modified to take account of local tax, exchange control or securities laws, provided that any shares made available under such further plans are treated as counting against the limits on individual and overall participation in the Plans.
+
+***
+
+## Other information
+
+### COMPANY INFORMATION
+
+#### Financial calendar
+
+| Event | Date |
+| :--- | :--- |
+| Ex-dividend date for the final dividend | 25th September 2025 |
+| Final dividend record date | 26th September 2025 |
+| First quarter FuM announcement | 20th October 2025 |
+| AGM | 27th October 2025 |
+| Final dividend payment | 6th November 2025 |
+| Second quarter FuM announcement | 19th January 2026 |
+| Half year results and interim dividend announcement | 24th February 2026 |
+| Ex-dividend date for the interim dividend | 5th March 2026 |
+| Interim dividend record date | 6th March 2026 |
+| Interim dividend payment | 2nd April 2026 |
+| Third quarter FuM announcement | 20th April 2026 |
+| Year end | 30th June 2026 |
+
+For further information, please visit our website www.clig.co.uk
+
+**Financial adviser and broker**  
+Zeus Capital  
+125 Old Broad Street  
+London EC2N 1AR
+
+**Auditors**  
+Grant Thornton UK LLP  
+8 Finsbury Circus  
+London EC2M 7EA
+
+**Bankers**  
+The Royal Bank of Scotland plc  
+London City Office  
+62-63 Threadneedle Street  
+London EC2R 8LA
+
+**Registrar**  
+MUFG Corporate Markets, a division of MUFG Pension & Market Services (formerly Link Group)
+*   **By phone:** UK – 0371 664 0300 (Calls are charged at the standard geographic rate and will vary by provider. Calls outside the United Kingdom will be charged at the applicable international rate. Lines are open between 09:00 – 17:30, Monday to Friday excluding public holidays in England and Wales).
+*   **By email:** shareholderenquiries@cm.mpms.mufg.com
+
+**Company registered office**  
+City of London Investment Group PLC  
+77 Gracechurch Street  
+London EC3V 0AS
+
+**Company registration number**  
+2685257
+
+**Company Secretary**  
+Prism Cosec Ltd  
+enquiries@prismcosec.com
+
+***
+
+142 City of London Investment Group PLC Annual Report 2024/2025  
+Designed and produced byDesigned and produced
+
+**Registration number**
+2685257
+
+**Company Secretary**
+Prism Cosec Ltd
+[enquiries@prismcosec.com](mailto:enquiries@prismcosec.com)
+
+---
+
+142 City of London Investment Group PLC Annual Report 2024/2025
+
+*Designed and produced byDesigned and produced by*
+*The paper used in this document contains materials sourced from responsibly managed and sustainable commercial forests, certified in accordance with the FSC ® (Forest Stewardship Council ® ).*
+
+---
+
+### CLIG office locations
+
+#### London
+77 Gracechurch Street
+London EC3V 0AS
+United Kingdom
+**Telephone:** + 44 (0) 207 711 0771
+
+#### US
+17 E. Market Street
+West Chester PA 19382
+United States
+**Telephone:** + 1 610 380 2110
+
+#### Karpus Investment Management
+183 Sully’s Trail
+Pittsford NY 14534
+**Telephone:** + 1 866 527 7871
+
+#### Singapore
+20 Collyer Quay #10-04
+Singapore 049319
+**Telephone:** + 65 6236 9136
+
+---
+
+[www.clig.co.uk](https://www.clig.co.uk)
