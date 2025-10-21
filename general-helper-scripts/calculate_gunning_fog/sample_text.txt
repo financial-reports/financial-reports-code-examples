@@ -1,0 +1,7 @@
+This is a simple sentence. This is a slightly longer sentence for testing purposes.
+
+This script calculates the Gunning fog index. This index is a readability test for English writing. The index estimates the years of formal education a person needs to understand the text on the first reading.
+
+A lower score indicates easier readability. A score around 12 is considered ideal for most general-purpose writing. Scores above 17 are very difficult.
+
+This particular implementation is not overly complicated. It parses text quantitatively to determine sentence length and identify complex polysyllabic words, which are fundamental components of the calculation. This provides a comprehensive readability approximation.
