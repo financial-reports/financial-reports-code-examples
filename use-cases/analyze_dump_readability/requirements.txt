@@ -1,0 +1,15 @@
+# For data manipulation and reading from SQL
+pandas
+sqlalchemy
+
+# NLTK is a dependency of the imported gunning_fog utility
+nltk
+
+# For displaying a progress bar during processing
+tqdm
+
+# For data visualization (plotting a histogram)
+matplotlib
+
+# Required for running the .ipynb file
+notebook

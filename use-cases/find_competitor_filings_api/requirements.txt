@@ -1,0 +1,8 @@
+# The official, auto-generated Python client for the FinancialReports API
+financial-reports-generated-client
+
+# Pandas is used for data manipulation and displaying results in a clean table.
+pandas
+
+# Required for running the .ipynb file
+notebook

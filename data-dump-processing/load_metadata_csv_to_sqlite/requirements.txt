@@ -1,0 +1,6 @@
+# Core libraries for data handling and database interaction
+pandas
+sqlalchemy
+
+# Used for displaying a user-friendly progress bar
+tqdm

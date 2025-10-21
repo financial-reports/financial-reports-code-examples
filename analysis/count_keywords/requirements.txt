@@ -1,0 +1,5 @@
+# Pandas is used for data manipulation and displaying results in a clean table.
+pandas
+
+# Required for running the .ipynb file
+notebook

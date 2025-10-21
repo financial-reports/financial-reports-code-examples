@@ -1,0 +1,5 @@
+# NLTK is the Natural Language Toolkit, used for accurate sentence and word tokenization.
+nltk
+
+# Required for running the .ipynb file
+notebook
