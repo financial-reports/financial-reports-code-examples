@@ -1,0 +1,5 @@
+financial-reports-generated-client
+google-genai
+python-dotenv
+jupyter
+requests
