@@ -1,6 +1,2 @@
-langchain-google-genai
-langchain-openai
-langchain-anthropic
-langchain-text-splitters
-langchain-core
+google-genai
 python-dotenv

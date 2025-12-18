@@ -1,87 +1,63 @@
-# Example: Enrich Markdown with AI
+# **Example: Enrich Markdown with AI (Gemini 2.5)**
 
-This script demonstrates how to use a Large Language Model (LLM) to "enrich" or "beautify" the standard, NLP-optimized Markdown file available from the FinancialReports API.
+This script demonstrates how to use **Google Gemini 2.5 Flash** to "beautify" or "enrich" the standard markdown files available from the FinancialReports API.
 
-The standard API output is designed for machine readability. This script post-processes that text to add back rich formatting, such as tables, headings, and lists, making it suitable for human review or presentation.
+The standard API output is optimized for NLP and machine readability. This script post-processes that text to restore rich formatting—such as proper tables, hierarchical headings, and clean lists—making it suitable for human review or presentation.
 
-## Setup
+## **Why Gemini 2.5 Flash?**
 
-1.  Create a virtual environment (recommended).
-2.  Install the required Python packages:
-    ```bash
-    pip install -r requirements.txt
-    ```
+Unlike older methods that required splitting large documents into small chunks (which often broke table contexts or section continuity), **Gemini 2.5 Flash** features a context window large enough (1M+ tokens) to process entire Annual Reports (10-Ks) in a **single pass**.
 
-## Authentication
+This approach ensures:
 
-This script is client-side and **does not** use your `FR_API_KEY`. It requires an API key from an LLM provider (e.g., Google, OpenAI).
+* **Consistency:** Table column widths and formatting styles remain consistent across the whole document.  
+* **Simplicity:** No complex threading or merging logic is required.  
+* **Context:** The AI understands the full document structure, improving header hierarchy accuracy.
 
-Set the appropriate key as an environment variable *before* running the script.
+## **Setup**
 
-**For Google Gemini (Default):**
+1. **Create a virtual environment (recommended):**  
+   python \-m venv venv  
+   source venv/bin/activate  \# On Windows: venv\\Scripts\\activate
 
-Get a key from [Google AI Studio](https://aistudio.google.com/app/apikey) and set it:
-```bash
-# On macOS / Linux
-export GOOGLE_API_KEY="your_api_key_here"
-```
+2. **Install the required Python packages:**  
+   pip install \-r requirements.txt
 
-**For OpenAI:**
+## **Authentication**
 
-```bash
-# On macOS / Linux
-export OPENAI_API_KEY="your_api_key_here"
-```
+This script is client-side and **does not** use your FR\_API\_KEY. It requires an API key from Google.
 
-**For Anthropic:**
+1. Get a key from [Google AI Studio](https://aistudio.google.com/app/apikey).  
+2. Set it as an environment variable before running the script:
 
-```bash
-# On macOS / Linux
-export ANTHROPIC_API_KEY="your_api_key_here"
-```
+**macOS / Linux:**
 
-## Run
+export GOOGLE\_API\_KEY="your\_api\_key\_here"
 
-The script takes two required arguments:
-1.  `--input-file`: The path to the standard `report.md` file you've fetched from our API.
-2.  `--output-file`: The path to save the new, enriched file.
+**Windows (PowerShell):**
 
-It also accepts an optional `--model` argument to choose the provider.
+$env:GOOGLE\_API\_KEY="your\_api\_key\_here"
 
-**Example using Google Gemini (Default):**
+## **Usage**
 
-```bash
-python enrich_markdown.py \
-  --input-file city_of_london_standard.md \
-  --output-file city_of_london_enriched.md
-```
+The script accepts two arguments:
 
-**Example using OpenAI:**
+* \--input-file: The path to the raw .md file (fetched from the FinancialReports API).  
+* \--output-file: The path where you want to save the enriched markdown.
 
-```bash
-python enrich_markdown.py \
-  --model openai \
-  --input-file city_of_london_standard.md \
-  --output-file city_of_london_enriched_openai.md
-```
+**Run command:**
 
-## Expected Output
+python enrich\_markdown.py \\  
+  \--input-file city\_of\_london\_raw.md \\  
+  \--output-file city\_of\_london\_enriched.md
 
-The script will process the file in parallel chunks and save the result.
+## **Expected Output**
 
-```
-Using gemini provider...
---- 1. Reading content from 'city_of_london_standard.md' ---
---- 2. Document split into 116 physical chunks ---
---- 3. Processing all 116 chunks in parallel... ---
---- Processing chunk 1... ---
---- Processing chunk 2... ---
---- Processing chunk 5... ---
-...
---- Processing chunk 115... ---
---- Processing chunk 116... ---
---- 4. All chunks processed. Merging... ---
---- 5. Successfully saved enriched output to 'city_of_london_enriched.md' ---
+You will see logs indicating the size of the file and the processing time. Note that processing a full 10-K may take 1-4 minutes depending on the complexity of the tables.
 
---- 6. Process Complete ---
-```
+\--- Reading content from 'city\_of\_london\_raw.md' \---  
+\--- Input Size: 745,916 characters \---  
+\--- Sending to gemini-2.5-flash... (This may take 1-4 minutes for large filings) \---  
+\--- Processing Complete in 210.4 seconds \---  
+\--- Success\! Saved to 'city\_of\_london\_enriched.md' \---  
+

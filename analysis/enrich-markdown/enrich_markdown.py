@@ -1,153 +1,91 @@
 import os
 import sys
 import argparse
-import concurrent.futures
+import time
 from dotenv import load_dotenv
-from langchain_text_splitters import RecursiveCharacterTextSplitter
-from langchain_core.messages import SystemMessage, HumanMessage
-from langchain_core.output_parsers import StrOutputParser
+from google import genai
+from google.genai import types
 
-# --- Model Imports ---
-from langchain_google_genai import ChatGoogleGenerativeAI
-from langchain_openai import ChatOpenAI
-from langchain_anthropic import ChatAnthropic
+# --- Configuration ---
+# We use Gemini 2.5 Flash for its balance of speed, cost, and massive context window.
+MODEL_ID = "gemini-2.5-flash"
 
-def get_model_chain(provider="gemini"):
-    """
-    Factory function to get the model and output parser chain
-    based on the selected provider.
-    """
-    if provider == "gemini":
-        if not os.getenv("GOOGLE_API_KEY"):
-            print("Error: GOOGLE_API_KEY not found in environment variables.", file=sys.stderr)
-            sys.exit(1)
-        model = ChatGoogleGenerativeAI(model="models/gemini-pro-latest", temperature=0)
-    
-    elif provider == "openai":
-        if not os.getenv("OPENAI_API_KEY"):
-            print("Error: OPENAI_API_KEY not found in environment variables.", file=sys.stderr)
-            sys.exit(1)
-        model = ChatOpenAI(model="gpt-4o", temperature=0)
-        
-    elif provider == "anthropic":
-        if not os.getenv("ANTHROPIC_API_KEY"):
-            print("Error: ANTHROPIC_API_KEY not found in environment variables.", file=sys.stderr)
-            sys.exit(1)
-        model = ChatAnthropic(model="claude-3-opus-20240229", temperature=0)
-        
-    else:
-        print(f"Error: Unknown model provider '{provider}'", file=sys.stderr)
-        sys.exit(1)
-
-    output_parser = StrOutputParser()
-    return model | output_parser
-
-# --- System Prompt ---
-system_prompt = """
-Please convert the following text into beautifully structured markdown. 
-Do not edit the text itself and keep it as the original.
-Please return the full document without ommitting elements. 
-Do not return anything except the perfectly structured markdown.
-"""
-
-# --- Processing Function (for each thread) ---
-def process_chunk(chunk_text: str, chunk_index: int, chain) -> str:
-    """
-    Sends a single chunk to the LLM chain.
-    """
-    print(f"--- Processing chunk {chunk_index+1}... ---")
-    
-    messages = [
-        SystemMessage(content=system_prompt),
-        HumanMessage(content=f"Here is the document:\n\n{chunk_text}")
-    ]
-    
-    try:
-        result = chain.invoke(messages)
-        return result
-    except Exception as e:
-        print(f"Error on chunk {chunk_index+1}: {e}", file=sys.stderr)
-        return chunk_text # Return original text on failure
-
-# --- Main Concurrent Execution ---
 def main():
-    # --- 1. Load .env and Parse Arguments ---
+    # 1. Load Environment Variables
     load_dotenv()
     
-    parser = argparse.ArgumentParser(description="Enrich standard FinancialReports markdown using an LLM.")
-    parser.add_argument("--input-file", required=True, help="Path to the standard .md file to enrich.")
+    # 2. Parse Arguments
+    parser = argparse.ArgumentParser(
+        description="Enrich FinancialReports markdown using Gemini 2.5 Flash."
+    )
+    parser.add_argument("--input-file", required=True, help="Path to the standard .md file.")
     parser.add_argument("--output-file", required=True, help="Path to save the enriched .md file.")
-    parser.add_argument(
-        "--model", 
-        default="gemini", 
-        choices=["gemini", "openai", "anthropic"],
-        help="The LLM provider to use (default: gemini)."
-    )
-    parser.add_argument(
-        "--chunk-size", 
-        type=int, 
-        default=4000,
-        help="Character chunk size for the text splitter (default: 4000)."
-    )
+    
     args = parser.parse_args()
 
-    # --- 2. Get Model and Chain ---
-    print(f"Using {args.model} provider...")
-    chain = get_model_chain(args.model)
-
-    # --- 3. Read and Split Document ---
-    try:
-        print(f"--- 1. Reading content from '{args.input_file}' ---")
-        with open(args.input_file, 'r') as f:
-            input_content = f.read()
-    except FileNotFoundError:
-        print(f"Error: Input file not found at '{args.input_file}'", file=sys.stderr)
-        sys.exit(1)
-    except Exception as e:
-        print(f"Error reading file: {e}", file=sys.stderr)
+    # 3. Validation
+    api_key = os.getenv("GOOGLE_API_KEY")
+    if not api_key:
+        print("Error: GOOGLE_API_KEY not found in environment variables.", file=sys.stderr)
         sys.exit(1)
 
-    text_splitter = RecursiveCharacterTextSplitter(
-        chunk_size=args.chunk_size,
-        chunk_overlap=200,
-        separators=["\n\n\n", "\n\n", "\n", " ", ""]
-    )
-    chunks = text_splitter.split_text(input_content)
+    if not os.path.exists(args.input_file):
+        print(f"Error: Input file '{args.input_file}' not found.", file=sys.stderr)
+        sys.exit(1)
+
+    # 4. Read Content
+    print(f"--- Reading content from '{args.input_file}' ---")
+    with open(args.input_file, 'r', encoding='utf-8') as f:
+        raw_markdown = f.read()
+
+    print(f"--- Input Size: {len(raw_markdown):,} characters ---")
+
+    # 5. Initialize Client
+    client = genai.Client(api_key=api_key)
+
+    # 6. Define Prompt
+    system_instruction = """
+    You are an expert financial document formatter. 
+    Your task is to take the provided raw text (which is a 10-K filing converted from HTML/PDF) and format it into perfect, readable Markdown.
     
-    print(f"--- 2. Document split into {len(chunks)} physical chunks ---")
+    Rules:
+    1. Do NOT summarize. Do NOT omit any text. Keep the content exactly as is.
+    2. Format financial tables using Markdown tables. Ensure headers align correctly.
+    3. Use proper # H1, ## H2, ### H3 tags for headers based on the document structure.
+    4. Fix broken line breaks inside paragraphs.
+    5. Return ONLY the markdown.
+    """
 
-    enriched_chunks = ["" for _ in chunks] # Pre-allocate list for results
+    config = types.GenerateContentConfig(
+        temperature=0.1,
+        system_instruction=system_instruction
+    )
 
-    # --- 4. Process chunks concurrently ---
-    print(f"--- 3. Processing all {len(chunks)} chunks in parallel... ---")
-    with concurrent.futures.ThreadPoolExecutor() as executor:
-        future_to_chunk = {
-            executor.submit(process_chunk, chunk_text, i, chain): i 
-            for i, chunk_text in enumerate(chunks)
-        }
-        
-        for future in concurrent.futures.as_completed(future_to_chunk):
-            chunk_index = future_to_chunk[future]
-            try:
-                result = future.result()
-                enriched_chunks[chunk_index] = result # Store result in correct order
-            except Exception as e:
-                print(f"Chunk {chunk_index+1} generated an exception: {e}", file=sys.stderr)
-                enriched_chunks[chunk_index] = chunks[chunk_index] # Fallback
-
-    # --- 5. Merge and Save ---
-    print("--- 4. All chunks processed. Merging... ---")
-    final_content = "\n\n".join(enriched_chunks)
-
+    # 7. Generate
+    print(f"--- Sending to {MODEL_ID}... (This may take 1-4 minutes for large filings) ---")
+    start_time = time.time()
+    
     try:
-        with open(args.output_file, 'w') as f:
-            f.write(final_content)
-        print(f"--- 5. Successfully saved enriched output to '{args.output_file}' ---")
+        response = client.models.generate_content(
+            model=MODEL_ID,
+            contents=raw_markdown,
+            config=config
+        )
     except Exception as e:
-        print(f"Error writing to output file: {e}", file=sys.stderr)
+        print(f"Error calling Gemini API: {e}", file=sys.stderr)
         sys.exit(1)
 
-    print("\n--- 6. Process Complete ---")
+    elapsed = time.time() - start_time
+    print(f"--- Processing Complete in {elapsed:.1f} seconds ---")
+
+    # 8. Save
+    try:
+        with open(args.output_file, 'w', encoding='utf-8') as f:
+            f.write(response.text)
+        print(f"--- Success! Saved to '{args.output_file}' ---")
+    except Exception as e:
+        print(f"Error saving file: {e}", file=sys.stderr)
+        sys.exit(1)
 
 if __name__ == "__main__":
     main()
