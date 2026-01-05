@@ -2,3 +2,5 @@ financial-reports-generated-client>=1.0.0
 google-genai>=0.7.0
 pandas>=2.0.0
 python-dotenv>=1.0.0
+aiohttp>=3.9.0
+certifi>=2024.0.0
