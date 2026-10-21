@@ -2,7 +2,7 @@
 
 This example provides a command-line script to analyze the sentiment of a local text or markdown file regarding a specific topic.
 
-It is intended for users who have local filing data, such as from a **FinancialReports Data Dump**, and want to perform advanced analysis.
+It is intended for users who have local filing data, such as from a **FinancialFilings Data Dump**, and want to perform advanced analysis.
 
 The script uses the Google Gemini API with a strict JSON schema to return a 5-point sentiment score, a rationale, and supporting evidence.
 

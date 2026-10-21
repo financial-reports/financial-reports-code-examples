@@ -13,7 +13,7 @@ The script is interactive. You can list all top-level sections and then "drill d
 
 ## Authentication
 
-This script requires your FinancialReports API key. Set it as an environment variable.
+This script requires your FinancialFilings API key. Set it as an environment variable.
 
 ```bash
 # On macOS / Linux

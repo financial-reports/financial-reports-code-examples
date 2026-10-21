@@ -2,7 +2,7 @@
 
 This use-case notebook demonstrates how to solve a common problem for financial analysts: converting unstructured insider trade filings (also known as Directors' Dealings or DIRS) into clean, structured, and analyzable data.
 
-We will use the FinancialReports API to find the filings and Google's Gemini Flash (`gemini-flash-latest`) AI model to perform the data extraction.
+We will use the FinancialFilings API to find the filings and Google's Gemini Flash (`gemini-flash-latest`) AI model to perform the data extraction.
 
 ## Goal
 
@@ -14,7 +14,7 @@ This workflow is ideal for clients who need structured data from DIRS filings bu
 
 This notebook provides a complete, end-to-end workflow:
 
-1.  **Find Filings**: How to use the FinancialReports API to find all filings of type `DIRS` for a specific company ISIN.
+1.  **Find Filings**: How to use the FinancialFilings API to find all filings of type `DIRS` for a specific company ISIN.
 2.  **Fetch Content**: How to retrieve the full, clean markdown content for each of those filings.
 3.  **Define Schema**: How to define a rigid JSON schema that tells the AI *exactly* what data to extract (e.g., person, position, transaction type, price, currency, volume).
 4.  **Extract with AI**: How to use Google's Gemini Flash model in "JSON Mode" to parse the markdown and return data that perfectly matches our schema.
@@ -32,7 +32,7 @@ pip install -r requirements.txt
 
 ### 2. Set Environment Variables
 
-This notebook requires API keys for both FinancialReports and the Google Gemini service. For security and best practices, these should be set as environment variables, not hardcoded in the notebook.
+This notebook requires API keys for both FinancialFilings and the Google Gemini service. For security and best practices, these should be set as environment variables, not hardcoded in the notebook.
 
 You can set them in your terminal:
 

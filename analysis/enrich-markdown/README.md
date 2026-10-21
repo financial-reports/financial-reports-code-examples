@@ -1,6 +1,6 @@
 # **Example: Enrich Markdown with AI (Gemini 2.5)**
 
-This script demonstrates how to use **Google Gemini 2.5 Flash** to "beautify" or "enrich" the standard markdown files available from the FinancialReports API.
+This script demonstrates how to use **Google Gemini 2.5 Flash** to "beautify" or "enrich" the standard markdown files available from the FinancialFilings API.
 
 The standard API output is optimized for NLP and machine readability. This script post-processes that text to restore rich formatting—such as proper tables, hierarchical headings, and clean lists—making it suitable for human review or presentation.
 
@@ -44,7 +44,7 @@ $env:GOOGLE\_API\_KEY="your\_api\_key\_here"
 
 The script accepts two arguments:
 ```
-* \--input-file: The path to the raw .md file (fetched from the FinancialReports API).  
+* \--input-file: The path to the raw .md file (fetched from the FinancialFilings API).  
 * \--output-file: The path where you want to save the enriched markdown.
 ```
 **Run command:**

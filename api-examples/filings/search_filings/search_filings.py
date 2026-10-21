@@ -7,7 +7,7 @@ from financial_reports_generated_client.exceptions import ApiException, Unauthor
 
 def search_filings(isin: str, start_date: str):
     """
-    Connects to the FinancialReports API and searches for filings based on
+    Connects to the FinancialFilings API and searches for filings based on
     a company ISIN and a release start date.
     """
     
@@ -79,7 +79,7 @@ def search_filings(isin: str, start_date: str):
 if __name__ == "__main__":
     # Use argparse to accept command-line arguments
     parser = argparse.ArgumentParser(
-        description="Search FinancialReports filings by ISIN and start date."
+        description="Search FinancialFilings filings by ISIN and start date."
     )
     parser.add_argument(
         "--isin",

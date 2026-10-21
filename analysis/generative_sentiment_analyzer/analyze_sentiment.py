@@ -1,5 +1,5 @@
 """
-FinancialReports Analysis Script: Generative Sentiment Analyzer
+FinancialFilings Analysis Script: Generative Sentiment Analyzer
 
 This script analyzes a local text/markdown file for sentiment regarding a
 specific user-provided question. It uses the Google Gemini API to provide a

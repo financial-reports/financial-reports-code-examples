@@ -2,8 +2,8 @@
 
 This example provides a Jupyter Notebook demonstrating a complete, end-to-end workflow for advanced financial analysis.
 
-It is intended for **FinancialReports API Users** who want to:
-1.  Programmatically find a specific filing (e.g., an annual report) using the FinancialReports API.
+It is intended for **FinancialFilings API Users** who want to:
+1.  Programmatically find a specific filing (e.g., an annual report) using the FinancialFilings API.
 2.  Fetch the full Markdown content of that filing.
 3.  Perform targeted, generative sentiment analysis on that content using the Google Gemini API.
 
@@ -13,10 +13,10 @@ This workflow shows how to combine our data with a large language model to get s
 
 ### 1. Set Up Your Environment
 
-This script requires API keys for both FinancialReports and Google Gemini.
+This script requires API keys for both FinancialFilings and Google Gemini.
 
 1.  Create a file named `.env` in this directory (`/use-cases/generative_sentiment_analysis_workflow/`).
-2.  Add your keys to this file. Your `FR_API_KEY` is available from your FinancialReports dashboard.
+2.  Add your keys to this file. Your `FR_API_KEY` is available from your FinancialFilings dashboard.
 
     ```ini
     # .env

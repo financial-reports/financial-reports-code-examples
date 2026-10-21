@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This use case is a complete workflow that demonstrates the power of combining different tools in the FinancialReports cookbook. It shows how to go from the raw metadata dump to a valuable analytical insight: the readability of hundreds or thousands of filings.
+This use case is a complete workflow that demonstrates the power of combining different tools in the FinancialFilings cookbook. It shows how to go from the raw metadata dump to a valuable analytical insight: the readability of hundreds or thousands of filings.
 
 This notebook answers the question: **"Now that I've loaded my data into a database, what's a real-world analysis I can perform?"**
 
@@ -10,7 +10,7 @@ This notebook answers the question: **"Now that I've loaded my data into a datab
 
 1.  **Database:** You **must** have already run the `load_metadata_csv_to_sqlite.py` script from the `/data-dump-processing` directory. This notebook requires the output of that script (the `financialreports.db` file).
 2.  **Analysis Script:** This notebook depends on the `utils.py` file located in `/analysis/calculate_gunning_fog/`.
-3.  **Data Dump Files:** To run this on your own data, you will need to download and unzip the actual markdown filings from a FinancialReports data dump. You must update the `DATA_DUMP_MARKDOWN_PATH` variable in the notebook to point to the location of these files.
+3.  **Data Dump Files:** To run this on your own data, you will need to download and unzip the actual markdown filings from a FinancialFilings data dump. You must update the `DATA_DUMP_MARKDOWN_PATH` variable in the notebook to point to the location of these files.
 
 ## How to Run
 

@@ -120,7 +120,7 @@ def load_csv_to_sqlite(
 def main():
     """Main function to parse arguments and run the ETL process."""
     parser = argparse.ArgumentParser(
-        description="Load FinancialReports metadata from a CSV file into a SQLite database.",
+        description="Load FinancialFilings metadata from a CSV file into a SQLite database.",
         formatter_class=argparse.ArgumentDefaultsHelpFormatter,
     )
     parser.add_argument(

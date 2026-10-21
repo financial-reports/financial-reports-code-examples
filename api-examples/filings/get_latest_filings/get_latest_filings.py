@@ -6,7 +6,7 @@ from financial_reports_generated_client.exceptions import ApiException, Unauthor
 
 def get_latest_filings():
     """
-    Connects to the FinancialReports API and fetches the 5 most recent filings.
+    Connects to the FinancialFilings API and fetches the 5 most recent filings.
     """
     
     # 1. Get API Key from environment variable (as per our contribution guidelines)
