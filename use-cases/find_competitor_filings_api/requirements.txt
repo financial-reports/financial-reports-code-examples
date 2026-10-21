@@ -1,4 +1,4 @@
-# The official, auto-generated Python client for the FinancialReports API
+# The official, auto-generated Python client for the FinancialFilings API
 financial-reports-generated-client
 
 # Pandas is used for data manipulation and displaying results in a clean table.

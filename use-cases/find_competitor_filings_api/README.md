@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This use case demonstrates how to solve a real-world financial analysis problem by intelligently chaining multiple calls to the FinancialReports API. It shows a user how to go beyond simple, single-endpoint queries to build a more powerful and insightful script.
+This use case demonstrates how to solve a real-world financial analysis problem by intelligently chaining multiple calls to the FinancialFilings API. It shows a user how to go beyond simple, single-endpoint queries to build a more powerful and insightful script.
 
 The workflow performs the following steps:
 1.  Identifies a company by its ISIN.
@@ -12,7 +12,7 @@ The workflow performs the following steps:
 
 ## Prerequisites
 
-1.  **API Key:** You **must** have a valid FinancialReports API key.
+1.  **API Key:** You **must** have a valid FinancialFilings API key.
 2.  **Environment Variable:** You must set the `FR_API_KEY` environment variable. See the main `README.md` in the repository root for instructions.
 
 ## How to Run

@@ -6,7 +6,7 @@ from financial_reports_generated_client.exceptions import ApiException, Unauthor
 
 def list_all_filing_types():
     """
-    Connects to the FinancialReports API and retrieves a complete,
+    Connects to the FinancialFilings API and retrieves a complete,
     paginated list of all available filing types.
     """
     

@@ -13,7 +13,7 @@ It uses the `GET /companies/` endpoint with the `isin` filter and the `view=full
 
 ## Authentication
 
-This script requires your FinancialReports API key. Set it as an environment variable.
+This script requires your FinancialFilings API key. Set it as an environment variable.
 
 ```bash
 # On macOS / Linux

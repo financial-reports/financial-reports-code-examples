@@ -1,6 +1,6 @@
 # Example: Get Latest Filings
 
-This script demonstrates how to use the FinancialReports Python SDK to connect to the API and fetch the 5 most recent filings.
+This script demonstrates how to use the FinancialFilings Python SDK to connect to the API and fetch the 5 most recent filings.
 
 It uses the `GET /filings/` endpoint, sorted by `release_datetime` in descending order.
 
@@ -13,7 +13,7 @@ It uses the `GET /filings/` endpoint, sorted by `release_datetime` in descending
 
 ## Authentication
 
-This script requires your FinancialReports API key. Set it as an environment variable.
+This script requires your FinancialFilings API key. Set it as an environment variable.
 
 ```bash
 # On macOS / Linux

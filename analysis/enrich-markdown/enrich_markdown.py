@@ -16,7 +16,7 @@ def main():
     
     # 2. Parse Arguments
     parser = argparse.ArgumentParser(
-        description="Enrich FinancialReports markdown using Gemini 2.5 Flash."
+        description="Enrich FinancialFilings markdown using Gemini 2.5 Flash."
     )
     parser.add_argument("--input-file", required=True, help="Path to the standard .md file.")
     parser.add_argument("--output-file", required=True, help="Path to save the enriched .md file.")

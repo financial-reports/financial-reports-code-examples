@@ -14,7 +14,7 @@ This is a common "helper" script to see which `alpha_2` codes can be used for fi
 
 ## Authentication
 
-This script requires your FinancialReports API key. Set it as an environment variable.
+This script requires your FinancialFilings API key. Set it as an environment variable.
 
 ```bash
 # On macOS / Linux

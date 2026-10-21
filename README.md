@@ -1,12 +1,12 @@
-![FinancialReports Logo](https://cdn.financialreports.eu/financialreports/static/assets/logo.svg)
-# The FinancialReports Code Cookbook
+![FinancialFilings](https://assets.financialfilings.com/financialreports/static/assets/logo-lockup.svg)
+# The FinancialFilings Code Cookbook
 
-Welcome to the official FinancialReports code cookbook. This repository provides practical, production-ready solutions to accelerate your financial data analysis. Our goal is to help you go from raw data to actionable insights in minutes.
+Welcome to the official FinancialFilings code cookbook. This repository provides practical, production-ready solutions to accelerate your financial data analysis. Our goal is to help you go from raw data to actionable insights in minutes.
 
 This "cookbook" provides clients and developers with scripts and notebooks to accelerate integration with:
 
-1.  **The FinancialReports REST API**
-2.  **FinancialReports Data Dumps**
+1.  **The FinancialFilings REST API**
+2.  **FinancialFilings Data Dumps**
 
 ## How to Use This Cookbook
 
@@ -44,10 +44,10 @@ export FR_API_KEY="your_api_key_here"
 
 ## Links & Support
 
-* **Main Website**: https://financialreports.eu/
-* **API Documentation**: https://docs.financialreports.eu/
+* **Main Website**: https://financialfilings.com/
+* **API Documentation**: https://financialfilings.com/developers/
 * **Python SDK (PyPI)**: https://pypi.org/project/financial-reports-generated-client/
-* **Support**: Contact `support@financialreports.eu` for questions.
+* **Support**: Contact `support@financialfilings.com` for questions.
 
 ## Contributing
 

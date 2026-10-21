@@ -2,7 +2,7 @@
 
 ## Purpose
 
-FinancialReports data dumps often start with a large metadata CSV file containing information about millions of filings. Directly working with a massive CSV file can be slow and inefficient for complex queries.
+FinancialFilings data dumps often start with a large metadata CSV file containing information about millions of filings. Directly working with a massive CSV file can be slow and inefficient for complex queries.
 
 This script solves that problem by loading the entire metadata CSV into a local, high-performance SQLite database. This transforms your flat file into a structured database, allowing you to run complex SQL queries instantly without needing to read the entire CSV each time.
 

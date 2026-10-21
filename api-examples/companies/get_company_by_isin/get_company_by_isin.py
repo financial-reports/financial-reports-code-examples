@@ -8,7 +8,7 @@ from financial_reports_generated_client.exceptions import ApiException, Unauthor
 
 def get_company_by_isin(isin: str):
     """
-    Connects to the FinancialReports API and retrieves the full details
+    Connects to the FinancialFilings API and retrieves the full details
     for a company by its ISIN.
     """
     
